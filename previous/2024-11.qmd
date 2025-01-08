@@ -1,0 +1,19 @@
+---
+title: The Wonders of Water
+date: 2024-11-25
+authors:
+  - name: Gary Mason
+author: Gary Mason
+
+categories: [environment, chemistry]
+title-block-style: default
+---
+
+::: {.img-float}
+![](/posters/2024-11.jpg){width=30% style="float: right; margin: 5px;"}
+:::
+
+
+# Lynn's Review
+
+{{< include /reviews/_2024-11.qmd >}}

@@ -1,0 +1,150 @@
+Kevin Brown, MBE, CPhys, FlnstP was Science at Fishbourne's speaker
+on the 22^nd^ April. How lucky we are that he joined our group in January!
+
+Kevin's presentation on MRI guided Radiotherapy reminded us that
+innovation, passion and dedication are alive and well in England.
+Particularly in Crawley, where Elekta are in the business of
+manufacturing Radiotherapy units. They are the world's second largest
+maker and exporter, delivering to China and the USA.
+
+Kevin's position was clear, from his excellent presentation, and his
+obvious understanding, and demonstration of his desire, to constantly
+improve upon the MR-Linac unit, of which he has been a part since its
+inception. His award of the MBE for services to radiotherapy is
+evidently well deserved.
+
+There is lots of information on the internet, where you can explore in
+more detail, and I add some links below. Here, I attempt to summarise
+the main points from Kevin's talk.
+
+**[Current Cancer Treatment]{.underline}**
+
+There are many predictions and statistics with regards to cancer. I
+found this on the Cancer Research website: "Nearly 1 in 2 people born in
+the UK in 1961 will be diagnosed with some form of cancer during their
+lifetime."
+
+Currently, treatment for cancer involves, surgery, drugs (chemotherapy
+and immunotherapy) and radiotherapy. Surgery is local therapy, drugs are
+systemic, going through the whole body and External Beam Radiotherapy,
+also a local therapy, where radiation is delivered from outside the
+patient.
+
+Since around 2005, the management of uncertainty in external beam
+radiotherapy, is by way of a CT scan. The aim is to target just the
+cancer wherever it is in the body. The CT scan can give a picture of
+where a tumor is, then the Clinical Target Volume (CTV) can be
+determined and a Dose Cloud of radiotherapy administered, so aiming at
+the tumor, with as little healthy tissue as possible being targeted.
+Over time, the size of the Dose Cloud has become smaller and less
+healthy tissue has been affected.
+
+**[Elekta Unity Potential]{.underline}**
+
+The development of the Elekta Unity MR-Linac brings the ability to
+clearly see a tumor in real time, by using Magnetic Resonance Imaging. A
+CT scan can acquire a 3D image of the body whereas an MR can show either
+a 3D data set or continuously acquire a single slice.
+
+The MR has a very strong magnetic field of 1.5 Tesla. The gradient
+magnet applies a linear change to modify the spin of protons in the
+body. A radio frequency matched to that of the protons is applied to the
+target location. The protons line up to the magnet, and the RF pulse
+they emit as they decay back to their equilibrium state is detected. The
+timing of the gradient and RF pulses determine what is seen. Quantum
+spin plays its part here; protons are in hydrogen in water. Hydrogen has
+a spin of ½ and interacts with electromagnetic fields. Understanding
+spin is a whole different story! The main point is that MR has a vivid
+visual impact. It can also be used in real time cine acquisition, so
+tracking a moving target. I have added a YouTube video explaining MRI
+below.
+
+The Unity MR-Linac now opens the possibility of knowing exactly the
+location, shape, size of a tumor each time a patient needs treatment.
+This means that a more individual, exact way of targeting and dosing can
+occur. Using a CT scan to locate a tumor, the target area may be marked
+with small tattoos or metal clips or seeds (fiducial markers), may also
+be placed inside the body. The patient is then carefully positioned to
+target the marked area for each treatment. The MR, on the other hand,
+can give an accurate real-time picture of the daily changes in size and
+location of a tumor, so enabling more accurate dosing and (in trials)
+higher doses directly into a tumor with good results so far. The dosing
+and targeting can therefore be adjusted daily. The ability to target
+tumors more accurately, may also lead to the need for fewer treatments
+(for example: 35 visits could potentially be reduced to 2-5 visits) and
+perhaps eradicate the need for surgery or drug therapy, therefore also
+reducing side effects.
+
+A team of physicists in the Netherlands pioneered this new technology. A
+Linear Accelerator was combined with an MR. The magnet used is 30,000
+times stronger than Earth's magnetic field. Once a current is introduced
+into the superconducting coil and it continues indefinitely therefore no
+electrical power is needed. The coil is cooled by liquid Helium (about
+4K) to make it superconducting.
+
+To prevent the very strong magnet preventing the Linac from working it
+uses 'self-shielding' to create a very low magnetic field where the
+Linac is.
+
+A beam of X rays provides the treatment, and it is characterized by the
+energy of electrons used to generate it, in this case about 6 million
+electron volts of energy. The electrons gain their energy by a Linear
+Accelerator or 'Linac' which has a series of small copper cavities. A
+Radio Frequency source creates a high electric field in the cavities
+which accelerates the electrons, which increases their energy as they
+move down the Linac. The RF signal accelerates the electrons, creating
+radiation doses, pulsing at 3 million times a second. I have put a link
+to a YouTube video explaining how a Linac works.
+
+The source of radiation is from a single point at any one time. The
+radiation source is mounted on a ring and can rotate around the patient
+in 12 seconds.
+
+Different types of cancers treated with this system offer specific
+benefits to the patient:
+
+- [Rectal cancer patients]{.underline} may not require colostomy bags as
+more accurate treatment and higher dose can avoid the need for surgery.
+
+- [Prostate Cancer]{.underline} treatment may damage the neurovascular
+bundle and lead to erectile dysfunction. MR can see the region and
+deliver less radiation here.
+
+- In the treatment of [Pancreatic Cancer,]{.underline} the duodenum, which
+is very sensitive to radiation, can receive lower doses as its location
+can be seen.
+
+- [Lymph node]{.underline} [Metastasis]{.underline} in the pelvis can be
+targeted and treated in one day.
+
+In summary: Survival times for cancer patients may not increase greatly
+if survival is already good under current systems, but treatments can be
+shortened; side effects diminished and expensive drug therapies reduced
+or possibly abandoned.
+
+Currently, there are just 3 Unity MR-Linac units in the UK, but perhaps
+with larger trials NICE may be persuaded to install more of these
+machines.
+
+The final words; an excellent summary, come from Elekta on the web:
+
+Elekta Unity, the first high field MR/RT system, combines high-field 1.5
+Tesla MR imaging, precision radiation therapy and intelligent software,
+allowing clinicians to see what they treat in real time. Elekta Unity
+addresses a critical unmet need in cancer therapy. Now clinicians can
+confidently see and track the tumor and difficult-to-visualize soft
+tissue anatomies during treatment and adapt the treatment to optimize
+therapy. This enables personalized therapy for each patient and every
+treatment session.
+
+Linear Accelerator <https://youtu.be/jSgnWfbEx1A?si=O1lIUYbTF3w2dGo6>
+
+MRI <https://youtu.be/NlYXqRG7lus?si=-1SAAJYIAcKzUusj>
+
+<https://webinars.elekta.com/watch/aJg73D9JAk8mX39aBPnTs3>
+
+<https://www.sussexexpress.co.uk/news/people/queens-birthday-honours-crawley-scientist-receives-mbe-for-services-to-radiotherapy-3718244>
+
+<https://www.linkedin.com/pulse/why-i-believe-mr-linac-continue-thrive-amid-modern-cost-kevin-brown>
+
+<https://pubmed.ncbi.nlm.nih.gov/33014774/>

@@ -1,0 +1,19 @@
+---
+title: The James Web Telescope
+date: 2024-12-16
+authors:
+  - name: Robert Hornby
+author: Robert Hornby
+
+categories: space
+title-block-style: default
+---
+
+::: {.img-float}
+![](/posters/2024-12.jpg){width=30% style="float: right; margin: 5px;"}
+:::
+
+
+# Lynn's Review
+
+{{< include /reviews/_2024-12.qmd >}}

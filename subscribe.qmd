@@ -1,0 +1,11 @@
+---
+title: "Subscribe"
+---
+
+The Science at Fishbourne mailing list is used to provide reminders about meetings, meeting notes, and other useful notices.
+We typically send 2 or 3 emails a month.
+
+To be added to the list, provide your email address in the form below.
+Note that by providing your email address, you consent to it being shared with other members of the mailing list.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScHiwrwIpHm9c-fFJPt-I5PfWV49Q5XG7rqLuO4JLiAoMkILg/viewform?embedded=true" width="640" height="512" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>

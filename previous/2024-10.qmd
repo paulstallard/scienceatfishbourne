@@ -1,0 +1,20 @@
+---
+title: Food to Dye For
+subtitle: How man-made chemicals became legalised food ingredients
+date: 2024-10-29
+authors:
+  - name: Dr Carolyn Cobbold
+author: Dr Carolyn Cobbold
+
+categories: [food, chemistry]
+title-block-style: default
+---
+
+::: {.img-float}
+![](/posters/2024-10.jpg){width=30% style="float: right; margin: 5px;"}
+:::
+
+
+# Lynn's Review
+
+{{< include /reviews/_2024-10.qmd >}}

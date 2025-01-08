@@ -1,0 +1,20 @@
+---
+title: There is No Wealth but Life
+date: 2024-07-22
+authors:
+  - name: Dr Tony Whitbread
+    affiliation: President, Sussex Wildlife Trust
+author: Dr Tony Whitbread
+
+categories: environment
+title-block-style: default
+---
+
+::: {.img-float}
+![](/posters/2024-07.jpg){width=30% style="float: right; margin: 5px;"}
+:::
+
+
+# Lynn's Review
+
+{{< include /reviews/_2024-07.qmd >}}

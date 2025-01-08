@@ -1,0 +1,146 @@
+When attempting to write up this complex subject, my first observation
+is clear: One of the brightest stars in The Universe is Dr Daniela
+Saadah. Her presentation was eloquent, vibrant and clear and her obvious
+enthusiasm for her subject was contagious.
+
+Daniela began with the statement that the Universe expands in all
+directions equally and that she is now using Artificial Intelligence to
+help find an understanding of Dark Energy.
+
+Her talk was concerned with ***Dark Matter and Dark Energy***.
+
+![](/reviews/2024-03_image.jpg){width=50%}
+
+The word, "Dark," is used because we cannot see Dark Matter or Dark
+Energy. Our five senses originate in electromagnetic interactions. Our
+vision is based on our sensitivity to light. We can see electromagnetic
+waves that lie within a specific range of frequencies; the narrow band
+of visible light. The electric charges carried by electrons and protons
+in the atoms of matter, are the reason that we can see them. These atoms
+emit or absorb light.
+
+Matter is any material that interacts with gravity, and we can only see
+Matter that consists of charged particles. Dark Matter has little or no
+electromagnetic charge and so we cannot see it, so how do we know it's
+there?
+
+Daniela gave us examples of hypotheses used in science: In the 1800s it
+was noticed that the planet Uranus was not following the expected orbit
+according to Newton's law of gravity. The hypothesis was that a new
+planet must be present and must be exerting gravity on Uranus. This led
+to the discovery of Neptune, and the answer appeared to be clear.
+However, when the same logic was applied to anomalies with the orbit of
+Mercury, no other planet was discovered.
+
+Knowing that the elements in the universe, already known and seen, were
+not affecting the orbit of Mercury, then something unseen must be the
+cause.
+
+***[Dark Matter]{.underline}***
+
+Daniela highlighted five points which display evidence for the existence
+of Dark Matter: Rotation curves; Doppler effect; Spectra of elements;
+Cosmic Microwave background and Bullet Cluster.
+
+***[Spectra of elements and Doppler effect]{.underline}***
+
+Every element has a unique signature/fingerprint because of its
+composition. The electrons in each element, when excited by photons,
+absorb and emit wavelengths of light, and because each element's
+composition is different, the wavelength of light (therefore visible
+colour) emitted, is different. In this way, we know the true colour of
+each element.
+
+We also know that Blue has a high frequency wavelength and so an element
+will appear closer to us when its light becomes bluer. Red has a low
+frequency and so elements whose light becomes more red must be further
+away from us. This is known as the Doppler Effect and applies to sound
+waves too.
+
+Observations of the light emitted by elements in the universe show that
+the universe is expanding.
+
+***[Galaxy Rotation Curves]{.underline}***
+
+Light from every point in a galaxy can be measured. In a rotating
+galaxy, some part of it is moving away and some part moving towards an
+observer. Vera Rubin, in 1970 measured the velocity of many galaxies.
+
+When looking at the orbits of planets around the sun, those planets
+closer to the sun orbit faster than those far away. When observing a
+rotating galaxy, greater velocity would be expected near the central
+mass; the area of most light, but this is not so. The whole galaxy
+rotates at a constant speed, and so the hypothesis is that there must be
+matter that we can't see, distributed throughout the galaxy and
+affecting velocity; Dark Matter.
+
+***[Gravitational Lensing]{.underline}***
+
+Modern telescopes using gravitational lensing, can use the light from
+galactic clusters so magnifying the image. Now light from the earliest
+galaxies (otherwise unseen) becomes visible. Cosmic Microwave Background
+Radiation takes us back in time 13.8 billion years to the time of the
+Big Bang. In the first few minutes after the Big Bang protons and
+neutrons combined to form the lighter elements, such as hydrogen,
+helium, lithium, beryllium, and we know how much abundance of each is
+present. This leaves something unknown, something exotic, yet to be
+understood, for only 5% of the universe is made from matter consisting
+of protons and neutrons. 68% may be Dark Energy and 27% Dark Matter.
+
+***[The Bullet Cluster]{.underline}***
+
+In 2004 two clusters of galaxies 3.8 billion light years from Earth,
+collided and moved past each other. At the time, this event was the most
+energetic event known to have occurred since the big bang set off the
+expansion of the universe. When colliding, the normal matter, gas, of
+the galaxies was in a different place from the Dark Matter; the gas
+lagged behind and the Dark Matter sailed through the colliding galaxies.
+Gravitational lensing was used to discern this, and
+the effect of Dark matter can be seen in multiple places over 3.8
+billion years.
+
+***[Dark Energy]{.underline}***
+
+The Hubble Telescope in the 1920s could see from light's red shift, that
+the Universe was expanding. Gravity should slow down the rate of
+expansion, but it is seen to be accelerating.
+
+A type 1A supernova is very bright: When a White Dwarf steals material
+from a Red Super Giant, it becomes hot and at 1.44 solar masses, it
+explodes. The light from this event is used to see the velocity of
+expansion of the universe.
+
+The cause of the acceleration in expansion is being put down to Dark
+Energy, as this appears to make up 68% of the Universe.
+
+The structure of the Universe, as we know it, is as a cosmic web. More
+measurements, more data and more questions and answers are needed to
+further our understanding of it. The Euclid satellite has been launched
+to take measurements, and Artificial Intelligence is being used to
+imagine possible images of the Universe using known theories and methods
+of gravity.
+
+It was comforting to know that Dark Matter, though it is all around us,
+is not known to react with us, or even with itself and so it is unlikely
+that there are invisible beings made of Dark Matter sitting beside me as
+I write this.
+
+*Some interesting links:*
+
+<https://www.nature.com/articles/d41586-018-05096-y>
+
+<https://chemistrytalk.org/atomic-spectra/>
+
+<https://spaceplace.nasa.gov/dark-matter/en/>
+
+<https://spaceplace.nasa.gov/dark-matter/en/>
+
+<https://youtu.be/_153HevOoHw>
+
+<https://www.space.com/gravitational-lensing-explained>
+
+<https://www.popularmechanics.com/space/deep-space/a13987275/wmap-cosmic-microwave-background-breakthrough-initiatives/>
+
+<https://viewspace.org/interactives/unveiling_invisible_universe/dark_matter/bullet_cluster>
+
+<https://scitechdaily.com/can-strongly-lensed-type-1a-supernovae-resolve-cosmologys-biggest-controversy/>

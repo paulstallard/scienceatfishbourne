@@ -1,0 +1,9 @@
+---
+title: "Previous Talks"
+listing:
+  contents: previous
+  sort: "date desc"
+  categories: true
+  fields: [image, date, title, subtitle, author]
+---
+

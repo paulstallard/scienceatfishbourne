@@ -1,0 +1,128 @@
+The waters of the Solent are of great interest to us, as this is our
+local area, and Georgina Banfield, from Portsmouth University presented
+an excellent insight into a new project, funded by DEFRA. It began in
+April 2023 and ends next year.
+
+After hearing about the scope of this project, we hope that the seeds
+sown will lead to continued research.
+
+When Brexit occurred, fisheries around Britain were left without rules,
+so in 2020, "The Fisheries Management Act," was brought into
+legislation. It has 3 themes:
+
+- Sustainable fishing;
+- Social and Economic;
+- and Evidence from data collected.
+
+Of the 43 proposed plans, only 5 have been written. Some fish, such as
+Sea Bass and Sea Bream, have individual plans and others, such as Rays
+and Skates are combined.
+
+Sea Bass, is shown to be vulnerable, with the lowest stock in 20 years
+recorded. There are not enough young fish growing up.
+
+The project, run by Portsmouth University, highlights ecosystem
+management and connectivity in the Solent. This is not covered by
+standard stock assessments. Fish move; they may reproduce in one area
+and move to other areas as they develop.
+
+There are financial costs of undertaking such a project, and so
+innovation is required. This has come in the form of engaging Sea
+Anglers through an annual competition.
+
+The Southern Inshore Fisheries and Conservation Authority support,
+"Angling Spirit," an organisation who, amongst other things, organise
+fishing competitions. The "Sea Angling Classic Competition," takes place
+in June. Sixty boats depart from Port Solent for a two-day fishing trip
+and the prize table runs to £200,000.
+
+The rules of the competition are set to help advance the data needed to
+support sustainable fishing. The fish to catch are Bass, Bream, Rays,
+Smooth-hound and Tope. This range of fish was chosen as different
+fishing tactics are needed for each kind. This is fun for fishermen, and
+also helps with data on many elements such as: location, depth and
+frequency, of each fish type, some of which are endangered.
+
+The fishermen must identify their fish; photograph them; log their
+length and release them correctly. Prizes are given for the longest
+cumulative length of the fish caught.
+
+Such a means of research, called Citizen Science, is currently being
+used widely. It requires careful instructions and checking; it's an
+evolving method, and this is something the team at Portsmouth University
+are addressing in their project. They hope to set out a guide for future
+investigations around the UK and beyond.
+
+Boats taking part in the fishing competition have GPS trackers and GoPro
+cameras. These devices can ensure that they are fishing in the correct
+areas, in the correct way. The GPS also helps to determine how many fish
+are caught per hour, per rod in each location, so highlighting fish
+density in each area.
+
+The sea angling competition has been running for three years in the
+Solent, and data shows that smooth-hounds are caught the most, while
+bass only make up a small percentage of fish caught. This, of course,
+raises questions, and highlights the adjustments needed as a project
+progresses. As questions arise, solutions are sought to improve the
+methods of collecting and interpreting data. For example: smooth-hounds
+might just be easier to catch than bass.
+
+Other issues, concern fish identification: When is a skate not a skate,
+but a ray? Is it a tope or a smooth-hound? Is the fish male or female?
+The Portsmouth team will address each of these areas with clearer
+identification charts, photographs from different angles and AI
+programmes to help with clear length measurement of fish that don't keep
+still on a ruler.
+
+DNA analysis is also used, although difficulties with contamination from
+other fish; surfaces on the boat; and fishermen, make this more
+difficult. DNA sampling of water; environmental DNA, is more successful
+as this method can show all fish species that have moved through that
+location.
+
+The ultimate goal for fish identification, is being investigated by
+Portsmouth University's Institute of Cosmology and Gravitation. They
+hope to make it possible to identify specific fish with a smart phone.
+
+Artificial Intelligence works by viewing many photos of fish in order to
+label them. Citizen science asks for your help with this. Clear photos
+of fish caught are sought from fishermen.
+
+It is also intended that AI should determine whether a fish has been
+caught before, so avoiding counting the same fish more than once.
+Individual fish recognition!
+
+Other investigations are being carried out using sonar and drop-down
+videos to map the sea floor and assess the depth and structural
+complexity of various habitats. Also baited remote underwater videos are
+used to record the fish that come to eat the bait.
+
+Although the government funding for this project comes to an end next
+year, the Sea Angling Classic competition will continue. The intention
+is to expand the programme to take it to other areas around the coast.
+
+The links below give more information.
+
+I found these interesting snippets of information amongst the links.
+
+*There are 2 types of projects funded directly by fishing licence
+income. They are: **Angling Improvement Fund** projects managed by the
+Angling Trust through the National Angling Strategic Services contract.
+Fisheries Improvements Programme projects managed by local Environment
+Agency teams. The Sea Angling Classic received some of these funds.*
+
+*Fisheries Report:*
+
+*During the financial year 1 April 2022 to 31 March 2023 we sold 903,216
+fishing licences. This generated an income of £20,900,000. We also
+received £1,400,000 grant in aid from central government.*
+
+<https://www.gov.uk/government/publications/fisheries-annual-report-2022-to-2023-how-we-spend-fishing-licence-income/fisheries-annual-report-2022-to-2023-how-we-spend-fishing-licence-income>
+
+<https://www.gov.uk/government/news/nearly-21-million-invested-in-fisheries-across-england-through-fishing-licence-sales>
+
+<https://defrafmp.blog.gov.uk/2024/05/14/where-we-are-now-with-fmps/>
+
+<https://www.southern-ifca.gov.uk/about-us>
+
+<https://www.seaanglingclassic.com/>

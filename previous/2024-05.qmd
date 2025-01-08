@@ -1,0 +1,21 @@
+---
+title: Competitive Angling as a Scientific Tool
+subtitle: The CAST Project
+date: 2024-05-20
+authors:
+  - name: Georgie Banfield
+    affiliation: Research Associate, Insitute of Marine Sciences, University of Portsmouth
+author: Georgie Banfield
+
+categories: [environment, citizen science]
+title-block-style: default
+---
+
+::: {.img-float}
+![](/posters/2024-05.jpg){width=30% style="float: right; margin: 5px;"}
+:::
+
+
+# Lynn's Review
+
+{{< include /reviews/_2024-05.qmd >}}

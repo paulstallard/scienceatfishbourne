@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Science At Fishbourne"
+  favicon: /images/microscope.svg
+  navbar:
+    title: false
+    logo: "/images/logo.png"
+    left:
+      - text: Home
+        href: index.qmd
+      - href: next/next.qmd
+        text: Next Talk
+      - previous.qmd
+      - subscribe.qmd
+      - contact.qmd
+      - location.qmd
+      - about.qmd
+
+format:
+  html:
+    author-title: Speaker(s)
+    published-title: Presentation Date
+    theme: flatly
+    css: styles.css
+    title-block-banner: true

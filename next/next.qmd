@@ -1,0 +1,9 @@
+---
+title: African Clawed Frogs and Rare Disease Diagnosis
+author: Professor Matt Guille
+authors:
+  - name: Professor Matt Guille
+    affiliation: Professor of Developmental Genetics, University of Portsmouth
+date: 2025-01-27
+image: frog.jpg
+---

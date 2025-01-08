@@ -1,0 +1,22 @@
+---
+title: What is Sports Science?
+date: 2024-09-23
+authors:
+  - name: Professor Mike Lauder
+    affiliation: Professor of Sports Biomechanics, Univeristy of Chichester
+  - name: Professor Sam Blacker
+    affiliation: Professor of Exercise Physiology and Nutrition, Univeristy of Chichester
+author: Professor Mike Lauder and Professor Sam Blacker
+
+categories: sports science
+title-block-style: default
+---
+
+::: {.img-float}
+![](/posters/2024-09.jpg){width=30% style="float: right; margin: 5px;"}
+:::
+
+
+# Lynn's Review
+
+{{< include /reviews/_2024-09.qmd >}}

@@ -1,0 +1,21 @@
+---
+title: An Internal Climate Crisis
+subtitle: Lessons From The Microbes That Live Within
+date: 2024-06-24
+authors:
+  - name: Dr James Kinross
+    affiliation: Senior Lecturer / Consultant Surgeon, Imperial College, London
+author: Dr James Kinross
+
+categories: [medicine, health]
+title-block-style: default
+---
+
+::: {.img-float}
+![](/posters/2024-06.jpg){width=30% style="float: right; margin: 5px;"}
+:::
+
+
+# Lynn's Review
+
+{{< include /reviews/_2024-06.qmd >}}

@@ -1,0 +1,8 @@
+.DS_Store
+
+/_site/
+/.quarto/
+
+
+Makefile
+talks.py

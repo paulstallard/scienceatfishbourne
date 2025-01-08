@@ -1,0 +1,20 @@
+---
+title: Clean Rivers and Seas
+date: 2024-08-19
+authors:
+  - name: Keith Herbert
+    affiliation: Pathfinder Delivery Lead, Southern Water
+author: Keith Herbert
+
+categories: environment
+title-block-style: default
+---
+
+::: {.img-float}
+![](/posters/2024-08.jpg){width=30% style="float: right; margin: 5px;"}
+:::
+
+
+# Lynn's Review
+
+{{< include /reviews/_2024-08.qmd >}}

@@ -1,0 +1,163 @@
+Ian, biology teacher and previously Head Teacher at Yateley School (the
+largest secondary school in north east Hampshire), found no issues of
+class behaviour at Science at Fishbourne. We were a captive audience,
+and many comments were made that this presentation was at a good level
+for the group. I have found many links to websites (below) for further
+investigation and information, as so many aspects of DNA were covered in
+this presentation.
+
+Here I offer short summaries of each area:
+
+**[Genetic Fingerprinting]{.underline}**
+
+**Alec Jeffreys** discovered the technique of genetic fingerprinting
+whilst working in the department of genetics at Leicester University in 1984.
+
+The first crime where this technique was used was in 1986. The police
+had arrested a young man with learning difficulties, believing him to be
+a serial killer. Using the new technique of DNA fingerprinting, DNA
+samples from all men, local to the crimes, who had been born between
+1953 and 1970 were collected and tested. No matches were found, and no
+match was found with the arrested young man.
+
+A year later, from a chance conversation amongst friends, it was
+discovered that the man responsible for the crimes had sent someone else
+to impersonate him, when DNA was collected. He was subsequently found
+guilty of the crimes and of 1000 further sexual offences. He was sent to
+prison for 30 years.
+
+There is now a UK database of 5 million samples of DNA.
+
+**[DNA]{.underline}**
+
+DNA is a robust molecule. Each molecule consists of two long
+polynucleotide chains composed of four types of nucleotide sub units.
+The base may be either: *adenine (A), cytosine (C), guanine (G),* or *thymine (T)*.
+
+![](/reviews/2024-01_image2.jpg)
+
+The non-coding areas of DNA have repeated letters (combinations of
+G,C,A,T) and the position and number of repeats is unique to each
+person. 97% of DNA is Non-coding DNA.
+
+A DNA molecule is composed of two DNA strands held together by hydrogen
+bonds between the paired bases.
+
+**[The process of DNA profiling]{.underline}**:
+
+-   Enzymes are used to cut up DNA into fragments
+
+-   Fragments are put onto agarose gel
+
+-   Negatively charged DNA migrates through the pores of an agarose gel
+    towards the positively charged end of the gel when an electrical
+    current is applied, with smaller fragments migrating faster. The
+    resulting bands can then be visualized using ultraviolet (UV) light.
+
+-   The resulting bands shown have a 30 billion to one chance of being
+    the same as those of another person, except in the case of identical
+    twins.
+
+-   The possibilities for uncertainty when using this to discover who
+    committed a crime are commented on in **the fifth website link**
+    **below.**
+
+**[PCR]{.underline}**
+
+PCR (Polymerase Chain Reaction) is a process that can amplify a tiny
+sample of DNA in order to read the repeating letter patterns in a DNA
+molecule.
+
+DNA samples are treated to break the DNA strands. These are copied in
+the process. Repeats of the procedure (cycling) produce more copies: 4
+cycles will create 32 copies.
+
+DNA fingerprinting has many uses and Ian explained how this process had
+been used to identify the remains of King Richard 3rd, and The Romanovs.
+It can also help to solve issues of paternity.
+
+**[History]{.underline}**
+
+In **1869 Frierich Mieschner** discovered DNA without fully realising
+the role it played.
+
+In **1944 Oswald Avery** discovered that DNA, rather than proteins,
+controls life, (only DNA can convert TB bacteria into a non- lethal
+strain, so proving that DNA is a genetic molecule).
+
+**Rosalind Franklin Photograph 51.** In **1952** Rosalind Franklin,
+together with her PhD student, Ramond Gosling, exposed DNA to X-rays for
+a total of 62 hours and achieved **Photograph 51.** This was shown to
+Francis Crick, who was trying to build a 3D model of DNA with James
+Watson. They achieved their model in **1953** and were recognised for
+the discovery, receiving the **Nobel Prize in 1962**. Only much later
+has Rosalind Franklin received merit for her research. She died at the
+age of 37, unacknowledged, from ovarian cancer, possible caused by
+exposure to X-rays.
+
+![Photograph 51](/reviews/2024-01_image1.jpg){fig-align="left"}
+
+**[Epigenetics]{.underline}**
+
+Epigenetics is a way of influencing how our genome is regulated without
+the DNA code itself being changed. Epigenetics can determine when genes
+are turned on and off (also referred to as gene expression), and which
+proteins are produced as a result. It can even control the structure of
+the genome.
+
+Most epigenetic modifications are transient and reversible, allowing our
+cells to respond and adapt to changes in environment and behaviour.
+Although they happen on a molecular level, they can have a considerable
+impact on us, and can also be influenced by external factors, such as
+diet and lifestyle.
+
+**[Summary of Genetic Fingerprints]{.underline}**
+
+-   These exist in blood, bone, hair follicles, saliva, semen, skin and
+    sweat.
+
+-   They are the same in every cell and retain their distinctiveness
+    throughout a person\'s life.
+
+-   Human cells contain 23 chromosomes (packets of DNA) from the father
+    and 23 from the mother.
+
+-   Each DNA strand contains a unique sequence or code of genetic
+    information. But while most of DNA shows only slight variation from
+    one person to the next, certain areas, called \'minisatellites\'
+    (short sequences of chemical building blocks) show variation in the
+    numbers of repeat units (or stutters) unique to each person.
+
+-   DNA information can be recovered from human and animal remains as
+    far back as Neanderthal man, and has been used to solve a number of
+    high profile mysteries from the past, including the identification
+    of Josef Mengele\'s skeleton and the identity of children of US
+    President Thomas Jefferson\'s children by one of his slaves.
+
+Apart from identification, paternity and immigration cases, the
+technique is also used in medical research including cancer and
+genetic conditions such as Huntington\'s disease.
+
+**Below are links to websites for more information.**
+
+- [The first link](https://le.ac.uk/dna-fingerprinting) is a very useful one. It gives much
+information on DNA profiling and on Alec Jeffreys.
+
+- [The second link](https://youtu.be/4j3pruYvcug?feature=shared) to a YouTube video, gives clear
+information on PCR testing and includes snippets about its inventor.
+(There are several YouTube videos of Kary Mullis if you search for them).
+
+- [The third link](https://www.bbc.co.uk/bitesize/guides/zrwhrj6/revision/3) is a BBC Bitesize about the PCR process
+
+- [The fourth link](https://www.bbc.co.uk/bitesize/articles/z4pd382) gives information on Rosalind
+Franklin's discovery and Crick and Watson's model of the double helix.
+
+- The [fifth](https://www.bbc.com/future/article/20150512-can-we-trust-forensic-science) and [sixth](https://biologywise.com/pros-cons-of-dna-fingerprinting-technique) highlight possible issues
+with DNA Fingerprinting
+
+
+**[More links that may be of interest]{.underline}**
+
+<https://www.britannica.com/science/recombinant-DNA-technology>
+
+<https://www.britannica.com/science/polymerase-chain-reaction>

@@ -1,0 +1,20 @@
+---
+title: Magnetic Resonance Guided Radiotherapy
+date: 2024-04-22
+authors:
+  - name: Kevin Brown MBE
+    affiliation: Distinguished Scientist, Elekta
+author: Kevin Brown MBE
+
+categories: [medicine, health]
+title-block-style: default
+---
+
+::: {.img-float}
+![](/posters/2024-04.jpg){width=30% style="float: right; margin: 5px;"}
+:::
+
+
+# Lynn's Review
+
+{{< include /reviews/_2024-04.qmd >}}

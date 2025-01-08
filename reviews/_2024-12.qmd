@@ -1,0 +1,71 @@
+Looking up into the night sky, may fill us with wonder, and many
+questions will arise. Robert Hornby, helped us see the answers to some
+of our questions; answers being discovered by first, the Hubble and now
+the James Webb telescope.
+
+The James Webb telescope is an infrared telescope, so enabling it to
+view back in time to over 13 billion years ago. It was launched in
+December 2021 and cost \$10 billion. It's immense in size, being as tall
+as a three-story building and as long as a tennis court.
+
+When comparing it to the Hubble telescope, it has half the mass at 5.5
+tonnes, and a mirror six times larger, with light collecting ability
+6.25 times larger. The mirror consists of a hexagonal grid of 18 small,
+highly polished, beryllium mirrors which are gold plated, and each
+mirror has a motor enabling fine adjusting to position it.
+
+The technology needed to construct the telescope is mind boggling: a
+heat shield was constructed to enable a cold side of -233 degrees
+centigrade; required for the infrared, and a warm, sunny side of 85
+degrees centigrade to keep the electronics working.
+
+The telescope has a lifetime forecast of 5 years but experience with the
+Hubble telescope suggests it could last at least twice as long.
+
+The instruments on board include:
+
+**[A camera,]{.underline}** created by Arizona University; this has
+looked at the Kuiper belt, a doughnut-shaped region of icy bodies
+extending far beyond the orbit of Neptune. The camera can detect
+different molecules, different elements.
+
+**[A Coronagraph]{.underline}**. This can block out the brightness of a
+star so that anything around the star can be seen more clearly.
+
+**[A Cryocooler]{.underline}** to maintain the cold temperature
+necessary.
+
+**[A Spectograph]{.underline}** to analyse which chemical components
+make up the star or system in focus, by comparing the absorption lines
+of the sun with the emission lines.
+
+**[A fine guidance sensor]{.underline}** to keep the telescope steady.
+
+It's almost impossible to imagine how the shields protecting such a
+finely tuned telescope have been able to withstand a rocket launch and
+maintain the required temperatures for each component part.
+
+The Hubble telescope's orbit is 340 miles away. The JWT is 1 million
+miles from Earth, orbiting the Sun at a Lagrange point. Lagrange points
+are positions in space where the gravitational forces of two bodied
+systems such as the Sun and Earth, produce enhanced regions of
+attraction and repulsion. These can be used by spacecraft as \"parking
+spots\" in space to remain in a fixed position with minimal fuel
+consumption." The JWT is at this point, "So that it can maintain a safe
+distance from the bright light of the Sun, Earth, and Moon, while also
+maintaining its position relative to Earth."
+
+The camera on the JWT produces images with a resolution of 150 million
+pixels; we have 12 million on a smart phone.
+
+So much has been discovered already, from data collected from the JWT,
+and so many theories have been proven. Our advances in technology have
+made it possible for four and a half thousand universities to have
+access to the telescope for their own research projects. Collaboration
+is, no doubt, the way forward to advance scientific discovery. One
+university have collected 5 years- worth of data about the planet
+Jupiter.
+
+Merry Christmas to you all. The link below will give lots more.
+
+<https://webbtelescope.org/>

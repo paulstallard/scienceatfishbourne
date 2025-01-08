@@ -1,0 +1,21 @@
+---
+title: Chernobyl
+subtitle: Science, Society and Vodka
+date: 2024-02-26
+authors:
+  - name: Professor Jim Smith
+    affiliation: Professor of Environmental Science, School of Environmental, Geographical and Geological Sciences, University of Portsmouth
+author: Professor Jim Smith
+
+categories: nuclear energy
+title-block-style: default
+---
+
+::: {.img-float}
+![](/posters/2024-02.jpg){width=30% style="float: right; margin: 5px;"}
+:::
+
+
+# Lynn's Review
+
+{{< include /reviews/_2024-02.qmd >}}
