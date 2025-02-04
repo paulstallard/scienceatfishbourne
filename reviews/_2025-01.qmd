@@ -1,0 +1,87 @@
+I think many of us were unsure of what we would discover from today's presentation. I once
+looked after a xenopus for a few years, so I knew a little about the African, clawed frog, but
+today, I discovered so much more.
+
+Matt Guille is professor of Developmental Genetics at Portsmouth University, where he set
+up an independent lab working on gene regulation in Xenopus, and in 2006 this led to the
+inception of the European Xenopus Resource Centre funded by the Wellcome Trust.
+
+Xenopus, since the 1940s, was used for pregnancy testing: urine from a pregnant woman, if
+injected under the skin of the frog, would cause it to produce eggs. However, for over 50
+years, Xenopus, has been a model for biomedical research, leading to many ground-
+breaking discoveries.
+
+At first xenopus was used to discover the basics of biology, such as: what makes blood form;
+and what networks are used by genes, later, building upon those discoveries, has led to the
+use of xenopus as a model for diseases.
+
+Various model organisms having a similar genome to humans, have been used over the
+years, and the ethics of using these models has long been debated. More consideration for
+the ethics of animal research has prevailed in the 21st century. In recent years, the mouse
+was generally most favoured, having close similarities to the human genome, but the frog,
+which also has a similar genome, is considered less sentient than a mouse and so is widely
+used as a model. Xenous laevis is also very hardy. It can live in extreme environments and is
+nocturnal. It can produce eggs all year round, and it is these embryos that are generally
+employed for research.
+
+Big data and mathematical modelling form a part of research as do Organoids (cell cultures),
+but though organoids may be the tool of the future, the advancement in this technique is
+slow, and mathematical modelling can only result from data achieved through the use of
+animal models.
+
+An early breakthrough in the understanding of how molecules can cause change, was
+through an experiment worked on by Hilda Mangold under the direction of Hans Spemann.
+She transplanted cells from the dorsal lip of a newt embryo onto its ventral side, and
+discovered that transplanted cells were instructing, or inducing, neighbouring cells to
+migrate and adopt specific cell fates. she observed that an entire neural tube and brain
+would form at the site of the transplant; effectively creating a new newt embryo. In 1990
+Richard Harland discovered the molecules that caused this change. The process led to the
+creation of what is termed an "Organiser."
+
+Portsmouth University now has 1024 tanks full of frogs (these can live for at least 15 years),
+and freezers full of cells from organisms. The Resource centre, which supplies frogs to other
+countries, is well funded at present and has some top of the range technology in the form of
+microscopes with zeiss lenses which also act similarly to CT scanners.
+
+The "100,000 genome project," helped cement the NHS's position as one of the most
+advanced healthcare systems in the world, and helped lay the foundation for a new era
+of personalised medicine. Along with cancer, the Project looked at the whole genomes of
+people affected by rare disease to try and identify any genetic variations that might be
+causing symptoms.
+
+Xenopus can quickly be genetically altered to study rare genetic diseases. One in seventeen
+people are born with a rare genetic disease and one in twenty have a rare gene variant.
+This year, two new therapies have emerged from gene sequencing and research using
+xenopus.
+
+For one child, Jessica, who suffered from severe epileptic fits, it was discovered that a
+change in diet was all that was required.
+
+In the past, the cost of multiple tests to detect disease in a child might cost £345,000; now
+gene sequencing and the use of CRISPR techniques with RNA injected into frogs can bring
+results in just over 2 days at very little cost.
+
+Xenopus laevis and the smaller xenopus tropicalis are now at the forefront of research and
+are beginning to be used clinically.
+
+Science research criteria is changing. In the past, the top requisite was: "Scientific
+excellence," but now it's: "Value for money."
+
+Britain has the lead in this.
+
+There is so much more to discover in this field, particularly the use of viral vectors for
+targeting disease.
+
+Below I put links to sites I have referred to in writing this. I hope you find them useful.
+
+<https://researchportal.port.ac.uk/en/persons/matt-guille>
+
+<https://www.sciencedirect.com/science/article/abs/pii/B9780128030776000229>
+
+<https://www.jax.org/news-and-insights/jax-blog/2016/october/women-in-science-hilde-mangold#>
+
+<https://news.berkeley.edu/2016/10/20/lab-frog-dna-shows-what-happens-when-genomes-collide/>
+
+<https://www.england.nhs.uk/genomics/genomic-research/100000-genomes-project/>
+
+<https://www.genome.gov/sites/default/files/media/files/2021-08/NHGRI_T2T_Infographic.pdf>

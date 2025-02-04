@@ -1,0 +1,21 @@
+---
+title: Clawed Frogs and Medicine
+subtitle: Pregnancy Testing to Disease Diagnosis
+date: 2025-01-27
+authors:
+  - name: Professor Matt Guille
+    affiliation: University of Portsmouth
+author: Professor Matt Guille
+
+categories: [medicine, health]
+title-block-style: default
+---
+
+::: {.img-float}
+![](/posters/2025-01.jpg){width=30% style="float: right; margin: 5px;"}
+:::
+
+
+# Lynn's Review
+
+{{< include /reviews/_2025-01.qmd >}}

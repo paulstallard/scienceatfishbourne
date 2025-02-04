@@ -1,9 +1,15 @@
 ---
-title: African Clawed Frogs and Rare Disease Diagnosis
-author: Professor Matt Guille
-authors:
-  - name: Professor Matt Guille
-    affiliation: Professor of Developmental Genetics, University of Portsmouth
-date: 2025-01-27
-image: frog.jpg
+title: Lowering Our Carbon Footprint
+subtitle: A Personal Journey
+author: Kevin Brown MBE
+date: 2025-02-24
 ---
+
+::: {.img-float}
+![](/posters/2025-02.jpg){width=30% style="float: right; margin: 5px;"}
+:::
+
+
+# Synopsis
+
+Since moving to Fishbourne, 6 years ago, we have been lowering our Carbon footprint. My talk will cover some interesting things that I have learned on the way. There often seems to be misinformation about these topics in the press and I will explain the science to enable us all to make good decisions. Heat Pumps, are they hype, do they really work and how well? Solar Panels, how much do they help? Home batteries, are they worth the expense? What about Hydrogen? Plus other interesting information. The talk will be about science in a practical setting and I am expecting that it will provoke some lively discussion.
