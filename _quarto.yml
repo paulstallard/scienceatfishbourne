@@ -3,14 +3,12 @@ project:
   output-dir: _site
 
 website:
-  title: "Science At Fishbourne"
+  title: Science at Fishbourne
   favicon: /images/microscope.svg
   navbar:
     title: false
-    logo: "/images/logo.png"
+    logo: "/images/textlogo.png"
     left:
-      - text: Home
-        href: index.qmd
       - href: next/next.qmd
         text: Next Talk
       - previous.qmd

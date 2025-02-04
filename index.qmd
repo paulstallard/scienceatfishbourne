@@ -1,20 +1,20 @@
 ---
-title: Science At Fishbourne
-icon: images/icon.jpg
+title: Science at Fishbourne
 toc: false
 listing:
   contents: next
   sort: "date"
-  fields: [image, date, title, subtitle, author]
+  fields: [image, date, title, subtitle, author, description]
 ---
 
 :::: {.columns}
 
 ::: {.column width="50%"}
-Interested in science? Join us on 4th Monday of each month at 10am for presentations by researchers and practising scientists followed by discussion.
+Interested in science?
 
-There is a charge of £3 at the door to cover costs.
-An annual payment option is also available.
+Join us on 4th Monday of each month at 10am for presentations by researchers, practising scientists and industrialists followed by discussion.
+
+There is a charge of £3 at the door to cover costs or an annual payment option of £24 is also available.
 
 Presentations usually last an hour.
 
