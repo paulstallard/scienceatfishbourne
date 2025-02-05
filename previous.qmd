@@ -4,6 +4,6 @@ listing:
   contents: previous
   sort: "date desc"
   categories: true
-  fields: [image, date, title, subtitle, author]
+  fields: [image, date, title, subtitle, author, description]
 ---
 
