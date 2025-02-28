@@ -7,3 +7,8 @@ listing:
   fields: [image, date, title, subtitle, author, description]
 ---
 
+:::{.callout-note}
+Click on the entries below to see a full review of the talk
+:::
+
+<hr>

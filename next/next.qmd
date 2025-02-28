@@ -1,6 +1,10 @@
 ---
-title: Details coming soon!
-author: Presenter TBC
+title: The Story of Vaccines
+subtitle: Edward Jenner to the Covid 19 vaccine
+author: Dr Ian Goodall
 date: 2025-03-24
 ---
 
+::: {.img-float}
+![](/posters/2025-03.jpg){width=30% style="float: right; margin: 5px;"}
+:::
