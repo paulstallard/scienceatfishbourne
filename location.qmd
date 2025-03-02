@@ -1,5 +1,5 @@
 ---
-title: "Find us"
+title: "Find Us"
 ---
 
 ::: {.columns}

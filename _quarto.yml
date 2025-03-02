@@ -7,8 +7,10 @@ website:
   favicon: /images/microscope.svg
   navbar:
     title: false
-    logo: "/images/textlogo.png"
+    logo: "/images/logo-circle.png"
     left:
+      - href: index.qmd
+        text: Home
       - href: next/next.qmd
         text: Next Talk
       - previous.qmd
@@ -23,6 +25,8 @@ format:
   html:
     author-title: Speaker(s)
     published-title: Presentation Date
-    theme: flatly
+    theme:
+      - flatly
+      - custom.scss
     css: styles.css
     title-block-banner: true
