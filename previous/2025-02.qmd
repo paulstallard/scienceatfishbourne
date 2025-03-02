@@ -3,8 +3,8 @@ title: Lowering Our Carbon Footprint
 subtitle: A Personal Journey
 date: 2025-02-24
 authors:
-  - name: Kevin Brown MBE
-author: Kevin Brown MBE
+  - name: Kevin Brown MBE CPhys FlnstP
+author: Kevin Brown MBE CPhys FlnstP
 
 categories: [environment]
 title-block-style: default
@@ -18,6 +18,8 @@ title-block-style: default
 
 Since moving to Fishbourne, 6 years ago, we have been lowering our Carbon footprint. My talk will cover some interesting things that I have learned on the way. There often seems to be misinformation about these topics in the press and I will explain the science to enable us all to make good decisions. Heat Pumps, are they hype, do they really work and how well? Solar Panels, how much do they help? Home batteries, are they worth the expense? What about Hydrogen? Plus other interesting information. The talk will be about science in a practical setting and I am expecting that it will provoke some lively discussion.
 
+* Kevin's presentation: [Lowering Our Carbon Footprint](resources/2025-02_presentation.pdf){target="_blank"}
+* [Protons for Breakfast: Retrofit Journeys](resources/2025-02_retrofit-journeys.pdf){target="_blank"}
 
 # Lynn's Review
 

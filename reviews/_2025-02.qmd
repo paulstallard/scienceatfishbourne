@@ -1,1 +1,93 @@
-Coming soon!
+Last year Kevin gave us detailed information on Elekta MRI Radiotherapy
+units, and this week, his presentation was based on his own experience
+of installing a heat pump; a project which may directly affect us all in
+our homes if we are considering replacing our heating systems. Energy
+costs continue to rise, and so many new advances and changes are on the
+horizon that it's good to receive such well researched information.
+
+Fortunately, Kevin has provided us with his slides, and also with
+information from a blog called, 'Protons for Breakfast.' (both linked above)
+
+I need only summarise some of the important points:
+
+Gas and electric heating will give out energy equal to that which is put
+in to run the system. A heat pump will provide more heat than the energy
+put in. This ratio is the CoP and Kevin showed a CoP of 4, i.e. 4kw of
+heat into the home, from an input of 1kw to run the heat pump. Together
+with the right tariff this makes a heat pump much cheaper to run than
+gas.
+
+It's important to set the Flow Temperature correctly to maximise
+efficiency; set it too cool and the house isn't warm, and set it too
+hot, then efficiency is compromised.
+
+Good insulation is one of the best investments you can make, it not only
+reduces the amount of heat that you need but it also makes a heat pump
+more efficient.
+
+A British company called; Homely (<https://www.homelyenergy.com/>) have
+developed a heat pump micro controller that automatically maximises all
+aspects of heat production and cost efficiency. Kevin became an
+installer in order to fit one to his heat pump, and I note that the web
+site invites you to train to be an installer too! This system, in
+seeking to use energy when it's cheaper, may produce more heat
+sometimes, but this evens out to ensure constant warmth.
+
+Underfloor heating and a large water tank are recommended. If water in
+the tank is kept at just at the right temperature for showering (45°C is
+efficient) a 250L tank will be useful.
+
+Radiators work fine with a heat pump, and larger radiators are best,
+Kevin kept all but two of his original radiators, which he replaced with
+larger ones to gain the heat required.
+
+Of the more than 190 million heat pumps installed globally around 94%
+are Air source and 6% are Ground source.
+
+Of note: In Norway 95% of all replaced units are heat pumps, wheras in
+the UK only 8% of homes use heat pumps, this may be due to negative
+media coverage. There are government grants for heat pumps at the moment
+giving £7,500.
+(<https://energy-efficient-home.campaign.gov.uk/heat-pump/>)
+
+A thermal survey camera is a useful device when installing insulation:
+Heat the house, then turn off the heating and use the camera to find the
+cool spots.
+
+Solar panels are also a useful addition, particularly in the Summer
+(south facing would be best). Kevin is not in favour of battery storage
+and just sells his surplus energy back to the grid. His average monthly
+Octopus charge is £69.
+
+Payback on the installation of batteries would take between 7 and 10
+years and batteries generally only have a useful life of around 10
+years.
+
+Environmentally, the use of lithium batteries is damaging to the
+countries who mine for it: Australia, Chile and China. The mining causes
+pollution in the water, and the air; it also causes degradation of the
+land; of the soil and vegetation. Mining produces large quantities of
+mineral waste and disrupts habitats.
+
+We also know, from a previous presentation, that lithium isn't easily
+extracted and recycled. Dumping lithium batteries would be lethal to the
+land. The batteries are also highly flammable.
+
+Sodium ion batteries may be with us in the future, and they (according
+to my internet search): *"Have the potential to be more environmentally
+friendly than lithium-ion batteries. However, the environmental impact
+depends on a number of factors, including production, recycling, and the
+end-of-life of the battery." *
+
+Research is also taking place into a solid- state electrolyte and if
+this is successful, It's hoped that this ceramic battery might usefully
+be used in medical devices.
+(<https://www.sciencedirect.com/science/article/abs/pii/S2405829723000569>)
+
+Hydrogen, if it replaces gas for heating a home, may cost 6 -- 7 times
+as much as using a heat pump.
+
+I've attempted to give the main points, but please now see the 2
+attachments from Kevin for a full picture:
+[Lowering Our Carbon Footprint](resources/2025-02_presentation.pdf){target="_blank"} and
+[Retrofit Journeys](resources/2025-02_retrofit-journeys.pdf){target="_blank"}.
