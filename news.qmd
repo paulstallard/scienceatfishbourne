@@ -1,0 +1,15 @@
+---
+title: "Science News"
+listing:
+  contents: news
+  sort: "date desc"
+  categories: false
+  fields: [image, date, title, subtitle, author, description]
+---
+
+:::{.callout-note}
+We use this page to provide articles, links etc to science news that we think will be of interest to members.
+If you've seen something that you think would be of interest to the group, please let us know.
+:::
+
+<hr>

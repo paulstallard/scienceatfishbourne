@@ -12,9 +12,11 @@ website:
       - href: next/next.qmd
         text: Next Talk
       - previous.qmd
+      - news.qmd
       - subscribe.qmd
       - contact.qmd
       - location.qmd
+    right:
       - about.qmd
 
 format:
