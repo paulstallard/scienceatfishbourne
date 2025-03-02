@@ -2,22 +2,28 @@
 title: "About"
 ---
 
-Science at Fishbourne is an informal group for people interested in the broad area of science.
-The group meets on the last Monday of each month at 10am.
-Each meeting is focussed around a presentation from a guest speaker.
-The presentations normally last about an hour, followed by tea/coffee and then Q&A.
+Science at Fishbourne is an informal group of people interested in the broad area of science.
+The group meets on the 4th Monday of each month at 10am.
+At each meeting there is a presentation from a guest speaker which normally lasts about an hour.
+This is followed by a break for tea/coffee and then a Q&A session with the speaker.
+
+The intent of Science at Fishbourne is to bring good speakers to present at the monthly meetings who will cover a wide range of scientific topics.
+These will be academics from local universities, senior managers from industry and retired people with expertise in certain areas.
+Science at Fishbourne does not make payment to speakers but makes donations to charities chosen by each month’s speaker.
 
 The group has been running in its current form since early 2023 and has steadily grown over that time.
-We are always happy to welcome new people to the group, and are especially keen to hear from people who might want to present.
+We are always happy to welcome new people to the group.
+We are also keen to hear from people who might want to present a scientific topic.
 
 There is no membership fee.
-Attendees pay £3 on the door to cover costs (eg hall hire).
-Each month the group makes a donation to a charity chosen by that month's speaker.
-
+Attendees pay £3 on the door to cover costs such as hire of the hall.
 For regular attendees, we have an annual subscription option for just £24.
 
-The group is run by Rodney Wing and Lynn Taylor.
-Lynn takes excellent notes on each talk, which are distributed to the mailing list and posted here.
+The group is run by Rodney Wing, and Lynn Taylor, the Secretary, takes care of membership.
+Lynn also takes notes on each talk, which are distributed to the mailing list and posted here.
+
+If you have any questions, feel free to contact us.
+Alternatively, subscribe to the mailing list and we will keep you informed of future talks.
 
 If you have any questions, feel free to [contact us](contact.qmd).
 
