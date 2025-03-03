@@ -8,3 +8,12 @@ date: 2025-03-24
 ::: {.img-float}
 ![](/posters/2025-03.jpg){width=30% style="float: right; margin: 5px;"}
 :::
+
+# Overview
+
+The talk describes the devastating effects of pandemics such as plague, TB and smallpox, prior to the advent of vaccination.
+I describe how the remarkable Lady Mary Wortley Montague, wife of the Ambassador to the Ottoman Empire, introduced a process known as variolation, which greatly reduced deaths from smallpox.
+Vaccination proper starts with Edward Jenner, who used cowpox to protect people against smallpox, after an outrageous experiment on his gardener’s son!
+The star of the talk is Louis Pasteur, who develops vaccines against a variety of diseases.
+I explain how the early 20th century saw increasingly widespread outbreaks of polio and how Jonas Salk developed the first vaccine against it.
+I finish by describing how mRNA vaccines were developed to fight Covid.

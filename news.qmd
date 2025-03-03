@@ -7,9 +7,13 @@ listing:
   fields: [image, date, title, subtitle, author, description]
 ---
 
-:::{.callout-note}
+:::{.callout-note title="Science News"}
 We use this page to provide articles, links etc to science news that we think will be of interest to members.
 If you've seen something that you think would be of interest to the group, please let us know.
 :::
 
 <hr>
+
+# Polyphenols: The key to a healthier, longer life or just abother health food fad?
+
+- [Eating more polyphenols could be the secret to a longer, healthier life. Here’s how](https://www.sciencefocus.com/the-human-body/food-boost-health-polyphenols), Dr Emma Beckett, BBC Science Focus. Published 8 February 2025

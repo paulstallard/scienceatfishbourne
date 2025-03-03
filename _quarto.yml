@@ -7,10 +7,8 @@ website:
   favicon: /images/microscope.svg
   navbar:
     title: false
-    logo: "/images/logo-circle.png"
+    logo: "/images/textlogo.png"
     left:
-      - href: index.qmd
-        text: Home
       - href: next/next.qmd
         text: Next Talk
       - previous.qmd
