@@ -1,5 +1,8 @@
 ---
 title: "Science News"
+format:
+  html:
+    css: newsstyle.css
 listing:
   contents: news
   sort: "date desc"
@@ -12,8 +15,38 @@ We use this page to provide articles, links etc to science news that we think wi
 If you've seen something that you think would be of interest to the group, please let us know.
 :::
 
-<hr>
+```{=html}
+<a class="fragment" href="https://www.sciencefocus.com/the-human-body/food-boost-health-polyphenols">
+    <img src ="https://c02.purpledshub.com/uploads/sites/41/2025/01/A-selection-of-fresh-vegetables.jpg?w=1200" width="200px">
+    <h3>Eating more polyphenols could be the secret to a longer, healthier life. Here’s how</h3>
+        <b>www.sciencefocus.com</b>
+    <p class="text">They could help lower your risk of cancer.
+    </p>
+    <scan class="read-more">Click to read the full article</span>
+</a>
+```
+<p></p>
 
-# Polyphenols: The key to a healthier, longer life or just abother health food fad?
+```{=html}
+<a class="fragment" href="https://extension.colostate.edu/topic-areas/nutrition-food-safety-health/dietary-supplements-herbals-and-botanicals-9-370/">
+    <img src ="https://extension.colostate.edu/wp-content/uploads/2023/05/Dietary-Supplements-Herbals-and-Botanicals-Header.jpg" width="200px">
+    <h3>Dietary Supplements: Herbals and Botanicals - 9.370 - Extension</h3>
+        <b>extension.colostate.edu</b>
+    <p class="text">Herbals and botanicals have been used medicinally for thousands of years. Once thought of as ‘traditional medicine’ used by native or ancient cultures, herbal medicine has emerged as a popular complementary and alternative medicine (CAM), or supplement to modern medicine. The herbal market is growing steadily at about 20% each year, and it is estimated that in the United States alone the sale of botanical dietary supplements exceeded $5.3 billion in 2011.
+    </p>
+    <scan class="read-more">Click to read the full article</span>
+</a>
+```
+<p></p>
 
-- [Eating more polyphenols could be the secret to a longer, healthier life. Here’s how](https://www.sciencefocus.com/the-human-body/food-boost-health-polyphenols), Dr Emma Beckett, BBC Science Focus. Published 8 February 2025
+```{=html}
+<a class="fragment" href="https://news.stanford.edu/stories/2025/01/sodium-ion-batteries-need-breakthroughs-to-compete">
+    <img src ="https://news.stanford.edu/__data/assets/image/0026/163691/Na-ion-graphic-crop-1500x1000.jpg" width="200px">
+    <h3>Sodium-ion batteries need breakthroughs to compete</h3>
+        <b>news.stanford.edu</b>
+    <p class="text">A thorough analysis of market and supply chain outcomes for sodium-ion batteries and their lithium-ion competitors is the first by STEER, a new Stanford and SLAC energy technology analysis program.
+    </p>
+    <scan class="read-more">Click to read the full article</span>
+</a>
+```
+
