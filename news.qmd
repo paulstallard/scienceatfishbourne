@@ -3,6 +3,8 @@ title: "Science News"
 format:
   html:
     css: newsstyle.css
+    link-external-icon: false
+    link-external-newwindow: true
 listing:
   contents: news
   sort: "date desc"
