@@ -22,7 +22,7 @@ If you've seen something that you think would be of interest to the group, pleas
     <img src ="https://c02.purpledshub.com/uploads/sites/41/2025/01/A-selection-of-fresh-vegetables.jpg?w=1200" width="200px">
     <h3>Eating more polyphenols could be the secret to a longer, healthier life. Here’s how</h3>
         <b>www.sciencefocus.com</b>
-    <p class="text">They could help lower your risk of cancer.
+    <p class="text">Polyphenols are ring like structures composed of carbon, hydrogen and oxygen atoms. It’s these unique structures that play a crucial role in the biological reasons behind polyphenol’s health benefits including antioxidant, antimicrobial and anti-inflammatory effects. Foods such as olives, plums, hazelnuts and tea all contain high levels of polyphenols.
     </p>
     <scan class="read-more">Click to read the full article</span>
 </a>
