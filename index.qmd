@@ -33,7 +33,7 @@ We meet at the Fishbourne Centre in Fishbourne. See the [Find Us](location.qmd) 
 ::::
 
 :::{.callout-note title="Remaining meeting dates for 2025"}
-24th March, 28th April, 19th May, 23rd June, 28th July, 18th August, 22nd September, 27th October, 24th November, 15th December
+28th April, 19th May, 23rd June, 28th July, 18th August, 22nd September, 27th October, 24th November, 15th December
 :::
 
 
