@@ -1,0 +1,205 @@
+Dr Ian Goodall, last presented to us in January 2024 on Genetic
+Fingerprinting. This month, his talk was equally informative; a subject
+on which we have all had first- hand experience in one way or another.
+Ian, a biology teacher, has also held the position of Head Teacher at
+Yateley School (the largest secondary school in north east Hampshire.
+
+My review covers an outline of Ian's talk with a few extra bits of
+information discovered on the internet, together with links to articles
+and documents which may be of interest for discussion.
+
+Ian introduced the story of vaccines by reflecting on past diseases such
+as the bubonic plague/black death, from which, estimates suggest, a
+possible 50% of Europe's population died in the 14^th^ Century.
+
+Possible factors for greater illness/disease at this time were: poor
+diet, poor sanitation, a prevalence of parasites and crowded living
+conditions.
+
+Ian also mentioned tuberculosis which, evidence suggests, has existed
+for thousands of years. It continues to present a global health problem,
+and has possibly killed a billion people.
+
+Smallpox, of which traces have been found in Egyptian tombs, spread
+through trade routes; crusades and the movement of settlers and
+explorers. Generally, around a third of those who contracted the
+disease, died, a third were left with terrible scaring and a third
+survived with no real ill effect.
+
+[Live Vaccination]{.underline}
+
+**Lady Mary Wortley Montagu**, a writer and a poet, suffered scaring
+after contracting smallpox. She lived in Constantinople for some time,
+when her husband was appointed ambassador to turkey and there she
+witnessed how women practised "engraftment": taking a sample of pus from
+someone afflicted with smallpox and applying it to wounds on the wrists
+and ankles of volunteers, so introducing the pus into their
+bloodstreams. Smallpox in Turkey, had become less virulent because of
+this.
+
+Variolation or vaccination, began to be widely used in England in 1721.
+
+Methods of vaccination were:
+
+-   placing smallpox material onto scratched skin;
+
+-   blowing powdered smallpox scabs up the nose of the recipient
+
+-   inoculation by introducing smallpox material into the skin with a
+    needle.
+
+**Edward Jenner** 1749-1823 would have been variolated before going to
+school. He became a GP in Gloucestershire and has been revered for
+eradicating smallpox by using cowpox (for more discussion on this see
+the link below). Observing that milk-maids who contracted cowpox were
+protected from smallpox, Jenner scratched cowpox, taken from Sarah
+Nelmes, a dairymaid, onto a young orphan boy called James Phipps. James
+then received two inoculations with smallpox several months apart and
+suffered no ill effect.
+
+It was also observed that a vaccination with cow pox could cause cow pox
+transmission, so spreading immunity from smallpox. James Phipps received
+reward, for his part in the experiment, in the form of a cottage for his
+lifetime.
+
+Dr Goodall referred to the start of movements against vaccination. In
+researching the beginnings of anti- vaccination leagues, I discovered
+the following: (to read more, use the link at the end)
+
+The smallpox vaccination was made statutory for all new born children in
+1853 and between 1864 and 1868, during a mild epidemic, enforcement of
+vaccination became rigid, with penalities for not complying. After
+reports of serious and also fatal side effects, an anti-vaccination
+league began, chiefly in Leicester; however stricter measures were
+introduced in 1871 leading to 6000 prosecutions in Leicester alone.
+
+The last natural case of smallpox was in 1977 in Somalia, and the last
+case, was Janet Parker a medical photographer who worked at the
+Birmingham medical school, which housed a smallpox laboratory.
+
+**Louis Pasteur**, discovered pasteurisation (the heat treatment of
+foods). He believed in germ theory; the activity of microorganisms being
+responsible for disease. His investigations into cholera amongst
+chickens led to his discovery of how to make vaccines by attenuating, or
+weakening, the microbe involved. His continued research led to vaccines
+for Anthrax and rabies. His first human patient, for the rabies vaccine,
+was Joseph Meister, a nine-year-old boy who would otherwise have died.
+He lived to tell the tale.
+
+Pasteur also speculated on ways in which the body can rid itself of
+foreign matter, and supported the view that phagocytes are agents of
+immunity.
+
+**[Other Notable Figures from the past:]{.underline}**
+
+During a cholera outbreak in 1854, a physician, **John Snow** mapped the
+area of Soho and famously identified a specific water pump as the source
+of the disease, leading to the removal of the pump's handle and, as a
+result, a significant reduction in the spread of infection. 
+
+**Ignaz Semmelweis, a C19th Hungarian physician was described as: "The
+saviour of mothers and the father of infection control," when he**
+discovered that the incidence of puerperal fever could be drastically
+cut by the use of hand disinfection in obstetrical clinics. He
+thoroughly investigated possible causes and reached the conclusion
+that medical students carried "cadaverous particles" on their hands from
+the autopsy room to the patients they examined. He instituted a policy
+of using a solution of chlorinated lime for hand washing, and the death
+rate dropped.
+
+**Joseph Lister**, inspired by Louis Pasteur's germ theory, applied it
+to surgery. He experimented with carbolic acid (phenol) as an
+antiseptic, using it to clean wounds, instruments, and the operating
+room air. His antiseptic methods dramatically reduced post-operative
+infection and mortality rates, and his Antisepsis System forms the basis
+of modern infection-control.
+
+**Polioviruses:** Paralytic polio affects 0.1% - 0.2% of infected,
+symptomatic people. Paul Alexander, who developed this form of polio
+survived in an iron lung machine for 71 years. Franklin Roosevelt, the
+32^nd^ president of the USA, was diagnosed with polio in 1921, at the
+age of 39. He founded the National Centre for Infantile Paralysis,
+asking people to give a dime to fund research into polio (The March of
+Dimes).
+
+In the 1950s poor sanitation, improper sewage disposal and lack of
+access to clean water, together with overcrowding, caused a rise in
+polio outbreaks. During this time, the National Centre for Infantile
+Paralysis funded the research of **Jonas Salk.** Salk created an
+**inactivated vaccine** by using formaldehyde to kill the poliovirus
+without destroying its [antigenic]{.underline} properties (the vaccine
+can still trigger an immune response).
+
+The **Covid 19 mRNA** vaccine concluded Dr Goodall's talk, and this led
+to much discussion, as Covid 19 and all associated with it has so
+recently affected the global population in so many ways.
+
+Ian explained how this novel approach worked, it being neither a live
+nor inactivated vaccine; instead it could be likened to a computer
+algorithm, as it sends instruction via mRNA telling cells how to
+manufacture the coronavirus spike protein. Indeed, it was created
+(according to Moderna) in 42 days with the help of Artificial
+Intelligence.
+
+A simple explanation of how it works: The mRNA introduced into muscle
+cells contains a blueprint for the spike protein. Ribosomes follow this
+set of instructions, assembling amino acids to form the spike protein.
+The immune system recognises this as a foreign body and an immune
+response is triggered.
+
+This being a novel approach to triggering an immune response, there has
+been much controversy surrounding it, and to the strict global measures
+applied and their consequences. Discussion after the presentation,
+brought up questions and comments linked to adverse reactions and the
+reporting of them. A I, when asked the question, states that under
+reporting of adverse events is 90%.
+
+I have found many articles to which there are links below:
+
+**Lady Mary information:**
+
+<https://www.historic-uk.com/HistoryUK/HistoryofBritain/Lady-Mary-Wortley-Montagu-Campaign-Against-Smallpox/>
+
+**variolation:**
+
+<https://blogs.ncl.ac.uk/speccoll/2021/07/28/the-roots-of-vaccination-300-years-of-variolation-in-england/>
+
+**cowpox, Edward Jenner, insights:**
+
+<https://pmc.ncbi.nlm.nih.gov/articles/PMC3758677/>
+
+**Anti- vaccination league (Smallpox)**
+
+<https://pmc.ncbi.nlm.nih.gov/articles/PMC1628897/pdf/archdisch00727-0091.pdf>
+
+**Louis Pasteur**
+
+<https://www.sciencehistory.org/education/scientific-biographies/louis-pasteur/>
+
+**Puerperal Fever**
+
+[https://pmc.ncbi.nlm.nih.gov/articles/PMC3881728/\#:\~:text=Semmelweis%20discovered%20that%20the%20incidence,"father%20of%20infection%20control](https://pmc.ncbi.nlm.nih.gov/articles/PMC3881728/#:~:text=Semmelweis%20discovered%20that%20the%20incidence,)
+
+**Joseph Lister**
+
+<https://pmc.ncbi.nlm.nih.gov/articles/PMC9854334/>
+
+**Polio**
+
+<https://www.sciencedirect.com/topics/neuroscience/paralytic-polio#:~:text=Poliomyelitis%20(Polio)%20and%20Polioviruses&text=Approximately%200.1%25%20to%200.2%25%20of,loss%20of%20reflexes%2C%20and%20paralysis>.
+
+**Jonas Salk**
+
+**<https://pmc.ncbi.nlm.nih.gov/articles/PMC6351694/#:~:text=Salk%20and%20his%20team%20used,his%20wife%20and%20their%20children>.**
+
+**Covid19 and Adverse Reactions**
+
+**https://pmc.ncbi.nlm.nih.gov/articles/PMC11169277/**
+
+[**https://www.gov.uk/guidance/high-consequence-infectious-diseases-hcid**](https://www.gov.uk/guidance/high-consequence-infectious-diseases-hcid)
+
+[**https://pmc.ncbi.nlm.nih.gov/articles/PMC10846003/**](https://pmc.ncbi.nlm.nih.gov/articles/PMC10846003/)
+
+[**https://www.hartgroup.org/mortality-data-covid-19/**](https://www.hartgroup.org/mortality-data-covid-19/)
+
+[**https://bpspubs.onlinelibrary.wiley.com/doi/full/10.1111/bcp.15601**](https://bpspubs.onlinelibrary.wiley.com/doi/full/10.1111/bcp.15601)
