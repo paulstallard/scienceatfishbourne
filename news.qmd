@@ -18,6 +18,35 @@ If you've seen something that you think would be of interest to the group, pleas
 :::
 
 ```{=html}
+<a class="fragment" href="https://pubmed.ncbi.nlm.nih.gov/39813330/">
+    <img src ="https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg" width="200px">
+    <h3>A nanoparticle-based wireless deep brain stimulation system that reverses Parkinson's disease - PubMed</h3>
+        <b>pubmed.ncbi.nlm.nih.gov</b>
+    <p class="text">Deep brain stimulation technology enables the neural modulation with precise spatial control but requires permanent implantation of conduits. Here, we describe a photothermal wireless deep brain stimulation nanosystem capable of eliminating α-synuclein aggregates and restoring degenerated dopamine n …
+    </p>
+    <scan class="read-more">Click to read the full article</span>
+</a>
+```
+<p></p>
+
+```{=html}
+<a class="fragment" href="https://www.simonandschuster.co.uk/books/How-to-Teach-Quantum-Physics-to-Your-Dog/Chad-Orzel/How-to-Teach/9781780740966">
+    <img src ="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781780740966/how-to-teach-quantum-physics-to-your-dog-9781780740966_lg.jpg" width="200px">
+    <h3>Book recommendation: How to Teach Quantum Physics to Your Dog</h3>
+        <b>www.simonandschuster.co.uk</b>
+    <p class="text">A few of us have been reading this book. The author takes us through the core concepts of quantum physics by explaining them to his dog! It's well written and very enjoyable. Although it's reasonably accessible, some of the concepts are complex (quantum teleportation...) and might benefit from a second reading. The official blurb:
+    </p>
+    <p class="text">Emmy is no ordinary dog. When adopted from the shelter by physics professor Chad Orzel, she becomes immediately fascinated by his work. Could she use quantum tunnelling to get through the neighbour’s fence? How about diffracting round a tree to chase squirrels? Or using virtual particles to catch bunnies made of cheese?
+    </p>
+    <p class="text">Taking Emmy’s anarchic behaviour as a starting point, Orzel explains the key theories of quantum physics. From quarks and gluons to Heisenberg’s uncertainty principle, this is a uniquely entertaining way to unlock the secrets of the universe.
+    </p>
+    <scan class="read-more">Click to read the full article</span>
+</a>
+```
+<p></p>
+
+
+```{=html}
 <a class="fragment" href="https://www.sciencefocus.com/the-human-body/food-boost-health-polyphenols">
     <img src ="https://c02.purpledshub.com/uploads/sites/41/2025/01/A-selection-of-fresh-vegetables.jpg?w=1200" width="200px">
     <h3>Eating more polyphenols could be the secret to a longer, healthier life. Here’s how</h3>
@@ -51,4 +80,3 @@ If you've seen something that you think would be of interest to the group, pleas
     <scan class="read-more">Click to read the full article</span>
 </a>
 ```
-
