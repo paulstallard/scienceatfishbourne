@@ -18,9 +18,9 @@ If you've seen something that you think would be of interest to the group, pleas
 :::
 
 ```{=html}
-<a class="fragment" href="https://pubmed.ncbi.nlm.nih.gov/39813330/">
+<a class="fragment" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11734722/">
     <img src ="https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg" width="200px">
-    <h3>A nanoparticle-based wireless deep brain stimulation system that reverses Parkinson's disease - PubMed</h3>
+    <h3>A nanoparticle-based wireless deep brain stimulation system that reverses Parkinson's disease</h3>
         <b>pubmed.ncbi.nlm.nih.gov</b>
     <p class="text">Deep brain stimulation technology enables the neural modulation with precise spatial control but requires permanent implantation of conduits. Here, we describe a photothermal wireless deep brain stimulation nanosystem capable of eliminating α-synuclein aggregates and restoring degenerated dopamine n …
     </p>
