@@ -4,6 +4,8 @@ project:
 
 website:
   title: Science at Fishbourne
+  site-url: https://scienceatfishbourne.org
+  open-graph: true
   favicon: /images/microscope.svg
   navbar:
     title: false

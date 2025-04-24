@@ -5,11 +5,6 @@ format:
     css: newsstyle.css
     link-external-icon: false
     link-external-newwindow: true
-listing:
-  contents: news
-  sort: "date desc"
-  categories: false
-  fields: [image, date, title, subtitle, author, description]
 ---
 
 :::{.callout-note title="Science News"}
