@@ -1,0 +1,19 @@
+---
+title: Drones in Action
+subtitle: The Scope for Transforming Medical Logistics
+author: Professor Tom Cherrett
+date: 2025-04-28
+---
+
+::: {.img-float}
+![](/posters/2025-04.jpg){width=30% style="float: right; margin: 5px;"}
+:::
+
+# Overview
+
+Tom Cherrett, Professor of Logistics and Transport Management, University of Southampton,
+will give an overview of how drones are being used across a range of industrial sectors, focussing on their scope for assisting medical logistics, using experiences from trials undertaken in the Solent region.
+
+# Lynn's Review
+
+Coming soon...
