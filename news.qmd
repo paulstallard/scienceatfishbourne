@@ -27,7 +27,7 @@ If you've seen something that you think would be of interest to the group, pleas
 
 ```{=html}
 <a class="fragment" href="https://www.feynmanlectures.caltech.edu/III_01.html">
-    <img src="https://pictures.abebooks.com/isbn/9780201021165-uk.jpg" width="200px">
+    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347353590i/17280.jpg" width="200px">
     <h3>The Feynman Lectures on Physics: Quantum Behavior</h3>
         <b>feynmanlectures.caltech.edu</b>
     <p class="text">As referenced in the Brian Cox video above.

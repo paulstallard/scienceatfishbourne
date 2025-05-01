@@ -4,7 +4,7 @@ default:
 	python scripts/talkpages.py
 
 clean:
-	rm -rf _output/*
+	rm -rf _site/*
 	find . -type d -name '*_files' -exec rm -rf {} +
 
 veryclean: clean
