@@ -13,6 +13,19 @@ If you've seen something that you think would be of interest to the group, pleas
 :::
 
 ```{=html}
+<a class="fragment" href="https://youtu.be/BHEhxPuMmQI?si=OjIk0ZfO4F1bkpwd">
+    <img src ="https://i.ytimg.com/vi/BHEhxPuMmQI/maxresdefault.jpg" width="200px">
+    <h3>Physicist Brian Cox explains quantum physics in 22 minutes</h3>
+        <b>www.youtube.com</b>
+    <p class="text">With a topic as seemingly complicated as quantum physics, where can you start if you want to build your understanding? In just 22 minutes, physicist and professor Brian Cox unpacks the subatomic world, beginning with the theories as we understand
+    them today.
+    </p>
+    <scan class="read-more">Click to read the full article</span>
+</a>
+<p></p>
+```
+
+```{=html}
 <a class="fragment" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11734722/">
     <img src ="https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg" width="200px">
     <h3>A nanoparticle-based wireless deep brain stimulation system that reverses Parkinson's disease</h3>
@@ -21,8 +34,8 @@ If you've seen something that you think would be of interest to the group, pleas
     </p>
     <scan class="read-more">Click to read the full article</span>
 </a>
-```
 <p></p>
+```
 
 ```{=html}
 <a class="fragment" href="https://www.simonandschuster.co.uk/books/How-to-Teach-Quantum-Physics-to-Your-Dog/Chad-Orzel/How-to-Teach/9781780740966">
@@ -37,9 +50,13 @@ If you've seen something that you think would be of interest to the group, pleas
     </p>
     <scan class="read-more">Click to read the full article</span>
 </a>
-```
 <p></p>
+```
 
+
+::: {.callout-note collapse="true" icon="false"}
+
+## Science News Archive (click to expand)
 
 ```{=html}
 <a class="fragment" href="https://www.sciencefocus.com/the-human-body/food-boost-health-polyphenols">
@@ -50,8 +67,8 @@ If you've seen something that you think would be of interest to the group, pleas
     </p>
     <scan class="read-more">Click to read the full article</span>
 </a>
-```
 <p></p>
+```
 
 ```{=html}
 <a class="fragment" href="https://extension.colostate.edu/topic-areas/nutrition-food-safety-health/dietary-supplements-herbals-and-botanicals-9-370/">
@@ -62,8 +79,8 @@ If you've seen something that you think would be of interest to the group, pleas
     </p>
     <scan class="read-more">Click to read the full article</span>
 </a>
-```
 <p></p>
+```
 
 ```{=html}
 <a class="fragment" href="https://news.stanford.edu/stories/2025/01/sodium-ion-batteries-need-breakthroughs-to-compete">
@@ -74,4 +91,7 @@ If you've seen something that you think would be of interest to the group, pleas
     </p>
     <scan class="read-more">Click to read the full article</span>
 </a>
+<p></p>
 ```
+
+:::
