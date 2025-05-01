@@ -1,8 +1,6 @@
 .DS_Store
+__pycache__/
 
 /_site/
 /.quarto/
 
-
-Makefile
-talks.py
