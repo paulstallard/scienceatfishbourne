@@ -1,7 +1,7 @@
 .PHONEY: default clean veryclean
 
 default:
-	python scripts/gentalkpages.py
+	python scripts/talkpages.py
 
 clean:
 	rm -rf _output/*

@@ -14,11 +14,25 @@ If you've seen something that you think would be of interest to the group, pleas
 
 ```{=html}
 <a class="fragment" href="https://youtu.be/BHEhxPuMmQI?si=OjIk0ZfO4F1bkpwd">
-    <img src ="https://i.ytimg.com/vi/BHEhxPuMmQI/maxresdefault.jpg" width="200px">
+    <img src="https://i.ytimg.com/vi/BHEhxPuMmQI/maxresdefault.jpg" width="200px">
     <h3>Physicist Brian Cox explains quantum physics in 22 minutes</h3>
         <b>www.youtube.com</b>
     <p class="text">With a topic as seemingly complicated as quantum physics, where can you start if you want to build your understanding? In just 22 minutes, physicist and professor Brian Cox unpacks the subatomic world, beginning with the theories as we understand
     them today.
+    </p>
+    <scan class="read-more">Click to read the full article</span>
+</a>
+<p></p>
+```
+
+```{=html}
+<a class="fragment" href="https://www.feynmanlectures.caltech.edu/III_01.html">
+    <img src="https://pictures.abebooks.com/isbn/9780201021165-uk.jpg" width="200px">
+    <h3>The Feynman Lectures on Physics: Quantum Behavior</h3>
+        <b>feynmanlectures.caltech.edu</b>
+    <p class="text">As referenced in the Brian Cox video above.
+    </p>
+    <p class="text">Quantum mechanics is the description of the behavior of matter and light in all its details and, in particular, of the happenings on an atomic scale. Things on a very small scale behave like nothing that you have any direct experience about. They do not behave like waves, they do not behave like particles, they do not behave like clouds, or billiard balls, or weights on springs, or like anything that you have ever seen.
     </p>
     <scan class="read-more">Click to read the full article</span>
 </a>
