@@ -4,9 +4,7 @@ date: 2024-12-16
 authors:
   - name: Robert Hornby
 author: Robert Hornby
-
 categories: space
-title-block-style: default
 ---
 
 ::: {.img-float}

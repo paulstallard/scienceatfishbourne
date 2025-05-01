@@ -5,9 +5,7 @@ date: 2025-02-24
 authors:
   - name: Kevin Brown MBE CPhys FlnstP
 author: Kevin Brown MBE CPhys FlnstP
-
 categories: [environment]
-title-block-style: default
 ---
 
 ::: {.img-float}

@@ -6,9 +6,7 @@ authors:
   - name: Dr James Kinross
     affiliation: Senior Lecturer / Consultant Surgeon, Imperial College, London
 author: Dr James Kinross
-
 categories: [medicine, health]
-title-block-style: default
 ---
 
 ::: {.img-float}

@@ -5,9 +5,7 @@ date: 2025-03-24
 authors:
   - name: Dr Ian Goodall
 author: Dr Ian Goodall
-
 categories: [medicine, health]
-title-block-style: default
 ---
 
 ::: {.img-float}

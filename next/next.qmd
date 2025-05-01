@@ -1,9 +1,12 @@
 ---
-title: Details coming soon.
+title: Details coming soon
 date: 2025-05-19
+authors:
+  - name: Speaker TBC
+author: Speaker TBC
 ---
 
 ::: {.img-float}
-![](/posters/placeholder.jpg){width=30% style="float: right; margin: 5px;"}
+![](/posters/2025-05.jpg){width=30% style="float: right; margin: 5px;"}
 :::
 

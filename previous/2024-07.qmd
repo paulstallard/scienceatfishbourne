@@ -5,9 +5,7 @@ authors:
   - name: Dr Tony Whitbread
     affiliation: President, Sussex Wildlife Trust
 author: Dr Tony Whitbread
-
 categories: environment
-title-block-style: default
 ---
 
 ::: {.img-float}

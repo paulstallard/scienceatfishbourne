@@ -6,9 +6,7 @@ authors:
   - name: Professor Jim Smith
     affiliation: Professor of Environmental Science, School of Environmental, Geographical and Geological Sciences, University of Portsmouth
 author: Professor Jim Smith
-
 categories: nuclear energy
-title-block-style: default
 ---
 
 ::: {.img-float}

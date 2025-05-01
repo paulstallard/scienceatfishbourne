@@ -5,9 +5,7 @@ authors:
   - name: Kevin Brown MBE
     affiliation: Distinguished Scientist, Elekta
 author: Kevin Brown MBE
-
 categories: [medicine, health]
-title-block-style: default
 ---
 
 ::: {.img-float}

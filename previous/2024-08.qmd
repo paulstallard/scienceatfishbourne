@@ -5,9 +5,7 @@ authors:
   - name: Keith Herbert
     affiliation: Pathfinder Delivery Lead, Southern Water
 author: Keith Herbert
-
 categories: environment
-title-block-style: default
 ---
 
 ::: {.img-float}

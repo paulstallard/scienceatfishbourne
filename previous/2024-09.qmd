@@ -7,9 +7,7 @@ authors:
   - name: Professor Sam Blacker
     affiliation: Professor of Exercise Physiology and Nutrition, Univeristy of Chichester
 author: Professor Mike Lauder and Professor Sam Blacker
-
 categories: sports science
-title-block-style: default
 ---
 
 ::: {.img-float}

@@ -6,9 +6,7 @@ authors:
   - name: Georgie Banfield
     affiliation: Research Associate, Insitute of Marine Sciences, University of Portsmouth
 author: Georgie Banfield
-
 categories: [environment, citizen science]
-title-block-style: default
 ---
 
 ::: {.img-float}

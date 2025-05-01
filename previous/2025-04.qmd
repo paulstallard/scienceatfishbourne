@@ -6,9 +6,7 @@ authors:
   - name: Professor Tom Cherrett
     affiliation: Professor of Logistics and Transport Management, University of Southampton
 author: Professor Tom Cherrett
-
 categories: [logistics]
-title-block-style: default
 ---
 
 ::: {.img-float}

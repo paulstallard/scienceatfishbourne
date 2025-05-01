@@ -4,9 +4,7 @@ date: 2024-11-25
 authors:
   - name: Gary Mason
 author: Gary Mason
-
 categories: [environment, chemistry]
-title-block-style: default
 ---
 
 ::: {.img-float}
