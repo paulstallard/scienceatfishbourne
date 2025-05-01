@@ -1,8 +1,13 @@
 ---
 title: The Story of Vaccines
 subtitle: Edward Jenner to the Covid 19 vaccine
-author: Dr Ian Goodall
 date: 2025-03-24
+authors:
+  - name: Dr Ian Goodall
+author: Dr Ian Goodall
+
+categories: [medicine, health]
+title-block-style: default
 ---
 
 ::: {.img-float}
@@ -18,6 +23,6 @@ The star of the talk is Louis Pasteur, who develops vaccines against a variety o
 I explain how the early 20th century saw increasingly widespread outbreaks of polio and how Jonas Salk developed the first vaccine against it.
 I finish by describing how mRNA vaccines were developed to fight Covid.
 
-# Lynn’s Review
+# Lynn's Review
 
 {{< include /reviews/_2025-03.qmd >}}
