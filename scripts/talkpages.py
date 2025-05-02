@@ -14,7 +14,16 @@ class Author:
 
 class Talk:
     def __init__(
-        self, date, author, *, title, subtitle=None, overview=None, categories="", attachments=None, review=None
+        self,
+        date,
+        author,
+        *,
+        title,
+        subtitle=None,
+        overview=None,
+        categories="",
+        attachments=None,
+        review=None,
     ):
         if len(date) != 10:
             sys.exit("Talk date must be of form 'YYYY-MM-DD'")
@@ -66,7 +75,8 @@ previous_talks = [
     Talk(
         "2024-05-20",
         Author(
-            "Georgie Banfield", affiliation="Research Associate, Insitute of Marine Sciences, University of Portsmouth"
+            "Georgie Banfield",
+            affiliation="Research Associate, Insitute of Marine Sciences, University of Portsmouth",
         ),
         title="Competitive Angling as a Scientific Tool",
         subtitle="The CAST Project",
@@ -74,7 +84,10 @@ previous_talks = [
     ),
     Talk(
         "2024-06-24",
-        Author("Dr James Kinross", affiliation="Senior Lecturer / Consultant Surgeon, Imperial College, London"),
+        Author(
+            "Dr James Kinross",
+            affiliation="Senior Lecturer / Consultant Surgeon, Imperial College, London",
+        ),
         title="An Internal Climate Crisis",
         subtitle="Lessons From The Microbes That Live Within",
         categories="[medicine, health]",
@@ -94,7 +107,10 @@ previous_talks = [
     Talk(
         "2024-09-23",
         [
-            Author("Professor Mike Lauder", affiliation="Professor of Sports Biomechanics, Univeristy of Chichester"),
+            Author(
+                "Professor Mike Lauder",
+                affiliation="Professor of Sports Biomechanics, Univeristy of Chichester",
+            ),
             Author(
                 "Professor Sam Blacker",
                 affiliation="Professor of Exercise Physiology and Nutrition, Univeristy of Chichester",
@@ -110,8 +126,18 @@ previous_talks = [
         subtitle="How man-made chemicals became legalised food ingredients",
         categories="[food, chemistry]",
     ),
-    Talk("2024-11-25", Author("Gary Mason"), title="The Wonders of Water", categories="[environment, chemistry]"),
-    Talk("2024-12-16", Author("Robert Hornby"), title="The James Web Telescope", categories="space"),
+    Talk(
+        "2024-11-25",
+        Author("Gary Mason"),
+        title="The Wonders of Water",
+        categories="[environment, chemistry]",
+    ),
+    Talk(
+        "2024-12-16",
+        Author("Robert Hornby"),
+        title="The James Web Telescope",
+        categories="space",
+    ),
     Talk(
         "2025-01-27",
         Author("Professor Matt Guille", affiliation="University of Portsmouth"),
@@ -164,6 +190,13 @@ will give an overview of how drones are being used across a range of industrial 
 
 next_talk = Talk(
     "2025-05-19",
+    Author("Dr Tony Whitbread", affiliation="President, Sussex Wildlife Trust"),
+    title="The wild life and wild places of Sussex",
+    overview="""The Sussex Wildlife Trust has some 32 nature reserves, home to a large number of interesting, unusual species, and comprised of rich, diverse habitats.  This talk will not only look at these interesting components but will also examine the ecological relations underpinning these places, including their geology, hydrology and climate.  We will start large scale, looking at our place on the globe and indeed in our solar system and then focus down to some familiar, and perhaps not so familiar places in Sussex.""",
+)
+
+blank_next_talk = Talk(
+    "2025-06-23",
     Author("Speaker TBC"),
     title="Details coming soon",
 )
@@ -278,7 +311,7 @@ def main():
 
     # Generate the next talk page
     page = talkqmd(next_talk)
-    filename = f"next/next.qmd"
+    filename = "next/next.qmd"
     with open(tmpfile, "w") as f:
         f.write(page)
     update_file(filename, tmpfile, args.backup)
