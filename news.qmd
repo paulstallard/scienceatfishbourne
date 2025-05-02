@@ -25,13 +25,14 @@ If you've seen something that you think would be of interest to the group, pleas
 <p></p>
 ```
 
+In the video above, Brian Cox references this Richard Feynman lecture as
+"the best description of the double-slit experiment":
+
 ```{=html}
 <a class="fragment" href="https://www.feynmanlectures.caltech.edu/III_01.html">
     <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347353590i/17280.jpg" width="200px">
     <h3>The Feynman Lectures on Physics: Quantum Behavior</h3>
         <b>feynmanlectures.caltech.edu</b>
-    <p class="text">As referenced in the Brian Cox video above.
-    </p>
     <p class="text">Quantum mechanics is the description of the behavior of matter and light in all its details and, in particular, of the happenings on an atomic scale. Things on a very small scale behave like nothing that you have any direct experience about. They do not behave like waves, they do not behave like particles, they do not behave like clouds, or billiard balls, or weights on springs, or like anything that you have ever seen.
     </p>
     <scan class="read-more">Click to read the full article</span>
@@ -39,12 +40,14 @@ If you've seen something that you think would be of interest to the group, pleas
 <p></p>
 ```
 
+Here's another explanation of the double-slit experiment that some might find more accessible:
+
 ```{=html}
-<a class="fragment" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11734722/">
-    <img src ="https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg" width="200px">
-    <h3>A nanoparticle-based wireless deep brain stimulation system that reverses Parkinson's disease</h3>
-        <b>pubmed.ncbi.nlm.nih.gov</b>
-    <p class="text">Deep brain stimulation technology enables the neural modulation with precise spatial control but requires permanent implantation of conduits. Here, we describe a photothermal wireless deep brain stimulation nanosystem capable of eliminating α-synuclein aggregates and restoring degenerated dopamine n …
+<a class="fragment" href="https://www.scienceabc.com/pure-sciences/double-slit-experiment.html">
+    <img src ="newsimages/twoslit.jpg" width="200px">
+    <h3>What Is The Double-Slit Experiment?</h3>
+        <b>www.scienceabc.com</b>
+    <p class="text">The double-slit experiment shows the duality in the quantum world. A photon's wave/particle duality is affected when it is observed.
     </p>
     <scan class="read-more">Click to read the full article</span>
 </a>
@@ -71,6 +74,18 @@ If you've seen something that you think would be of interest to the group, pleas
 ::: {.callout-note collapse="true" icon="false"}
 
 ## Science News Archive (click to expand)
+
+```{=html}
+<a class="fragment" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11734722/">
+    <img src ="https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg" width="200px">
+    <h3>A nanoparticle-based wireless deep brain stimulation system that reverses Parkinson's disease</h3>
+        <b>pubmed.ncbi.nlm.nih.gov</b>
+    <p class="text">Deep brain stimulation technology enables the neural modulation with precise spatial control but requires permanent implantation of conduits. Here, we describe a photothermal wireless deep brain stimulation nanosystem capable of eliminating α-synuclein aggregates and restoring degenerated dopamine n …
+    </p>
+    <scan class="read-more">Click to read the full article</span>
+</a>
+<p></p>
+```
 
 ```{=html}
 <a class="fragment" href="https://www.sciencefocus.com/the-human-body/food-boost-health-polyphenols">
