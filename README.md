@@ -23,7 +23,7 @@ git pull
         - `cp placeholder.jpg posters/YYYY_MM.qmd`
     - Use `"Details coming soon"` as title
     - Use `"Speaker TBC"` as author
-- Run `python scripts/talkpages.py`
+- Run `python scripts/talkpages.py` (or just `make`)
 
 Update remote repo
 
@@ -42,6 +42,6 @@ This will overwrite the placeholder image
 ### Add review
 
 - Remove the `review="..."` from the Talk object in `talkpages.py`
-- Convert the review to markdown (using `pandoc` if necessary).
-Save it to `reviews/_YYYY-MM.qmd`
-- Run `python scripts/talkpages.py`
+- Convert the review to markdown and save it to `reviews/_YYYY-MM.qmd`
+(if required, use `pandoc review.docx -o reviews/_YYYY_MM.qmd`).
+- Run `python scripts/talkpages.py` (or just `make`)

@@ -1,3 +1,4 @@
+# Search for next_talk to get to the most recent talks
 import argparse
 import datetime
 import filecmp
@@ -200,6 +201,8 @@ blank_next_talk = Talk(
     title="Details coming soon",
 )
 
+# Author("name", affiliation="affiliation"),
+# review="Coming soon...",
 
 talktemplate = """---
 title: $title
