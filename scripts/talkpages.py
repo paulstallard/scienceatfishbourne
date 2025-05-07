@@ -184,7 +184,6 @@ I finish by describing how mRNA vaccines were developed to fight Covid.""",
         overview="""Tom Cherrett, Professor of Logistics and Transport Management, University of Southampton,
 will give an overview of how drones are being used across a range of industrial sectors, focussing on their scope for assisting medical logistics, using experiences from trials undertaken in the Solent region.""",
         categories="[logistics]",
-        review="Coming soon...",
     ),
 ]
 

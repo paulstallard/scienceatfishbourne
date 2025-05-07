@@ -20,4 +20,4 @@ will give an overview of how drones are being used across a range of industrial 
 
 # Lynn's Review
 
-Coming soon...
+{{< include /reviews/_2025-04.qmd >}}
