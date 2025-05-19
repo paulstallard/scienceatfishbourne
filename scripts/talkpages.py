@@ -186,13 +186,20 @@ I finish by describing how mRNA vaccines were developed to fight Covid.""",
 will give an overview of how drones are being used across a range of industrial sectors, focussing on their scope for assisting medical logistics, using experiences from trials undertaken in the Solent region.""",
         categories="[logistics]",
     ),
+    Talk(
+        "2025-05-19",
+        Author("Dr Tony Whitbread", affiliation="President, Sussex Wildlife Trust"),
+        title="The wildlife and wild places of Sussex",
+        overview="""The Sussex Wildlife Trust has some 32 nature reserves, home to a large number of interesting, unusual species, and comprised of rich, diverse habitats.  This talk will not only look at these interesting components but will also examine the ecological relations underpinning these places, including their geology, hydrology and climate.  We will start large scale, looking at our place on the globe and indeed in our solar system and then focus down to some familiar, and perhaps not so familiar places in Sussex.""",
+        categories="[environment]",
+        review="Coming soon...",
+    )
 ]
 
 next_talk = Talk(
-    "2025-05-19",
-    Author("Dr Tony Whitbread", affiliation="President, Sussex Wildlife Trust"),
-    title="The wild life and wild places of Sussex",
-    overview="""The Sussex Wildlife Trust has some 32 nature reserves, home to a large number of interesting, unusual species, and comprised of rich, diverse habitats.  This talk will not only look at these interesting components but will also examine the ecological relations underpinning these places, including their geology, hydrology and climate.  We will start large scale, looking at our place on the globe and indeed in our solar system and then focus down to some familiar, and perhaps not so familiar places in Sussex.""",
+    "2025-06-23",
+    Author("Speaker TBC"),
+    title="Details coming soon",
 )
 
 blank_next_talk = Talk(

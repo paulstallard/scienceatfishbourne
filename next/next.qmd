@@ -1,16 +1,12 @@
 ---
-title: The wild life and wild places of Sussex
-date: 2025-05-19
+title: Details coming soon
+date: 2025-06-23
 authors:
-  - name: Dr Tony Whitbread
-    affiliation: President, Sussex Wildlife Trust
-author: Dr Tony Whitbread
+  - name: Speaker TBC
+author: Speaker TBC
 ---
 
 ::: {.img-float}
-![](/posters/2025-05.jpg){width=30% style="float: right; margin: 5px;"}
+![](/posters/2025-06.jpg){width=30% style="float: right; margin: 5px;"}
 :::
 
-# Overview
-
-The Sussex Wildlife Trust has some 32 nature reserves, home to a large number of interesting, unusual species, and comprised of rich, diverse habitats.  This talk will not only look at these interesting components but will also examine the ecological relations underpinning these places, including their geology, hydrology and climate.  We will start large scale, looking at our place on the globe and indeed in our solar system and then focus down to some familiar, and perhaps not so familiar places in Sussex.
