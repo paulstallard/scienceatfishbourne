@@ -192,7 +192,6 @@ will give an overview of how drones are being used across a range of industrial 
         title="The wildlife and wild places of Sussex",
         overview="""The Sussex Wildlife Trust has some 32 nature reserves, home to a large number of interesting, unusual species, and comprised of rich, diverse habitats.  This talk will not only look at these interesting components but will also examine the ecological relations underpinning these places, including their geology, hydrology and climate.  We will start large scale, looking at our place on the globe and indeed in our solar system and then focus down to some familiar, and perhaps not so familiar places in Sussex.""",
         categories="[environment]",
-        review="Coming soon...",
     )
 ]
 
