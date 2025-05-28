@@ -197,12 +197,14 @@ will give an overview of how drones are being used across a range of industrial 
 
 next_talk = Talk(
     "2025-06-23",
-    Author("Speaker TBC"),
-    title="Details coming soon",
+    Author("Dr Andrew Gow", affiliation="Research Fellow, Institute of Cosmology and Gravitation, University of Portsmouth"),
+    title="A History of the Universe in <<100 Observations",
+    overview="""The world we live on is only a tiny part of the vast universe that has existed for nearly 14 billion years! I will present the history of the universe, travelling backwards in time from the present day to the beginning, stopping along the way to visit planets, galaxies, black holes, and the structure of the universe itself.""",
+    categories="space"
 )
 
 blank_next_talk = Talk(
-    "2025-06-23",
+    "2025-07-28",
     Author("Speaker TBC"),
     title="Details coming soon",
 )
