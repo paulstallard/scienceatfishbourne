@@ -13,6 +13,18 @@ If you've seen something that you think would be of interest to the group, pleas
 :::
 
 ```{=html}
+<a class="fragment" href="https://www.sciencefocus.com/space/the-universes-7-biggest-mysteries-and-why-theyre-unsolved">
+    <img src ="https://c02.purpledshub.com/uploads/sites/41/2021/02/something-better-than-nothing-crop-edb2d36.jpg?webp=1&w=1200" width="200px">
+    <h3>The Universe’s 7 biggest mysteries (and why they’re unsolved) - BBC Science Focus Magazine</h3>
+        <b>www.sciencefocus.com</b>
+    <p class="text">Dark matter, the nature of time, aliens and supermassive black holes: these seven things will be puzzling astronomers for years to come.
+    </p>
+    <scan class="read-more">Click to read the full article</span>
+</a>
+<p></p>
+```
+
+```{=html}
 <a class="fragment" href="https://youtu.be/BHEhxPuMmQI?si=OjIk0ZfO4F1bkpwd">
     <img src="https://i.ytimg.com/vi/BHEhxPuMmQI/maxresdefault.jpg" width="200px">
     <h3>Physicist Brian Cox explains quantum physics in 22 minutes</h3>
@@ -54,6 +66,10 @@ Here's another explanation of the double-slit experiment that some might find mo
 <p></p>
 ```
 
+::: {.callout-note collapse="true" icon="false"}
+
+## Science News Archive (click to expand)
+
 ```{=html}
 <a class="fragment" href="https://www.simonandschuster.co.uk/books/How-to-Teach-Quantum-Physics-to-Your-Dog/Chad-Orzel/How-to-Teach/9781780740966">
     <img src ="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781780740966/how-to-teach-quantum-physics-to-your-dog-9781780740966_lg.jpg" width="200px">
@@ -69,11 +85,6 @@ Here's another explanation of the double-slit experiment that some might find mo
 </a>
 <p></p>
 ```
-
-
-::: {.callout-note collapse="true" icon="false"}
-
-## Science News Archive (click to expand)
 
 ```{=html}
 <a class="fragment" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11734722/">
