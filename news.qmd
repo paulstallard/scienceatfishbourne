@@ -25,6 +25,34 @@ If you've seen something that you think would be of interest to the group, pleas
 ```
 
 ```{=html}
+<a class="fragment" href="https://eandt.theiet.org/2025/04/09/uk-achieves-first-long-distance-secure-data-transfer-over-quantum-network">
+    <img src ="https://eandt.theiet.org/sites/default/files/styles/uncropped_small/public/2025-04/web_d-abstract-tech-background-floating-numbers_Credit_Dmitriy-Rybin_shutterstock_714159727_1600x900.jpg?itok=xr9Aa3xv" width="200px">
+    <h3>UK achieves first long-distance secure data transfer over a quantum network</h3>
+        <b>eandt.theiet.org</b>
+    <p class="text">Researchers from the Universities of Bristol and Cambridgen have successfully conducted the UK’s first long-distance, ultra-secure data transfer using a quantum communications network.
+    </p>
+    <scan class="read-more">Click to read the full article</span>
+</a>
+<p></p>
+```
+
+```{=html}
+<a class="fragment" href="https://www.sciencefocus.com/news/covid-19-could-put-us-at-a-greater-risk-of-neurodegenerative-diseases-and-stroke">
+    <img src ="https://c02.purpledshub.com/uploads/sites/41/2022/06/GettyImages-1372504585-6b3a3a1.jpg?w=1880&webp=1" width="200px">
+    <h3>COVID-19 could put us at a greater risk of neurodegenerative diseases and stroke - BBC Science Focus Magazine</h3>
+        <b>www.sciencefocus.com</b>
+    <p class="text">Analysis of nearly one million Danish health records has found patients who tested positive for COVID-19 were subsequently more likely to be diagnosed with Alzheimer’s disease, Parkinson’s disease and stroke.
+    </p>
+    <scan class="read-more">Click to read the full article</span>
+</a>
+<p></p>
+```
+
+::: {.callout-note collapse="true" icon="false"}
+
+## Science News Archive (click to expand)
+
+```{=html}
 <a class="fragment" href="https://youtu.be/BHEhxPuMmQI?si=OjIk0ZfO4F1bkpwd">
     <img src="https://i.ytimg.com/vi/BHEhxPuMmQI/maxresdefault.jpg" width="200px">
     <h3>Physicist Brian Cox explains quantum physics in 22 minutes</h3>
@@ -65,10 +93,6 @@ Here's another explanation of the double-slit experiment that some might find mo
 </a>
 <p></p>
 ```
-
-::: {.callout-note collapse="true" icon="false"}
-
-## Science News Archive (click to expand)
 
 ```{=html}
 <a class="fragment" href="https://www.simonandschuster.co.uk/books/How-to-Teach-Quantum-Physics-to-Your-Dog/Chad-Orzel/How-to-Teach/9781780740966">
