@@ -192,15 +192,21 @@ will give an overview of how drones are being used across a range of industrial 
         title="The wildlife and wild places of Sussex",
         overview="""The Sussex Wildlife Trust has some 32 nature reserves, home to a large number of interesting, unusual species, and comprised of rich, diverse habitats.  This talk will not only look at these interesting components but will also examine the ecological relations underpinning these places, including their geology, hydrology and climate.  We will start large scale, looking at our place on the globe and indeed in our solar system and then focus down to some familiar, and perhaps not so familiar places in Sussex.""",
         categories="[environment]",
-    )
+    ),
+    Talk(
+        "2025-06-23",
+        Author("Dr Andrew Gow", affiliation="Research Fellow, Institute of Cosmology and Gravitation, University of Portsmouth"),
+        title="A History of the Universe in <<100 Observations",
+        overview="""The world we live on is only a tiny part of the vast universe that has existed for nearly 14 billion years! I will present the history of the universe, travelling backwards in time from the present day to the beginning, stopping along the way to visit planets, galaxies, black holes, and the structure of the universe itself.""",
+        categories="space",
+        review="Coming soon...",
+    ),
 ]
 
 next_talk = Talk(
-    "2025-06-23",
-    Author("Dr Andrew Gow", affiliation="Research Fellow, Institute of Cosmology and Gravitation, University of Portsmouth"),
-    title="A History of the Universe in <<100 Observations",
-    overview="""The world we live on is only a tiny part of the vast universe that has existed for nearly 14 billion years! I will present the history of the universe, travelling backwards in time from the present day to the beginning, stopping along the way to visit planets, galaxies, black holes, and the structure of the universe itself.""",
-    categories="space"
+    "2025-07-28",
+    Author("Speaker TBC"),
+    title="Details coming soon",
 )
 
 blank_next_talk = Talk(

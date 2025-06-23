@@ -1,17 +1,12 @@
 ---
-title: A History of the Universe in <<100 Observations
-date: 2025-06-23
+title: Details coming soon
+date: 2025-07-28
 authors:
-  - name: Dr Andrew Gow
-    affiliation: Research Fellow, Institute of Cosmology and Gravitation, University of Portsmouth
-author: Dr Andrew Gow
-categories: space
+  - name: Speaker TBC
+author: Speaker TBC
 ---
 
 ::: {.img-float}
-![](/posters/2025-06.jpg){width=30% style="float: right; margin: 5px;"}
+![](/posters/2025-07.jpg){width=30% style="float: right; margin: 5px;"}
 :::
 
-# Overview
-
-The world we live on is only a tiny part of the vast universe that has existed for nearly 14 billion years! I will present the history of the universe, travelling backwards in time from the present day to the beginning, stopping along the way to visit planets, galaxies, black holes, and the structure of the universe itself.
