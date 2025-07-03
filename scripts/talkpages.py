@@ -205,8 +205,9 @@ will give an overview of how drones are being used across a range of industrial 
 
 next_talk = Talk(
     "2025-07-28",
-    Author("Speaker TBC"),
-    title="Details coming soon",
+    Author("David Widdup, MA (Cantab)"),
+    title="Magnetism",
+    overview="""A Whistle Stop tour of the History, Materials and Applications of Magnetic Science from the Bronze Age to the Edge of the Universe (and Beyond)."""
 )
 
 blank_next_talk = Talk(
