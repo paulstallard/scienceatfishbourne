@@ -13,6 +13,19 @@ If you've seen something that you think would be of interest to the group, pleas
 :::
 
 ```{=html}
+<a class="fragment" href="https://oae.co.uk/season/bach-the-universe-and-everything-2025-26/">
+    <img src ="https://oae.co.uk/wp-content/uploads/2025/06/BUE-2025-26-Images-1920x1080-1.jpg" width="200px">
+    <h3>Bach, the Universe and Everything 2025/26 - Orchestra of the Age of Enlightenment</h3>
+        <b>oae.co.uk</b>
+    <p class="text">Inspired by the music of JS Bach, composer and intergalactic genius, this is a concert season with a difference.
+In a series of monthly events, Bach, the Universe and Everything places Bach’s cantatas in the context of the amazing cosmic discoveries of the last 350 years.
+    </p>
+    <scan class="read-more">Click to read the full article</span>
+</a>
+<p></p>
+```
+
+```{=html}
 <a class="fragment" href="https://www.sciencefocus.com/space/the-universes-7-biggest-mysteries-and-why-theyre-unsolved">
     <img src ="https://c02.purpledshub.com/uploads/sites/41/2021/02/something-better-than-nothing-crop-edb2d36.jpg?webp=1&w=1200" width="200px">
     <h3>The Universe’s 7 biggest mysteries (and why they’re unsolved) - BBC Science Focus Magazine</h3>
