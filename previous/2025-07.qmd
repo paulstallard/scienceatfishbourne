@@ -1,0 +1,20 @@
+---
+title: Magnetism
+date: 2025-07-28
+authors:
+  - name: David Widdup, MA (Cantab)
+author: David Widdup, MA (Cantab)
+categories: Physics
+---
+
+::: {.img-float}
+![](/posters/2025-07.jpg){width=30% style="float: right; margin: 5px;"}
+:::
+
+# Overview
+
+A Whistle Stop tour of the History, Materials and Applications of Magnetic Science from the Bronze Age to the Edge of the Universe (and Beyond).
+
+# Lynn's Review
+
+Coming soon...

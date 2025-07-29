@@ -201,17 +201,24 @@ will give an overview of how drones are being used across a range of industrial 
         categories="space",
         review="Coming soon...",
     ),
+    Talk(
+        "2025-07-28",
+        Author("David Widdup, MA (Cantab)"),
+        title="Magnetism",
+        overview="""A Whistle Stop tour of the History, Materials and Applications of Magnetic Science from the Bronze Age to the Edge of the Universe (and Beyond).""",
+        categories="Physics",
+        review="Coming soon..."
+    ),
 ]
 
 next_talk = Talk(
-    "2025-07-28",
-    Author("David Widdup, MA (Cantab)"),
-    title="Magnetism",
-    overview="""A Whistle Stop tour of the History, Materials and Applications of Magnetic Science from the Bronze Age to the Edge of the Universe (and Beyond)."""
+    "2025-08-18",
+    Author("Speaker TBC"),
+    title="Details coming soon",
 )
 
 blank_next_talk = Talk(
-    "2025-07-28",
+    "2025-09-22",
     Author("Speaker TBC"),
     title="Details coming soon",
 )

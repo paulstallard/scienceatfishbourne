@@ -1,15 +1,12 @@
 ---
-title: Magnetism
-date: 2025-07-28
+title: Details coming soon
+date: 2025-08-18
 authors:
-  - name: David Widdup, MA (Cantab)
-author: David Widdup, MA (Cantab)
+  - name: Speaker TBC
+author: Speaker TBC
 ---
 
 ::: {.img-float}
-![](/posters/2025-07.jpg){width=30% style="float: right; margin: 5px;"}
+![](/posters/2025-08.jpg){width=30% style="float: right; margin: 5px;"}
 :::
 
-# Overview
-
-A Whistle Stop tour of the History, Materials and Applications of Magnetic Science from the Bronze Age to the Edge of the Universe (and Beyond).
