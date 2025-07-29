@@ -23,8 +23,9 @@ class Talk:
         subtitle=None,
         overview=None,
         categories="",
+        headline="",
         attachments=None,
-        review=None,
+        review="",
     ):
         if len(date) != 10:
             sys.exit("Talk date must be of form 'YYYY-MM-DD'")
@@ -35,6 +36,7 @@ class Talk:
         self.subtitle = subtitle
         self.overview = overview
         self.categories = categories
+        self.headline = headline
         self.attachments = attachments
         self.review = review
 
@@ -195,11 +197,15 @@ will give an overview of how drones are being used across a range of industrial 
     ),
     Talk(
         "2025-06-23",
-        Author("Dr Andrew Gow", affiliation="Research Fellow, Institute of Cosmology and Gravitation, University of Portsmouth"),
-        title="A History of the Universe in <<100 Observations",
+        Author(
+            "Dr Andrew Gow",
+            affiliation="Research Fellow, Institute of Cosmology and Gravitation, University of Portsmouth",
+        ),
+        title="CANCELLED: A History of the Universe in <<100 Observations",
         overview="""The world we live on is only a tiny part of the vast universe that has existed for nearly 14 billion years! I will present the history of the universe, travelling backwards in time from the present day to the beginning, stopping along the way to visit planets, galaxies, black holes, and the structure of the universe itself.""",
         categories="space",
-        review="Coming soon...",
+        review=None,
+        headline="Unfortunately Andrew was ill on the day and unable to attend. We will look to reschedule his talk at some point in the future.",
     ),
     Talk(
         "2025-07-28",
@@ -207,7 +213,7 @@ will give an overview of how drones are being used across a range of industrial 
         title="Magnetism",
         overview="""A Whistle Stop tour of the History, Materials and Applications of Magnetic Science from the Bronze Age to the Edge of the Universe (and Beyond).""",
         categories="Physics",
-        review="Coming soon..."
+        review="Coming soon...",
     ),
 ]
 
@@ -233,23 +239,22 @@ authors:
 $author$categories
 ---
 
-::: {.img-float}
+$headline::: {.img-float}
 ![](/posters/$shortdate.jpg){width=30% style="float: right; margin: 5px;"}
 :::
 $overview
 """
 
 posttemplate = """$attachments
-# Lynn's Review
-
 $review
 """
 
 
 def gettitle(talk):
+    title = f'"{talk.title}"' if ":" in talk.title else talk.title
     if talk.subtitle:
-        return f"{talk.title}\nsubtitle: {talk.subtitle}"
-    return talk.title
+        return f"{title}\nsubtitle: {talk.subtitle}"
+    return title
 
 
 def gettitleblock(talk):
@@ -281,21 +286,30 @@ def talkqmd(talk: Talk):
     template = Template(talktemplate)
     overview = f"\n# Overview\n\n{talk.overview}" if talk.overview else ""
     categories = f"\ncategories: {talk.categories}" if talk.categories else ""
+    headline = f"{talk.headline}\n\n" if talk.headline else ""
     page = template.substitute(
         date=talk.date,
         title=gettitle(talk),
         author=getauthor(talk.author),
         categories=categories,
+        headline=headline,
         shortdate=talk.shortdate,
         overview=overview,
     )
     return page
 
 
+def makereview(talk):
+    if talk.review is None:
+        return ""
+    review = talk.review or f"{{{{< include /reviews/_{talk.shortdate}.qmd >}}}}"
+    return f"# Lynn's Review\n\n{review}"
+
+
 def postqmd(talk: Talk):
     template = Template(posttemplate)
     attachments = f"{talk.attachments}\n" if talk.attachments else ""
-    review = talk.review or f"{{{{< include /reviews/_{talk.shortdate}.qmd >}}}}"
+    review = makereview(talk)
     page = template.substitute(
         attachments=attachments,
         review=review,
