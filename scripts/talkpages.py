@@ -219,8 +219,9 @@ will give an overview of how drones are being used across a range of industrial 
 
 next_talk = Talk(
     "2025-08-18",
-    Author("Speaker TBC"),
-    title="Details coming soon",
+    Author("Dr Paul Stallard"),
+    title="Behind the Streams",
+    subtitle="The Technology That Powers Netflix, iPlayer and the Others",
 )
 
 blank_next_talk = Talk(
