@@ -19,7 +19,6 @@ Matt Guille grew up on the Island of Guernsey before his degree and PhD in Bioch
 
 This presentation will start by introducing genes and their function very briefly and then describe why  Xenopus frogs are such powerful "model organisms". followed by what the Resource Centre does. We will then move onto the rare disease programme. Although these are called rare diseases, around 7000 of these have been discovered and 1 in 17 people in the UK has one of these. Recent advances in DNA sequencing and analysis driven by the 100 000 genomes project have allowed the potential disease-causing variations in patient genomes to be identified. Despite this fewer than half of patients have a diagnosis. Five years ago we started to use the tadpole to test the link between potential disease-causing patient gene variants and their disease. We continue to develop this technology but have already identified some 30 new diseases.
 
-
 # Lynn's Review
 
 {{< include /reviews/_2025-01.qmd >}}

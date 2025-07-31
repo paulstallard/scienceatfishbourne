@@ -13,7 +13,6 @@ categories: nuclear energy
 ![](/posters/2024-02.jpg){width=30% style="float: right; margin: 5px;"}
 :::
 
-
 # Lynn's Review
 
 {{< include /reviews/_2024-02.qmd >}}

@@ -10,4 +10,3 @@ author: Dr Paul Stallard
 ::: {.img-float}
 ![](/posters/2025-08.jpg){width=30% style="float: right; margin: 5px;"}
 :::
-

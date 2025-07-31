@@ -14,7 +14,6 @@ categories: sports science
 ![](/posters/2024-09.jpg){width=30% style="float: right; margin: 5px;"}
 :::
 
-
 # Lynn's Review
 
 {{< include /reviews/_2024-09.qmd >}}

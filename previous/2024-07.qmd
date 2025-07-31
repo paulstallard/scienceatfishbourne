@@ -12,7 +12,6 @@ categories: environment
 ![](/posters/2024-07.jpg){width=30% style="float: right; margin: 5px;"}
 :::
 
-
 # Lynn's Review
 
 {{< include /reviews/_2024-07.qmd >}}

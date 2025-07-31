@@ -4,7 +4,6 @@ import datetime
 import filecmp
 import os
 import sys
-from string import Template
 
 
 class Author:
@@ -25,7 +24,8 @@ class Talk:
         categories="",
         headline="",
         attachments=None,
-        review="",
+        review=True,
+        review_text=None,
     ):
         if len(date) != 10:
             sys.exit("Talk date must be of form 'YYYY-MM-DD'")
@@ -39,6 +39,7 @@ class Talk:
         self.headline = headline
         self.attachments = attachments
         self.review = review
+        self.review_text = review_text
 
 
 previous_talks = [
@@ -148,8 +149,7 @@ previous_talks = [
         subtitle="Pregnancy Testing to Disease Diagnosis",
         overview="""Matt Guille grew up on the Island of Guernsey before his degree and PhD in Biochemistry at King's College London. Post-doctoral research at the Imperial Cancer Research Fund (now the Crick) and the University of London's Developmental Biology Research Centre followed before moving to the Biophysics unit at Portsmouth to start his own lab. During all of this period Matt worked on how genes are controlled and on their functions. In 2006 Matt established the European Xenopus Resource Centre for the research community, it is now the "go to" facility in the world for research using the clawed frogs. Nowadays his research focuses on diagnosis and understanding of rare genetic diseases.
 
-This presentation will start by introducing genes and their function very briefly and then describe why  Xenopus frogs are such powerful "model organisms". followed by what the Resource Centre does. We will then move onto the rare disease programme. Although these are called rare diseases, around 7000 of these have been discovered and 1 in 17 people in the UK has one of these. Recent advances in DNA sequencing and analysis driven by the 100 000 genomes project have allowed the potential disease-causing variations in patient genomes to be identified. Despite this fewer than half of patients have a diagnosis. Five years ago we started to use the tadpole to test the link between potential disease-causing patient gene variants and their disease. We continue to develop this technology but have already identified some 30 new diseases.
-""",
+This presentation will start by introducing genes and their function very briefly and then describe why  Xenopus frogs are such powerful "model organisms". followed by what the Resource Centre does. We will then move onto the rare disease programme. Although these are called rare diseases, around 7000 of these have been discovered and 1 in 17 people in the UK has one of these. Recent advances in DNA sequencing and analysis driven by the 100 000 genomes project have allowed the potential disease-causing variations in patient genomes to be identified. Despite this fewer than half of patients have a diagnosis. Five years ago we started to use the tadpole to test the link between potential disease-causing patient gene variants and their disease. We continue to develop this technology but have already identified some 30 new diseases.""",
         categories="[medicine, health]",
     ),
     Talk(
@@ -157,8 +157,7 @@ This presentation will start by introducing genes and their function very briefl
         Author("Kevin Brown MBE CPhys FlnstP"),
         title="Lowering Our Carbon Footprint",
         subtitle="A Personal Journey",
-        overview="""Since moving to Fishbourne, 6 years ago, we have been lowering our Carbon footprint. My talk will cover some interesting things that I have learned on the way. There often seems to be misinformation about these topics in the press and I will explain the science to enable us all to make good decisions. Heat Pumps, are they hype, do they really work and how well? Solar Panels, how much do they help? Home batteries, are they worth the expense? What about Hydrogen? Plus other interesting information. The talk will be about science in a practical setting and I am expecting that it will provoke some lively discussion.
-""",
+        overview="""Since moving to Fishbourne, 6 years ago, we have been lowering our Carbon footprint. My talk will cover some interesting things that I have learned on the way. There often seems to be misinformation about these topics in the press and I will explain the science to enable us all to make good decisions. Heat Pumps, are they hype, do they really work and how well? Solar Panels, how much do they help? Home batteries, are they worth the expense? What about Hydrogen? Plus other interesting information. The talk will be about science in a practical setting and I am expecting that it will provoke some lively discussion.""",
         categories="[environment]",
         attachments="""* Kevin's presentation: [Lowering Our Carbon Footprint](resources/2025-02_presentation.pdf){target="_blank"}
 * [Protons for Breakfast: Retrofit Journeys](resources/2025-02_retrofit-journeys.pdf){target="_blank"}""",
@@ -204,7 +203,7 @@ will give an overview of how drones are being used across a range of industrial 
         title="CANCELLED: A History of the Universe in <<100 Observations",
         overview="""The world we live on is only a tiny part of the vast universe that has existed for nearly 14 billion years! I will present the history of the universe, travelling backwards in time from the present day to the beginning, stopping along the way to visit planets, galaxies, black holes, and the structure of the universe itself.""",
         categories="space",
-        review=None,
+        review=False,
         headline="Unfortunately Andrew was ill on the day and unable to attend. We will look to reschedule his talk at some point in the future.",
     ),
     Talk(
@@ -213,7 +212,7 @@ will give an overview of how drones are being used across a range of industrial 
         title="Magnetism",
         overview="""A Whistle Stop tour of the History, Materials and Applications of Magnetic Science from the Bronze Age to the Edge of the Universe (and Beyond).""",
         categories="Physics",
-        review="Coming soon...",
+        review_text="Coming soon...",
     ),
 ]
 
@@ -231,24 +230,7 @@ blank_next_talk = Talk(
 )
 
 # Author("name", affiliation="affiliation"),
-# review="Coming soon...",
-
-talktemplate = """---
-title: $title
-date: $date
-authors:
-$author$categories
----
-
-$headline::: {.img-float}
-![](/posters/$shortdate.jpg){width=30% style="float: right; margin: 5px;"}
-:::
-$overview
-"""
-
-posttemplate = """$attachments
-$review
-"""
+# review_text="Coming soon...",
 
 
 def gettitle(talk):
@@ -256,10 +238,6 @@ def gettitle(talk):
     if talk.subtitle:
         return f"{title}\nsubtitle: {talk.subtitle}"
     return title
-
-
-def gettitleblock(talk):
-    return f"{talk.title}: {talk.subtitle}" if talk.subtitle else talk.title
 
 
 def authlist(authors):
@@ -283,39 +261,37 @@ def getauthor(author):
     return block
 
 
+def header(talk: Talk):
+    head = f"---\ntitle: {gettitle(talk)}\n"
+    head += f"date: {talk.date}\n"
+    head += "authors:\n"
+    head += f"{getauthor(talk.author)}\n"
+    if talk.categories:
+        head += f"categories: {talk.categories}\n"
+    return f"{head}---\n\n"
+
+
 def talkqmd(talk: Talk):
-    template = Template(talktemplate)
-    overview = f"\n# Overview\n\n{talk.overview}" if talk.overview else ""
-    categories = f"\ncategories: {talk.categories}" if talk.categories else ""
-    headline = f"{talk.headline}\n\n" if talk.headline else ""
-    page = template.substitute(
-        date=talk.date,
-        title=gettitle(talk),
-        author=getauthor(talk.author),
-        categories=categories,
-        headline=headline,
-        shortdate=talk.shortdate,
-        overview=overview,
+    page = header(talk)
+    if talk.headline:
+        page += f"{talk.headline}\n\n"
+
+    page += (
+        f'::: {{.img-float}}\n![](/posters/{talk.shortdate}.jpg){{width=30% style="float: right; margin: 5px;"}}\n:::\n'
     )
+
+    if talk.overview:
+        page += f"\n# Overview\n\n{talk.overview}\n"
+
     return page
-
-
-def makereview(talk):
-    if talk.review is None:
-        return ""
-    review = talk.review or f"{{{{< include /reviews/_{talk.shortdate}.qmd >}}}}"
-    return f"# Lynn's Review\n\n{review}"
 
 
 def postqmd(talk: Talk):
-    template = Template(posttemplate)
-    attachments = f"{talk.attachments}\n" if talk.attachments else ""
-    review = makereview(talk)
-    page = template.substitute(
-        attachments=attachments,
-        review=review,
-    )
-    return page
+    post = f"\n{talk.attachments}\n" if talk.attachments else ""
+    if talk.review:
+        review = talk.review_text or f"{{{{< include /reviews/_{talk.shortdate}.qmd >}}}}"
+        post += f"\n# Lynn's Review\n\n{review}\n"
+    return post
 
 
 def update_file(oldfile, newfile, backup=True):
