@@ -5,6 +5,9 @@ import filecmp
 import os
 import sys
 
+# Disable long line errors thrown by overviews, headlines, etc
+# ruff: noqa: E501
+
 
 class Author:
     def __init__(self, name, affiliation=None):
@@ -272,6 +275,7 @@ def header(talk: Talk):
 
 
 def talkqmd(talk: Talk):
+    """Generate the common (top) of the post. Used for both next and previous talks"""
     page = header(talk)
     if talk.headline:
         page += f"{talk.headline}\n\n"
@@ -287,6 +291,7 @@ def talkqmd(talk: Talk):
 
 
 def postqmd(talk: Talk):
+    """Generate the post-talk markdown, used only for talks that have already happened"""
     post = f"\n{talk.attachments}\n" if talk.attachments else ""
     if talk.review:
         review = talk.review_text or f"{{{{< include /reviews/_{talk.shortdate}.qmd >}}}}"
