@@ -2,8 +2,8 @@
 title: Magnetism
 date: 2025-07-28
 authors:
-  - name: David Widdup, MA (Cantab)
-author: David Widdup, MA (Cantab)
+  - name: David Widdup, MA (Cantab) Physics, Biochemistry, Computer Science
+author: David Widdup, MA (Cantab) Physics, Biochemistry, Computer Science
 categories: Physics
 ---
 
@@ -17,4 +17,4 @@ A Whistle Stop tour of the History, Materials and Applications of Magnetic Scien
 
 # Lynn's Review
 
-Coming soon...
+{{< include /reviews/_2025-07.qmd >}}

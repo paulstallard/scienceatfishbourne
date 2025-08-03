@@ -1,0 +1,181 @@
+How often do we imagine that the constant motion of the molten iron
+alloy in the Earth's outer core, driven by convection and the Earth's
+rotation, is crucial for our survival, and the survival of all that
+exists on our planet? *(Apologies for the length of this review ... I
+got carried away. David inspired me to research further.)*
+
+David began his presentation with this dynamic thought. This process of
+action is called the Geo-Dynamo.
+
+It creates a powerful magnetic field around the Earth: The
+Magnetosphere.
+
+Without the Magnetosphere, charged particles from the Solar Wind and
+high-energy particles from beyond our Solar System known as: "Cosmic
+Radiation", would strip away Earth's atmosphere, including the ozone
+layer, making life as we know it, impossible on planet Earth.
+
+The interaction of the solar winds and our magnetosphere can give
+stunning visual displays in the polar regions, known as Aurora Borealis
+and some of us were fortunate to see some of these effects as far south
+as Sussex this year. The Sun, reaching the solar maximum in its 11 year
+cycle, displayed more Coronal Mass Ejections which expanded the Auroral
+Ovals, so extending the field of view of the Aurora Borealis as Earth's
+magnetic field guided the charged particles towards the Poles.
+
+How often do we even think of magnets; the Earth's polarity; and how it
+might affect us? I've seen a red and white striped pole stuck in the
+ground, when visiting Father Christmas' toyshop in Oregon USA, but I
+don't think David meant that when he explained the wandering, Magnetic
+North and South Poles.
+
+The Magnetic North Pole is shifting towards Siberia, currently at a rate
+of around 34 miles a year. The Magnetic South pole is relatively more
+stable and roughly every 450,000 years the poles reverse!
+
+The Magnetic field lines at the Magnetic poles are almost vertical, they
+then loop around from N to S.
+
+The Geographic Poles are largely stationary locations where the Earth's
+axis intersects its surface; the North Pole is at 90°N and the South
+Pole 90°S.
+
+David told us a little about key figures in history who worked with
+magnetic fields and measurements; people such as Carl Friedrich Gauss;
+Nikola Tesla, and Pierre Curie, who discovered the critical temperature
+at which ferromagnetic materials lose their permanent magnetic
+properties.
+
+The temperature at Earth's interior is estimated to be 6000°C. As Iron
+loses its magnetic properties at 770°C, Earth cannot act like a bar
+magnet, so realising the theory of the Geo-Dynamo process that creates
+our Magnetosphere.
+
+The Earth's past magnetic field directions can help to identify the ages
+and past locations of rocks through their specific magnetic properties;
+this is known as Paleo-magnetism. The discovery of a volcanic ridge in
+the centre of the Atlantic Ocean known as the "Global Mid-Ocean Ridge,"
+enabled scientists to map odd magnetic variations in the volcanic rock,
+so also giving information about magnetic North South reversals.
+
+**[Ferromagnets]{.underline}**
+
+Iron is a Ferromagnet. It has 26 electrons with spin; each behaving like
+a magnet and, in pairs, cancelling each other out. It has 4 un-paired
+electrons. These will line up to create atomic magnets. The alignment of
+individual atoms, when interacting with neighbouring atoms, produces
+magnetic domains. These magnetic domains, being randomly oriented,
+produce a magnetic field of almost zero, but iron, once exposed to an
+external magnetic field, becomes strongly magnetic as the domains align,
+and retains this property even after the external magnetic field is
+removed. Other Ferromagnets are: nickel, cobalt and gadolinium.
+
+**[Paramagnets]{.underline}**
+
+Paramagnetic materials react to external magnetic fields but don't
+retain strong magnetic properties once the external source is removed.
+Some examples are: aluminium, oxygen (O2), titanium, iron oxide (FeO),
+magnesium, molybdenum, and various transition metal complexes like
+myoglobin.
+
+**[Diamagnets]{.underline}**
+
+Diamagnets don't have any permanent magnetic moments. When placed in an
+electronic field, they weakly repel the field, resulting in a small
+negative magnetic susceptibility. Some examples of diamagnets are:
+copper, nitrogen and barium sulphate. Most body tissues are diamagnetic;
+tissues containing iron-based proteins or metal implants will exhibit
+other characteristics.
+
+**[Magnetite]{.underline}**
+
+A Lodestone is a naturally magnetised piece of the mineral Magnetite.
+Magnetite was used in the Han Dynasty to create a South pointing ladle.
+It would be placed on a cast bronze plate, carved with auspicious
+trigrams and directions, for use in Feng Shui and Geomancy. Later, it
+was used for navigation.
+
+**[Rare Earths]{.underline}**
+
+Today rare earth materials such as Neodymium and Samarium are used to
+make strong magnets. Neodymium magnets enabled the miniaturisation of
+electronic devices such as mobile phones. They are stronger, permanent
+magnets than Samarium Cobalt magnets, whereas they can't operate in such
+high temperatures. Samarium Cobalt magnets are more expensive, but their
+high-temperature stability and corrosion resistance make them better for
+use in aerospace, generators and motors. They aren't recommended where
+high impact is required, being more brittle.
+
+Ferrofluid magnets are used in conjunction with Neodymium magnets. They
+have friction reducing capabilities when applied to the surface of
+Neodymium.
+
+A simple electromagnetic motor (after Michael Faraday's discoveries) is
+a homopolar motor and a link below gives detail. Fleming's Left and
+Right Hand Rules can be used to show the direction of: the magnetic
+field, current and force and details are in the link below.
+
+**[Modern Uses of Magnets]{.underline}**
+
+There are many modern uses for magnets and these include: recycling
+systems; Food product decontamination to remove any metals; MRI
+scanners; maglev trains; concrete shuttering with magnetic clamps;
+trans-cranial stimulation; Degaussing of ships (details in link below);
+shark repellent and surgical tools to locate shrapnel.
+
+**[Galactic Magnets and Magnetic Fields]{.underline}**
+
+Theoretical models are still developing to understand these galactic
+fields which pervade the Universe, including our Solar System. The
+Dynamo mechanism is thought responsible.
+
+It's thought that Magnetic fields can influence phenomena like the
+formation of spiral arms and galactic outflows; they perhaps have the
+potential to affect the overall evolution of galaxies. 
+
+Many interesting questions followed David's talk and the Bermuda
+Triangle was mentioned. There was some discussion, and David mentioned
+that there are variations in the Earth's field. It isn't the same
+everywhere.
+
+I found this on the internet: The Earth's Magnetic field varies,
+particularly over the South Atlantic Ocean. Here Van Allen's radiation
+belt dips closest to Earth's surface because of a localised weakness of
+the earth's magnetic field. This can cause electronic equipment in
+spacecraft to behave unpredictably.
+
+Whilst writing this, I also discovered that our brains contain Magnetite
+and I found this on Wikipedia:
+
+"*Some researchers also suggest that humans possess a magnetic
+sense,[^\[66\]^](https://en.wikipedia.org/wiki/Magnetite#cite_note-Human_magnetoreception-66) proposing
+that this could allow certain people to use magnetoreception for
+navigation.[^\[67\]^](https://en.wikipedia.org/wiki/Magnetite#cite_note-human_magnetoreception-67) The
+role of magnetite in the brain is still not well understood, and there
+has been a general lag in applying more modern, interdisciplinary
+techniques to the study of
+biomagnetism.^[\[68\]](https://en.wikipedia.org/wiki/Magnetite#cite_note-PMID_20071390-68)"^*
+
+There are links below for more information.
+
+<https://www.studentsinmagnetism.org/earth-is-not-a-bar-magnet>
+
+This link includes a simple interactive example (fun)
+
+<https://nationalmaglab.org/magnet-academy/watch-play/interactive-tutorials/diamagnetism-and-paramagnetism/>
+
+This link explains homopolar motors and has a video
+
+<https://www.kjmagnetics.com/blog/homopolar-motors?srsltid=AfmBOor0r4Pbu2uaekf-qfZYPYglXzd_bht0bR2upS1dEFuDlTwWewAy>
+
+Fleming's Rule
+
+<https://byjus.com/physics/flemings-left-hand-rule-and-right-hand-rule/>
+
+Degaussing
+
+<https://www.semshred.com/the-history-and-science-of-degaussers/>
+
+Brains
+
+<https://discoveryalert.com.au/news/magnetite-human-brain-properties-functions-2025/>

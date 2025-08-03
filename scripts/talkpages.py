@@ -211,11 +211,10 @@ will give an overview of how drones are being used across a range of industrial 
     ),
     Talk(
         "2025-07-28",
-        Author("David Widdup, MA (Cantab)"),
+        Author("David Widdup, MA (Cantab) Physics, Biochemistry, Computer Science"),
         title="Magnetism",
         overview="""A Whistle Stop tour of the History, Materials and Applications of Magnetic Science from the Bronze Age to the Edge of the Universe (and Beyond).""",
         categories="Physics",
-        review_text="Coming soon...",
     ),
 ]
 
