@@ -13,6 +13,18 @@ If you've seen something that you think would be of interest to the group, pleas
 :::
 
 ```{=html}
+<a class="fragment" href="https://ctif.org/news/new-salt-and-air-based-bess-being-commercially-developed-germany">
+    <img src ="https://ctif.org/sites/default/files/styles/cover_image_slider_teaser/public/2025-07/Screen%20Shot%202025-07-06%20at%2013.37.39.png?itok=Qm2c-DSU" width="200px">
+    <h3>New salt and air based BESS being commercially developed in Germany</h3>
+        <b>ctif.org</b>
+    <p class="text">The salt-based battery systems use molten salt to store heat, which can then be used for heating or electricity generation. Air-based systems, like those developed by Augwind Energy, compress air and store it.
+    </p>
+    <scan class="read-more">Click to read the full article</span>
+</a>
+<p></p>
+```
+
+```{=html}
 <a class="fragment" href="https://oae.co.uk/season/bach-the-universe-and-everything-2025-26/">
     <img src ="https://oae.co.uk/wp-content/uploads/2025/06/BUE-2025-26-Images-1920x1080-1.jpg" width="200px">
     <h3>Bach, the Universe and Everything 2025/26 - Orchestra of the Age of Enlightenment</h3>
@@ -49,6 +61,10 @@ In a series of monthly events, Bach, the Universe and Everything places Bach’s
 <p></p>
 ```
 
+::: {.callout-note collapse="true" icon="false"}
+
+## Science News Archive (click to expand)
+
 ```{=html}
 <a class="fragment" href="https://www.sciencefocus.com/news/covid-19-could-put-us-at-a-greater-risk-of-neurodegenerative-diseases-and-stroke">
     <img src ="https://c02.purpledshub.com/uploads/sites/41/2022/06/GettyImages-1372504585-6b3a3a1.jpg?w=1880&webp=1" width="200px">
@@ -60,10 +76,6 @@ In a series of monthly events, Bach, the Universe and Everything places Bach’s
 </a>
 <p></p>
 ```
-
-::: {.callout-note collapse="true" icon="false"}
-
-## Science News Archive (click to expand)
 
 ```{=html}
 <a class="fragment" href="https://youtu.be/BHEhxPuMmQI?si=OjIk0ZfO4F1bkpwd">
