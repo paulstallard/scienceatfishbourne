@@ -4,7 +4,7 @@ date: 2025-07-28
 authors:
   - name: David Widdup, MA (Cantab) Physics, Biochemistry, Computer Science
 author: David Widdup, MA (Cantab) Physics, Biochemistry, Computer Science
-categories: Physics
+categories: physics
 ---
 
 ::: {.img-float}

@@ -16,7 +16,7 @@ git pull
 - Edit `scripts/talkpages.py`
     - Move the `Talk` in `next_talk` to the end of `previous_talks` array
     - Add category/categories
-    - Add `review="Coming soon...` if not yet available
+    - Add `review_text="Coming soon...` if not yet available
 - Create a new entry for `next_talk`
 - If no details available yet:
     - Make new placeholder image (`placeholder_poster`)
@@ -41,7 +41,7 @@ This will overwrite the placeholder image
 
 ### Add review
 
-- Remove the `review="..."` from the Talk object in `talkpages.py`
+- Remove the `review_text="..."` from the Talk object in `talkpages.py`
 - Convert the review to markdown and save it to `reviews/_YYYY-MM.qmd`
 (if required, use `pandoc review.docx -t markdown -o reviews/_YYYY_MM.qmd`).
 - Run `python scripts/talkpages.py` (or just `make`)

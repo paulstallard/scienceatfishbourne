@@ -1,0 +1,26 @@
+---
+title: Behind the Streams
+subtitle: The Technology That Powers Netflix, iPlayer and the Others
+date: 2025-08-18
+authors:
+  - name: Dr Paul Stallard
+author: Dr Paul Stallard
+categories: ['TV/media', 'computing']
+---
+
+::: {.img-float}
+![](/posters/2025-08.jpg){width=30% style="float: right; margin: 5px;"}
+:::
+
+# Overview
+
+In this talk we'll look at some of the key technology behind today's streaming platforms and find out:
+
+- how they deliver very high bandwidth video over limited bandwidth connections
+- how they scale to millions of concurrent streams
+- how reliability is achieved
+- how data, machine learning and AI are used for everything from recommendations to marketing, content buying and ad insertion
+
+# Lynn's Review
+
+Coming soon...

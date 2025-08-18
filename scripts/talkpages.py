@@ -214,32 +214,32 @@ will give an overview of how drones are being used across a range of industrial 
         Author("David Widdup, MA (Cantab) Physics, Biochemistry, Computer Science"),
         title="Magnetism",
         overview="""A Whistle Stop tour of the History, Materials and Applications of Magnetic Science from the Bronze Age to the Edge of the Universe (and Beyond).""",
-        categories="Physics",
+        categories="physics",
     ),
-]
-
-next_talk = Talk(
-    "2025-08-18",
-    Author("Dr Paul Stallard"),
-    title="Behind the Streams",
-    subtitle="The Technology That Powers Netflix, iPlayer and the Others",
-    overview="""In this talk we'll look at some of the key technology behind today's streaming platforms and find out:
+    Talk(
+        "2025-08-18",
+        Author("Dr Paul Stallard"),
+        title="Behind the Streams",
+        subtitle="The Technology That Powers Netflix, iPlayer and the Others",
+        overview="""In this talk we'll look at some of the key technology behind today's streaming platforms and find out:
 
 - how they deliver very high bandwidth video over limited bandwidth connections
 - how they scale to millions of concurrent streams
 - how reliability is achieved
-- how data, machine learning and AI are used for everything from recommendations to marketing, content buying and ad insertion
+- how data, machine learning and AI are used for everything from recommendations to marketing, content buying and ad insertion""",
+        review_text="Coming soon...",
+        categories=["TV/media", "computing"],
+    ),
+]
 
-Along the way we'll answer a few common questions, such as:
-
-- Why doesn't the BBC show the clock before the news anymore?
-- What are those squares I sometimes see on the TV? (especially if it's raining or windy)
-- Why is BBC1 on iPlayer 30 seconds or more behind BBC1 on TV?
-- Why do I get recommended things I've already watched?""",
+next_talk = Talk(
+    "2025-09-22",
+    Author("Speaker TBC"),
+    title="Details coming soon",
 )
 
 blank_next_talk = Talk(
-    "2025-09-22",
+    "2025-10-27",
     Author("Speaker TBC"),
     title="Details coming soon",
 )
