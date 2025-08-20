@@ -21,6 +21,10 @@ In this talk we'll look at some of the key technology behind today's streaming p
 - how reliability is achieved
 - how data, machine learning and AI are used for everything from recommendations to marketing, content buying and ad insertion
 
+# Resources
+
+* Paul's presentation (pdf): [Behind the Streams](resources/2025-08_presentation.pdf){target="_blank"}
+
 # Lynn's Review
 
 Coming soon...

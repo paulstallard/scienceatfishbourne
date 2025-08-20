@@ -228,6 +228,9 @@ will give an overview of how drones are being used across a range of industrial 
 - how reliability is achieved
 - how data, machine learning and AI are used for everything from recommendations to marketing, content buying and ad insertion""",
         review_text="Coming soon...",
+        attachments="""# Resources
+
+* Paul's presentation (pdf): [Behind the Streams](resources/2025-08_presentation.pdf){target="_blank"}""",
         categories=["TV/media", "computing"],
     ),
 ]
