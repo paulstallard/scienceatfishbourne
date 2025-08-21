@@ -13,6 +13,18 @@ If you've seen something that you think would be of interest to the group, pleas
 :::
 
 ```{=html}
+<a class="fragment" href="https://news.harvard.edu/gazette/story/2025/03/why-new-qubit-may-give-ultrafast-quantum-computing-a-boost/">
+    <img src ="https://news.harvard.edu/wp-content/uploads/2025/03/Dr-Chetan-Nayak-Microsoft-1920.jpg" width="200px">
+    <h3>Why new qubit may give ultrafast quantum computing a boost — Harvard Gazette</h3>
+        <b>news.harvard.edu</b>
+    <p class="text">Microsoft’s Chetan Nayak, a Harvard alum, explains why the discovery appears to be a more stable and robust option.
+    </p>
+    <scan class="read-more">Click to read the full article</span>
+</a>
+<p></p>
+```
+
+```{=html}
 <a class="fragment" href="https://ctif.org/news/new-salt-and-air-based-bess-being-commercially-developed-germany">
     <img src ="https://ctif.org/sites/default/files/styles/cover_image_slider_teaser/public/2025-07/Screen%20Shot%202025-07-06%20at%2013.37.39.png?itok=Qm2c-DSU" width="200px">
     <h3>New salt and air based BESS being commercially developed in Germany</h3>
@@ -37,6 +49,10 @@ In a series of monthly events, Bach, the Universe and Everything places Bach’s
 <p></p>
 ```
 
+::: {.callout-note collapse="true" icon="false"}
+
+## Science News Archive (click to expand)
+
 ```{=html}
 <a class="fragment" href="https://www.sciencefocus.com/space/the-universes-7-biggest-mysteries-and-why-theyre-unsolved">
     <img src ="https://c02.purpledshub.com/uploads/sites/41/2021/02/something-better-than-nothing-crop-edb2d36.jpg?webp=1&w=1200" width="200px">
@@ -51,7 +67,7 @@ In a series of monthly events, Bach, the Universe and Everything places Bach’s
 
 ```{=html}
 <a class="fragment" href="https://eandt.theiet.org/2025/04/09/uk-achieves-first-long-distance-secure-data-transfer-over-quantum-network">
-    <img src ="https://eandt.theiet.org/sites/default/files/styles/uncropped_small/public/2025-04/web_d-abstract-tech-background-floating-numbers_Credit_Dmitriy-Rybin_shutterstock_714159727_1600x900.jpg?itok=xr9Aa3xv" width="200px">
+    <img src ="newsimages/quantum_network.jpg" width="200px">
     <h3>UK achieves first long-distance secure data transfer over a quantum network</h3>
         <b>eandt.theiet.org</b>
     <p class="text">Researchers from the Universities of Bristol and Cambridgen have successfully conducted the UK’s first long-distance, ultra-secure data transfer using a quantum communications network.
@@ -60,10 +76,6 @@ In a series of monthly events, Bach, the Universe and Everything places Bach’s
 </a>
 <p></p>
 ```
-
-::: {.callout-note collapse="true" icon="false"}
-
-## Science News Archive (click to expand)
 
 ```{=html}
 <a class="fragment" href="https://www.sciencefocus.com/news/covid-19-could-put-us-at-a-greater-risk-of-neurodegenerative-diseases-and-stroke">
@@ -161,7 +173,7 @@ Here's another explanation of the double-slit experiment that some might find mo
 
 ```{=html}
 <a class="fragment" href="https://extension.colostate.edu/topic-areas/nutrition-food-safety-health/dietary-supplements-herbals-and-botanicals-9-370/">
-    <img src ="https://extension.colostate.edu/wp-content/uploads/2023/05/Dietary-Supplements-Herbals-and-Botanicals-Header.jpg" width="200px">
+    <img src ="https://extension.colostate.edu/wp-content/uploads/2025/07/EXT-Health-Herbals-and-Botanicals-fig1.jpg" width="200px">
     <h3>Dietary Supplements: Herbals and Botanicals - 9.370 - Extension</h3>
         <b>extension.colostate.edu</b>
     <p class="text">Herbals and botanicals have been used medicinally for thousands of years. Once thought of as ‘traditional medicine’ used by native or ancient cultures, herbal medicine has emerged as a popular complementary and alternative medicine (CAM), or supplement to modern medicine. The herbal market is growing steadily at about 20% each year, and it is estimated that in the United States alone the sale of botanical dietary supplements exceeded $5.3 billion in 2011.
