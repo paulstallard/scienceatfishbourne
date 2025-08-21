@@ -27,4 +27,4 @@ In this talk we'll look at some of the key technology behind today's streaming p
 
 # Lynn's Review
 
-Coming soon...
+{{< include /reviews/_2025-08.qmd >}}

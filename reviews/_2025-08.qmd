@@ -1,0 +1,161 @@
+Magic happens in our homes and as we travel. We push a button, swipe a
+finger across a screen or wiggle a Mouse and, "Hey Presto!" We can see
+the news or watch a Movie. Some of you may already have some insight as
+to how this all works, but Dr Stallard's in depth knowledge and
+experience gave a unique opportunity to think of what happens behind our
+screens.
+
+We are so fortunate that Paul volunteered to be our Software Architect;
+taking charge of our media coverage, and creating the Science at
+Fishbourne website for us. An added bonus for us, and particularly for
+me: he has put his slides on the website. This means you won't be
+subjected to my limited understanding of maths, as I write my review.
+
+Numbers play an essential role in the creation and the streaming of
+video content, with hundreds of millions of users of this technology,
+thousands of computers run these systems, with Netflix employing 2000
+software engineers.
+
+So how does it all work? Paul explained that when we see a row of boxes
+each showing an image of the different videos available to watch on our
+screens, we are looking a: "Rail" of "Tiles."
+
+He explained the resolution of HD TV (1920x1080 pixels) so giving a
+clear picture on our screens of varying sizes; the use of the 3 colours:
+red, green and blue, each having 8 bits of data with 24 bits for each
+pixel.
+
+We typically have broadband speeds to our homes of tens, or if we're
+lucky 100s, of megabits per second. A megabit per second is a million
+bits (a 1 or a 0) per second. HD video requires 2.5 gigabits per second
+(2.5 billion bits per second) and Ultra HD needs 10 gigabits per second.
+Even "standard definition", video equivalent to the old analogue signal,
+needs 250 megabits per second.  To send these streams to people's
+houses, the video has to be squashed (compressed) down to fit in the
+available bandwidth.
+
+Sending large chunks of information consumes time and energy, so
+reducing the sequence and chunks of data is managed by allocating
+numbers for each colour. The colours are each assigned their identifying
+number, followed by a number to indicate how many pixels of that colour
+there are before a colour change. Paul gave this as an example: By using
+numbers such as 4,1 to indicate 1 blue pixel, the bitrate is reduced.
+This is called run-length encoding. You can find out more here:
+<https://en.wikipedia.org/wiki/Run-length_encoding>
+
+To reduce the bitrate further, only the difference between one image and
+the next need be thought of; all instructions for the pixels remain the
+same if the background scene hasn't changed; just instructions for the
+added/altered part of the image are manipulated. Paul explained this
+very well using Lego blocks.
+
+Taking it one step further; if the image has, for example: grass, then
+several pixels in a chunk might be encoded by number and used as a
+repeat, so reducing the bitrate even more. This, considers how the
+viewer is drawn to the main action/subject, so making exact detail on
+grass or sky, or other parts of the scene, less important to the viewer.
+
+Sometimes we might experience distortion or even a complete breakdown of
+an image/video we are viewing. Just one error can bring this about.
+Digital images, being sent in these blocks of information, causes
+distortion to appear in the form of blocks. This is because data is
+received by our devices which then rebuild the images, and any
+interference will disrupt the data.
+
+Having so many different devices and bandwidths, Netflix, creates 120
+versions/encodings of each movie. As we watch our TV screen, we aren't
+aware of the constant communication between TV and server. The TV
+requests the manifest and the server responds by sending a version
+compatible with the current bandwidth. This is termed an "Adaptive
+Bitrate." All Video streams use this.
+
+I expect we've all experience latency: someone moves to another room and
+turns on a streaming device, tuning into a programme you are watching
+and you hear, again, words already spoken on screen where you are. This
+is because of, "Buffering." As time is involved in transmission, there
+will always be a delay in receiving data. To ensure there are no empty
+gaps in transmission, buffering works by stepping back by 3 ten second
+blocks of data, so creating latency of 30 seconds but ensuring no empty
+gaps.
+
+Imagine the scene if the entire country all shopped for food in exactly
+the same store in Chichester.
+
+A similar scenario may be imagined when we realise that the highest
+number of users recorded for one live stream was 65 million! Paul
+explained how this works: There are many massive data centres, each
+holding racks and racks of computers and there are companies who work
+specifically in this field of content delivery such as Cloud Fare and
+Akamai. There are also caches of data on servers all around the country,
+which connect to the data centres in order to collect data. These
+systems and data must be available for 99.999% of the time, so being
+offline for 5 minutes in a year. The videos we each watch will have been
+sourced from our nearest cache location.
+
+1000 servers may have 3 failures a day, but as all systems are
+duplicated and constantly checked and tested. Any new software is set to
+run alongside the old before any change is decided. There is even a
+system of, "Chaos Engineering," which seeks to introduce failures, so
+ensuring ways of overcoming them.
+
+What do we give to this system in order to receive our entertainment?
+Well, Netflix collects 500 billion events from our devices every day;
+information about us and our viewing. Collecting data is very costly,
+highlighting the value to companies such as Netflix; they wouldn't
+collect data if there was no substantial gain.
+
+This data is used for such things as:
+
+business reporting;
+
+fault detection;
+
+app personalisation and recommendations;
+
+marketing;
+
+targeted ads;
+
+content performance and A/B surveys.
+
+Even the Rails and Tiles we see, when searching for something to watch,
+have been ordered and suggested for each of us personally. A different
+image from a movie may be shown to each individual, knowing their
+interests and preferences.
+
+Netflix collects this data, in part, to decide what shows to make. It
+even randomly distributes, different ideas to different people. One
+person might see idea A and another may see idea B, decisions are then
+made on which is more successful.
+
+So, what of the future? It seems that anything is possible and what is
+possible will no doubt happen!
+
+Interactivity is already with us, particularly for sport which is very
+lucrative for the industry. Viewers can decide which camera angle gives
+the best shot of a player. They can even view as if positioned in a
+particular location in a sports stadium.
+
+Ideas for what is to come, depend on innovation and technological
+advancements (and I note that Innovation is now added as a component of
+many university degree courses). It may be that each of us could choose
+to play the part of the hero in a movie.
+
+It is already possible to, perfectly dub sound: different words, even
+languages can be engineered into a movie seamlessly. Paul showed a clip
+from a movie which had an R rating because of one word. Instead of re-
+shooting a scene, the sound and lip movement data was altered while
+managing to keep the actor's voice, so enabling a better rating and less
+restricted viewing of the movie.
+
+I hope you all enjoyed Paul's talk as much as I did. We now have a
+doorway into understanding the magic that enters our homes, and an
+awareness of the practical use of data and innovation, together with an
+understanding of how valuable our personal data is to a wide range of
+industries.
+
+We touched on the impact of data centres on the environment and the need
+for alternative solutions to the use of water for cooling the hardware.
+We didn't discuss the rise of A I and its possible positive and negative
+impact on our world. Hopefully students of innovation will help to
+provide answers we need in the future.
