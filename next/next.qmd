@@ -1,9 +1,10 @@
 ---
-title: Details coming soon
+title: Following on from last year's "An Internal Climate Crisis"
 date: 2025-09-22
 authors:
-  - name: Speaker TBC
-author: Speaker TBC
+  - name: Dr James Kinross
+    affiliation: Senior Lecturer / Consultant Surgeon, Imperial College, London
+author: Dr James Kinross
 ---
 
 ::: {.img-float}

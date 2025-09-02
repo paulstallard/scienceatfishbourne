@@ -236,8 +236,11 @@ will give an overview of how drones are being used across a range of industrial 
 
 next_talk = Talk(
     "2025-09-22",
-    Author("Speaker TBC"),
-    title="Details coming soon",
+    Author(
+        "Dr James Kinross",
+        affiliation="Senior Lecturer / Consultant Surgeon, Imperial College, London",
+    ),
+    title="Following on from last year's \"An Internal Climate Crisis\"",
 )
 
 blank_next_talk = Talk(
