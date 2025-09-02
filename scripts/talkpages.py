@@ -240,7 +240,7 @@ next_talk = Talk(
         "Dr James Kinross",
         affiliation="Senior Lecturer / Consultant Surgeon, Imperial College, London",
     ),
-    title="Following on from last year's \"An Internal Climate Crisis\"",
+    title="TBC, but following on from last year's \"An Internal Climate Crisis\"",
 )
 
 blank_next_talk = Talk(
