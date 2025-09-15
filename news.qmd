@@ -13,6 +13,18 @@ If you've seen something that you think would be of interest to the group, pleas
 :::
 
 ```{=html}
+<a class="fragment" href="https://stanmed.stanford.edu/innovations-helping-harness-sound-acoustics-healing">
+    <img src="https://stanmed.stanford.edu/wp-content/uploads/2021/07/SoundSampler2_LandscapeTwitter.jpg" width="200px">
+    <h3>Putting sound and acoustics to work in medicine</h3>
+        <b>Stanford Medicine Magazine</b>
+    <p class="text">Researchers use sound and acoustics to advance health research.
+    </p>
+    <scan class="read-more">Click to read the full article</span>
+</a>
+<p></p>
+```
+
+```{=html}
 <a class="fragment" href="https://news.harvard.edu/gazette/story/2025/03/why-new-qubit-may-give-ultrafast-quantum-computing-a-boost/">
     <img src ="https://news.harvard.edu/wp-content/uploads/2025/03/Dr-Chetan-Nayak-Microsoft-1920.jpg" width="200px">
     <h3>Why new qubit may give ultrafast quantum computing a boost — Harvard Gazette</h3>
