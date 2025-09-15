@@ -236,11 +236,10 @@ will give an overview of how drones are being used across a range of industrial 
 
 next_talk = Talk(
     "2025-09-22",
-    Author(
-        "Dr James Kinross",
-        affiliation="Senior Lecturer / Consultant Surgeon, Imperial College, London",
-    ),
-    title="TBC, but following on from last year's \"An Internal Climate Crisis\"",
+    Author("Robert Hornby"),
+    title="The Panama Canal",
+    overview="This talk will include how it was started, the dangers for the workers, the incredible machines invented to build the canal, the skill of the surveyors to find the appropriate site for daming the river and finally how locks work. It will also include types of ships that pass through this waterway and what has been done to future proof the canal.",
+    categories="transport",
 )
 
 blank_next_talk = Talk(

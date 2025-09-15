@@ -1,12 +1,16 @@
 ---
-title: TBC, but following on from last year's "An Internal Climate Crisis"
+title: The Panama Canal
 date: 2025-09-22
 authors:
-  - name: Dr James Kinross
-    affiliation: Senior Lecturer / Consultant Surgeon, Imperial College, London
-author: Dr James Kinross
+  - name: Robert Hornby
+author: Robert Hornby
+categories: transport
 ---
 
 ::: {.img-float}
 ![](/posters/2025-09.jpg){width=30% style="float: right; margin: 5px;"}
 :::
+
+# Overview
+
+This talk will include how it was started, the dangers for the workers, the incredible machines invented to build the canal, the skill of the surveyors to find the appropriate site for daming the river and finally how locks work. It will also include types of ships that pass through this waterway and what has been done to future proof the canal.
