@@ -232,14 +232,19 @@ will give an overview of how drones are being used across a range of industrial 
 * Paul's presentation (pdf): [Behind the Streams](resources/2025-08_presentation.pdf){target="_blank"}""",
         categories=["TV/media", "computing"],
     ),
+    Talk(
+        "2025-09-22",
+        Author("Robert Hornby"),
+        title="The Panama Canal",
+        overview="This talk will include how it was started, the dangers for the workers, the incredible machines invented to build the canal, the skill of the surveyors to find the appropriate site for daming the river and finally how locks work. It will also include types of ships that pass through this waterway and what has been done to future proof the canal.",
+        categories="transport",
+    ),
 ]
 
 next_talk = Talk(
-    "2025-09-22",
-    Author("Robert Hornby"),
-    title="The Panama Canal",
-    overview="This talk will include how it was started, the dangers for the workers, the incredible machines invented to build the canal, the skill of the surveyors to find the appropriate site for daming the river and finally how locks work. It will also include types of ships that pass through this waterway and what has been done to future proof the canal.",
-    categories="transport",
+    "2025-10-27",
+    Author("Speaker TBC"),
+    title="Details coming soon",
 )
 
 blank_next_talk = Talk(
