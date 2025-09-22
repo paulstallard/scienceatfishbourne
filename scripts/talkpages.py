@@ -238,6 +238,7 @@ will give an overview of how drones are being used across a range of industrial 
         title="The Panama Canal",
         overview="This talk will include how it was started, the dangers for the workers, the incredible machines invented to build the canal, the skill of the surveyors to find the appropriate site for daming the river and finally how locks work. It will also include types of ships that pass through this waterway and what has been done to future proof the canal.",
         categories="transport",
+        review_text="Coming soon...",
     ),
 ]
 

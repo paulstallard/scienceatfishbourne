@@ -17,4 +17,4 @@ This talk will include how it was started, the dangers for the workers, the incr
 
 # Lynn's Review
 
-{{< include /reviews/_2025-09.qmd >}}
+Coming soon...
