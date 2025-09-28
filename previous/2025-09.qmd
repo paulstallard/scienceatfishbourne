@@ -1,5 +1,6 @@
 ---
 title: The Panama Canal
+subtitle: The Gateway between Oceans
 date: 2025-09-22
 authors:
   - name: Robert Hornby
@@ -17,4 +18,4 @@ This talk will include how it was started, the dangers for the workers, the incr
 
 # Lynn's Review
 
-Coming soon...
+{{< include /reviews/_2025-09.qmd >}}
