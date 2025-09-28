@@ -13,6 +13,47 @@ If you've seen something that you think would be of interest to the group, pleas
 :::
 
 ```{=html}
+<a class="fragment" href="https://www.sciencefocus.com/the-human-body/anti-ageing-hacks">
+    <img src ="https://c02.purpledshub.com/uploads/sites/41/2024/03/Anti-ageing.jpg?w=1200" width="200px">
+    <h3>9 simple, science-backed changes that can reverse your biological age | BBC Science Focus Magazine</h3>
+        <b>www.sciencefocus.com</b>
+    <p class="text">Science says it’s time to rethink – and take control – of our body's age. Here’s how to slow, halt and potentially turn back your biological clock.
+    </p>
+    <scan class="read-more">Click to read the full article</span>
+</a>
+<p></p>
+```
+
+```{=html}
+<a class="fragment" href="https://www.yicaiglobal.com/news/a-look-inside-chinas-man-made-sun-nuclear-fusion-project-in-anhui">
+    <img src ="http://img.yicaiglobal.com/src/image/2025/09/98842861923013.jpg" width="200px">
+    <h3>A Look Inside China’s ‘Man-Made Sun’ Nuclear Fusion Project in Anhui</h3>
+        <b>None</b>
+    <p class="text">
+    </p>
+    <scan class="read-more">Click to read the full article</span>
+</a>
+<p></p>
+```
+
+```{=html}
+<a class="fragment" href="http://digitaleditions.telegraph.co.uk/data/2192/reader/reader.html?social#!preferred/0/package/2192/pub/2192/page/61/article/NaN">
+    <img src ="" width="200px">
+    <h3>I’m a 71-year-old super ager. Here are seven ways to become one too</h3>
+        <b>www.telegraph.co.uk</b>
+    <p class="text">
+Dr Eric Topol says if we make lifestyle changes we can join the ‘wellderly’ and gain an extra 10 to 20 years of healthy ageing.
+    </p>
+    <scan class="read-more">Click to read the full article</span>
+</a>
+<p></p>
+```
+
+::: {.callout-note collapse="true" icon="false"}
+
+## Science News Archive (click to expand)
+
+```{=html}
 <a class="fragment" href="https://stanmed.stanford.edu/innovations-helping-harness-sound-acoustics-healing">
     <img src="https://stanmed.stanford.edu/wp-content/uploads/2021/07/SoundSampler2_LandscapeTwitter.jpg" width="200px">
     <h3>Putting sound and acoustics to work in medicine</h3>
@@ -60,10 +101,6 @@ In a series of monthly events, Bach, the Universe and Everything places Bach’s
 </a>
 <p></p>
 ```
-
-::: {.callout-note collapse="true" icon="false"}
-
-## Science News Archive (click to expand)
 
 ```{=html}
 <a class="fragment" href="https://www.sciencefocus.com/space/the-universes-7-biggest-mysteries-and-why-theyre-unsolved">
