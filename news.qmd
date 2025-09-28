@@ -28,8 +28,8 @@ If you've seen something that you think would be of interest to the group, pleas
 <a class="fragment" href="https://www.yicaiglobal.com/news/a-look-inside-chinas-man-made-sun-nuclear-fusion-project-in-anhui">
     <img src ="http://img.yicaiglobal.com/src/image/2025/09/98842861923013.jpg" width="200px">
     <h3>A Look Inside China’s ‘Man-Made Sun’ Nuclear Fusion Project in Anhui</h3>
-        <b>None</b>
     <p class="text">
+China’s Experimental Advanced Superconducting Tokamak, a nuclear fusion reactor developed by the Chinese Academy of Sciences, is coming closer to realizing humanity’s dream of a ‘man-made sun’ and has recently achieved a number of breakthroughs in nuclear fusion research.
     </p>
     <scan class="read-more">Click to read the full article</span>
 </a>
@@ -49,10 +49,6 @@ Dr Eric Topol says if we make lifestyle changes we can join the ‘wellderly’ 
 <p></p>
 ```
 
-::: {.callout-note collapse="true" icon="false"}
-
-## Science News Archive (click to expand)
-
 ```{=html}
 <a class="fragment" href="https://stanmed.stanford.edu/innovations-helping-harness-sound-acoustics-healing">
     <img src="https://stanmed.stanford.edu/wp-content/uploads/2021/07/SoundSampler2_LandscapeTwitter.jpg" width="200px">
@@ -64,6 +60,10 @@ Dr Eric Topol says if we make lifestyle changes we can join the ‘wellderly’ 
 </a>
 <p></p>
 ```
+
+::: {.callout-note collapse="true" icon="false"}
+
+## Science News Archive (click to expand)
 
 ```{=html}
 <a class="fragment" href="https://news.harvard.edu/gazette/story/2025/03/why-new-qubit-may-give-ultrafast-quantum-computing-a-boost/">
