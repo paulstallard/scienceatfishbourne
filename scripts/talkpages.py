@@ -244,8 +244,8 @@ will give an overview of how drones are being used across a range of industrial 
 
 next_talk = Talk(
     "2025-10-27",
-    Author("Speaker TBC"),
-    title="Details coming soon",
+    Author("Tony Nordberg"),
+    title="A cheaper, quicker, cleaner addition to the UK's Transport Infrastructure",
 )
 
 blank_next_talk = Talk(

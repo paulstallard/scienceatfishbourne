@@ -1,9 +1,9 @@
 ---
-title: Details coming soon
+title: A cheaper, quicker, cleaner addition to the UK's Transport Infrastructure
 date: 2025-10-27
 authors:
-  - name: Speaker TBC
-author: Speaker TBC
+  - name: Tony Nordberg
+author: Tony Nordberg
 ---
 
 ::: {.img-float}
