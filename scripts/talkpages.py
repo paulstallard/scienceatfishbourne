@@ -246,6 +246,7 @@ next_talk = Talk(
     "2025-10-27",
     Author("Tony Nordberg"),
     title="A cheaper, quicker, cleaner addition to the UK's Transport Infrastructure",
+    overview="This will be a network of one way Eways for lightweight ‘Ecars’ using the margins between the fence-lines either side of major road and rail routes and elevated across open land. For the road sections of door-to-door journeys Ecars would use their internal short-range batteries and when on the Eways will pick up power for recharge and high-speed traction and be automatically controlled."
 )
 
 blank_next_talk = Talk(
