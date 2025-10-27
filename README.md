@@ -16,7 +16,7 @@ git pull
 - Edit `scripts/talkpages.py`
     - Move the `Talk` in `next_talk` to the end of `previous_talks` array
     - Add category/categories
-    - Add `review_text="Coming soon...` if not yet available
+    - Add `review_text="Coming soon..."` if not yet available
 - Create a new entry for `next_talk`
 - If no details available yet:
     - Make new placeholder image (`placeholder_poster`)

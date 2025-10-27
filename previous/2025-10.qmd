@@ -4,6 +4,7 @@ date: 2025-10-27
 authors:
   - name: Tony Nordberg
 author: Tony Nordberg
+categories: ['transport', 'environment']
 ---
 
 ::: {.img-float}
@@ -16,4 +17,4 @@ This will be a network of one way Eways for lightweight ‘Ecars’ using the ma
 
 # Lynn's Review
 
-{{< include /reviews/_2025-10.qmd >}}
+Coming soon...
