@@ -240,17 +240,22 @@ will give an overview of how drones are being used across a range of industrial 
         overview="This talk will include how it was started, the dangers for the workers, the incredible machines invented to build the canal, the skill of the surveyors to find the appropriate site for daming the river and finally how locks work. It will also include types of ships that pass through this waterway and what has been done to future proof the canal.",
         categories="transport",
     ),
+    Talk(
+        "2025-10-27",
+        Author("Tony Nordberg"),
+        title="A cheaper, quicker, cleaner addition to the UK's Transport Infrastructure",
+        overview="This will be a network of one way Eways for lightweight ‘Ecars’ using the margins between the fence-lines either side of major road and rail routes and elevated across open land. For the road sections of door-to-door journeys Ecars would use their internal short-range batteries and when on the Eways will pick up power for recharge and high-speed traction and be automatically controlled."
+    ),
 ]
 
 next_talk = Talk(
-    "2025-10-27",
-    Author("Tony Nordberg"),
-    title="A cheaper, quicker, cleaner addition to the UK's Transport Infrastructure",
-    overview="This will be a network of one way Eways for lightweight ‘Ecars’ using the margins between the fence-lines either side of major road and rail routes and elevated across open land. For the road sections of door-to-door journeys Ecars would use their internal short-range batteries and when on the Eways will pick up power for recharge and high-speed traction and be automatically controlled."
+    "2025-11-24",
+    Author("Speaker TBC"),
+    title="Details coming soon",
 )
 
 blank_next_talk = Talk(
-    "2025-10-27",
+    "2025-12-15",
     Author("Speaker TBC"),
     title="Details coming soon",
 )

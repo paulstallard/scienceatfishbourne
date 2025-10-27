@@ -7,6 +7,7 @@ website:
   site-url: https://scienceatfishbourne.org
   open-graph: true
   favicon: /images/microscope.svg
+  google-analytics: "G-5X0PRJMD0B"
   navbar:
     title: false
     logo: "/images/textlogo.png"
