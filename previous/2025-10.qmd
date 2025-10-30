@@ -17,4 +17,4 @@ This will be a network of one way Eways for lightweight ‘Ecars’ using the ma
 
 # Lynn's Review
 
-Coming soon...
+{{< include /reviews/_2025-10.qmd >}}
