@@ -1,9 +1,9 @@
 ---
-title: Details coming soon
+title: Quantum Computing
 date: 2025-11-24
 authors:
-  - name: Speaker TBC
-author: Speaker TBC
+  - name: Tony Mobbs
+author: Tony Mobbs
 ---
 
 ::: {.img-float}
