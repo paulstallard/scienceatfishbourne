@@ -142,7 +142,7 @@ previous_talks = [
     Talk(
         "2024-12-16",
         Author("Robert Hornby"),
-        title="The James Web Telescope",
+        title="The James Webb Telescope",
         categories="space",
     ),
     Talk(
@@ -264,7 +264,6 @@ blank_next_talk = Talk(
 )
 
 # Author("name", affiliation="affiliation"),
-# review_text="Coming soon...",
 
 
 def gettitle(talk):
