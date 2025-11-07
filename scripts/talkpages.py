@@ -252,7 +252,8 @@ will give an overview of how drones are being used across a range of industrial 
 next_talk = Talk(
     "2025-11-24",
     Author("Dr Tony Mobbs"),
-    title="Quantum Computing",
+    title="It's computing Jim, but not as we know it",
+    subtitle="An introduction to Quantum Computing",
     review_text="Coming soon...",
 )
 

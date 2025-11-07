@@ -1,5 +1,6 @@
 ---
-title: Quantum Computing
+title: It's computing Jim, but not as we know it
+subtitle: An introduction to Quantum Computing
 date: 2025-11-24
 authors:
   - name: Dr Tony Mobbs
