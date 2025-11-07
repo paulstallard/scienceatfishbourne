@@ -2,8 +2,8 @@
 title: Quantum Computing
 date: 2025-11-24
 authors:
-  - name: Tony Mobbs
-author: Tony Mobbs
+  - name: Dr Tony Mobbs
+author: Dr Tony Mobbs
 ---
 
 ::: {.img-float}

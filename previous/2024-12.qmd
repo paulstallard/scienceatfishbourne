@@ -1,5 +1,5 @@
 ---
-title: The James Web Telescope
+title: The James Webb Telescope
 date: 2024-12-16
 authors:
   - name: Robert Hornby
