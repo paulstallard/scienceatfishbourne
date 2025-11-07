@@ -254,6 +254,7 @@ next_talk = Talk(
     Author("Dr Tony Mobbs"),
     title="It's computing Jim, but not as we know it",
     subtitle="An introduction to Quantum Computing",
+    overview="Quantum computing is a revolutionary approach to computation that harnesses the principles of quantum mechanics. Unlike classical computers, quantum computers utilise the phenomenon of quantum principles. This enables quantum computers to solve certain problems much faster than classical machines. Though still in early development, quantum computing holds promise for breakthroughs in many scientific disciplines and  could  potentially transforming industries and scientific research in profound ways.",
     review_text="Coming soon...",
 )
 
