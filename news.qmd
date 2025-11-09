@@ -13,6 +13,18 @@ If you've seen something that you think would be of interest to the group, pleas
 :::
 
 ```{=html}
+<a class="fragment" href="https://www.anl.gov/article/argonne-researchers-develop-new-membrane-technology-to-extract-lithium-from-water">
+    <img src ="https://www.anl.gov/sites/www/files/2025-07/34355D083_Li%20Extraction%20Research_WEB.jpg" width="200px">
+    <h3>Argonne researchers develop new membrane technology to extract lithium from water</h3>
+        <b>Argonne National Laboratory</b>
+    <p class="text">Argonne and the University of Chicago researchers have developed an advanced membrane technology that extracts lithium from water.
+    </p>
+    <scan class="read-more">Click to read the full article</span>
+</a>
+<p></p>
+```
+
+```{=html}
 <a class="fragment" href="https://www.sciencefocus.com/the-human-body/anti-ageing-hacks">
     <img src ="https://c02.purpledshub.com/uploads/sites/41/2024/03/Anti-ageing.jpg?w=1200" width="200px">
     <h3>9 simple, science-backed changes that can reverse your biological age | BBC Science Focus Magazine</h3>
