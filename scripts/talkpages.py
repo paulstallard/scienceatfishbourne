@@ -247,19 +247,25 @@ will give an overview of how drones are being used across a range of industrial 
         overview="This will be a network of one way Eways for lightweight ‘Ecars’ using the margins between the fence-lines either side of major road and rail routes and elevated across open land. For the road sections of door-to-door journeys Ecars would use their internal short-range batteries and when on the Eways will pick up power for recharge and high-speed traction and be automatically controlled.",
         categories=["transport", "environment"],
     ),
+    Talk(
+        "2025-11-24",
+        Author("Dr Tony Mobbs"),
+        title="It's computing Jim, but not as we know it",
+        subtitle="An introduction to Quantum Computing",
+        overview="Quantum computing is a revolutionary approach to computation that harnesses the principles of quantum mechanics. Unlike classical computers, quantum computers utilise the phenomenon of quantum principles. This enables quantum computers to solve certain problems much faster than classical machines. Though still in early development, quantum computing holds promise for breakthroughs in many scientific disciplines and  could  potentially transforming industries and scientific research in profound ways.",
+        review_text="Coming soon...",
+    ),
 ]
 
 next_talk = Talk(
-    "2025-11-24",
-    Author("Dr Tony Mobbs"),
-    title="It's computing Jim, but not as we know it",
-    subtitle="An introduction to Quantum Computing",
-    overview="Quantum computing is a revolutionary approach to computation that harnesses the principles of quantum mechanics. Unlike classical computers, quantum computers utilise the phenomenon of quantum principles. This enables quantum computers to solve certain problems much faster than classical machines. Though still in early development, quantum computing holds promise for breakthroughs in many scientific disciplines and  could  potentially transforming industries and scientific research in profound ways.",
+    "2025-12-15",
+    Author("Speaker TBC"),
+    title="Details coming soon",
     review_text="Coming soon...",
 )
 
 blank_next_talk = Talk(
-    "2025-12-15",
+    "2026-01-26",
     Author("Speaker TBC"),
     title="Details coming soon",
     review_text="Coming soon...",
