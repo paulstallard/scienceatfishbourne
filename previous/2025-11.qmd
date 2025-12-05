@@ -17,4 +17,4 @@ Quantum computing is a revolutionary approach to computation that harnesses the 
 
 # Lynn's Review
 
-Coming soon...
+{{< include /reviews/_2025-11.qmd >}}

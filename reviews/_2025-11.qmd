@@ -1,0 +1,208 @@
+This was a subject of great interest to the members of Science at
+Fishbourne, as indicated by the number of people who turned up to listen
+to Tony, and we weren't disappointed. Quantum is fuzzy so no one was
+expecting true enlightenment, but we were all captivated by Tony's talk
+and there was much discussion afterwards.
+
+Tony began with some history of the Atom, beginning with a definition of
+the word itself, which came from the Greek: Atamos, which means:
+**uncuttable**. It was **Democritus 460BCE-370BCE** who noticed how
+steps became worn down over time as people walked up and down them. He
+realised that friction from footfall was causing particles to rub off
+the steps. There must therefore be, **tiny particles**.
+
+Over time, other scientists put forward their theories and discoveries:
+
+-   1803 John Dalton -- matter is made from little balls which form
+    elements. Atoms of one element are all alike but they differ from
+    atoms of other elements.
+
+-   1897 **JJ Thompson** -- Atoms had charges.
+
+-   1911 **Ernest Rutherford** -- Atoms had a nucleus.
+
+-   1913 **Neils Bohr** -- Electrons go around the nucleus (Nobel prize
+    in 1922)
+
+-   1919 **Rutherford** - identified the proton as the fundamental
+    particle within the nucleus. The nucleus contains protons, giving it
+    a positive charge.
+
+-   1869 **Mendeleev** - He organized known elements by their increasing
+    atomic weight and properties, forming the basis for the modern
+    periodic table.
+
+In the **20^th^ Century CERN** opened on the French Swiss border. It is
+about 100 metres underground and its particle accelerator consists of a
+ring tunnel of 27 kilometres. Here atoms are accelerated at super high
+speed and their collisions cause particles to fall off. These particles,
+in the 1960s were given the name Quarks. Quarks have mass, a fraction of
+charge and spin. There are also Leptons. **Quarks and Leptons** are the
+two fundamental types of elementary particles that make up all known
+matter. They are collectively called **Fermions**.
+
+Other particles: **Bosons**; such as **Gluons** and **Photons** are
+force carriers and they mediate the fundamental forces between the
+**Fermions**.
+
+In 2012, the Higgs Boson was discovered at the **L**arge **H**adron
+**C**ollider at **CERN.** This discovery confirmed the existence of the
+Higgs field and its associated mechanism. The **Higgs Boson** is an
+excitation of this field and it gives mass to other elementary
+particles.
+
+There are also **Neutrinos**. These have no charge and very small mass
+and maybe they give some -- as yet unexplained- magic to our lives (my
+suggestion), as **tens of trillions** of them, stream from the **Sun**,
+passing through our bodies every second.
+
+Tony explained lots more, about protons, neutrons, charges and spins,
+but perhaps further reading on this is a good idea.
+
+In the 17^th^ Century Isaac Newton proposed that light consists of tiny
+particles called corpuscles and Charles Huygens proposed that light was
+a wave. Modern physics recognizes that light is not strictly one or the
+other, but exhibits both wave-like and particle-like behaviours
+depending on how it is observed or measured.
+
+**Max Plank** in 1900 discovered the **Quantum theory**. He proposed
+that the energy from a heated object is not continuous, but comes in
+small, discrete units (quanta). This idea solved the problem of black-
+body radiation, a phenomenon that classical physics could not
+explain. He also introduced the **fundamental** **constant ℎ** to define
+the energy of a quantum. This constant is now a cornerstone of quantum
+mechanics. 
+
+**Albert Einstein** won the **Nobel Prize in 1922 f**or his discovery of
+the law of the photoelectric effect. This explains the relationship
+between Electron emission and light frequency. Light consists of small
+packets of energy called photons.
+
+**Thomas Young in 1801** demonstrated that light had a wave nature by
+conducting the double slit experiment. (see link below).
+
+Other Scientists referenced by Tony, include **Louis de Broglie**; **Max
+Born** and **Erwin Schrodinger**.
+
+Unlike classical physics, **Quantum events have inherent probabilistic
+outcomes**, and Tony gave some physical examples relating to **Kinetic
+and Potential energy.** Holding a length of string, each end being held
+in each hand, and one end having a weight attached, he explained that in
+this horizontal position, potential energy was displayed. Upon releasing
+the end with the weight, Kinetic energy came into play as the weight
+swung downwards in an arc.
+
+Probability waves are a concept of Quantum mechanics. The wave like
+nature of a particle represents the probability of finding it in a
+particular location. Electrons don't move around a nucleus in neat
+orbits but move as in a cloud. The probability as to the position of any
+one electron; it could be anywhere. When you locate it, then the
+probability wave collapses because you know where it is. Schrodinger's
+cat thought experiment relates to this concept.
+
+Waves also have preferred patterns depending on the amount of energy in
+them and Tony demonstrated possible orbital regions where electrons
+might be found around a nucleus, by putting energy into a length of
+string.
+
+**A I** gave me these words to attempt to explain Tony's demonstration
+of the **S,P,D** **and F orbitals**:
+
+*"Think of them as different \"rooms\" for electrons, each holding a
+specific number of electrons: **s** is a single, spherical room (2
+electrons); **p** are three dumbbell-shaped rooms at right angles (6
+electrons); **d** have a four-leaf clover shape and are more complex (10
+electrons); and **f** orbitals have even more complex, varied shapes (14
+electrons)."*
+
+**Superposition is a fundamental principle of Quantum Computing**. In
+superposition an object can be in more than one quantum state until you
+measure it.
+
+**Entanglement is also** **a fundamental principle of Quantum
+Computing**. It connects particles that are linked. Entanglement can
+happen, over any distance, from a physical collision or from sharing a
+common origin. Tony asked us to imagine a pair of gloves. If we place
+one in a box and have another on our right hand, we know that the one in
+the box is the left hand. The pair are linked even if the box is far
+away.
+
+The computers we use at home are **"Classical Computers."** They use
+bits to represent data using 0s and 1s. These are like, on /off
+switches. For example, to calculate 3 X 5, the numbers are first
+converted into binary they are processed through many logic gates and
+the answer emerges in a fraction of a second.
+
+**Quantum Computers use qubits**. This is a system that can be in
+**superposition** of two different states at the same time: both 0
+and 1. They can therefore perform many calculations at the
+simultaneously. Their power is boosted by **entangling qubits.** The
+quantum particle must be kept, just like a spinning coin, in a coherent
+state. Qubits behave in a probabilistic manner. They will run the same
+calculation multiple times and return a set of probabilities rather than
+a single number.
+
+One of the problems faced is the ability to maintain coherence -- the
+freedom from outside interference. Environmental effects such as noise
+and vibration will interfere with the Quantum computer.
+
+Classical computers perform the everyday tasks, which we use, very well.
+Quantum computers are currently massive: IBM's D Wave computer is 7-8
+feet tall. Their use is for breaking modern encryption; simulating
+molecular interactions for drug discovery and solving large-scale
+optimisation problems such as supply chain logistics. They can solve
+complex statistical problems in finance and perform accurate scientific
+simulations.
+
+A quantum computer can't be used to send a signal because the outcome of
+measurement is probabilistic. you only know how the two measurements
+will be related.
+
+I have enjoyed attempting to write this review, and truly enjoyed Tony's
+presentation. Now .... So many more questions ...
+
+I hope you find the links below useful too ..
+
+A Book I have enjoyed is: "How to Teach Quantum Physics to Your Dog" by
+Chad Orzel.
+
+Also, all books by Carlo Rovelli
+
+Jim Al-Khalili describes the double slit experiment
+
+<https://youtu.be/A9tKncAdlHQ?si=h3OHnhngwKEM3ty6>
+
+Louis De Broglie
+
+<https://www.nobelprize.org/prizes/physics/1929/broglie/biographical/>
+
+Max Born
+
+<https://www.nobelprize.org/prizes/physics/1954/born/facts/>
+
+Erwin Schrodinger
+
+[https://en.wikipedia.org/wiki/Schrödinger%27s_cat](https://en.wikipedia.org/wiki/Schrödinger%27s_cat)
+
+*"Start the Week," with Professor Paul Davis speaking about Quantum
+Technology. He wrote the book: "Quantum 2.0"*
+
+<https://www.bbc.co.uk/sounds/play/m002n05z?partner=uk.co.bbc&origin=share-mobile>
+
+Also (Just for interest) Paul Davis YouTube video on Multiple Universes
+
+<https://youtu.be/pGtb-6WOpuk?si=zlreuDRnIGSYkWLM>
+
+*Chinese scientists build a stable block for Quantum Computers.*
+
+<https://quantumzeitgeist.com/quantum-computers-quantum-computing/>
+
+*Quantum for Dummies... is my level!*
+
+<https://www.dummies.com/article/technology/computers/what-is-quantum-computing-300551/>
+
+*IBM Quantum platform*
+
+<https://quantum.cloud.ibm.com/>
+
+.
