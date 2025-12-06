@@ -13,6 +13,18 @@ If you've seen something that you think would be of interest to the group, pleas
 :::
 
 ```{=html}
+<a class="fragment" href="https://news.stanford.edu/stories/2025/12/quantum-communication-room-temperature-breakthrough-research">
+    <img src ="https://news.stanford.edu/__data/assets/image/0037/179974/tempImageXsuWiZ.jpg" width="200px">
+    <h3>Scientists achieve breakthrough on quantum signaling</h3>
+        <b>news.stanford.edu</b>
+    <p class="text">A tiny device that entangles light and electrons without super-cooling could revolutionize quantum tech in cryptography, computing, and AI.
+    </p>
+    <scan class="read-more">Click to read the full article</span>
+</a>
+<p></p>
+```
+
+```{=html}
 <a class="fragment" href="https://news.northwestern.edu/stories/2024/september/watch-water-form-out-of-thin-air">
     <img src ="https://news.northwestern.edu/assets/Stories/2024/10/drop1940__FocusFillMaxWyIwLjAwIiwiMC4wMCIsMTIwMCw2MzBd.jpg" width="200px">
     <h3>Watch water form out of thin air</h3>
