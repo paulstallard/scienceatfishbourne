@@ -1,9 +1,9 @@
 ---
-title: Details coming soon
+title: How Predicting the Future can be Difficult
 date: 2025-12-15
 authors:
-  - name: Speaker TBC
-author: Speaker TBC
+  - name: Dr Tony Mobbs
+author: Dr Tony Mobbs
 ---
 
 ::: {.img-float}

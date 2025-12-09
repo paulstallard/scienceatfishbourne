@@ -258,8 +258,8 @@ will give an overview of how drones are being used across a range of industrial 
 
 next_talk = Talk(
     "2025-12-15",
-    Author("Speaker TBC"),
-    title="Details coming soon",
+    Author("Dr Tony Mobbs"),
+    title="How Predicting the Future can be Difficult",
     review_text="Coming soon...",
 )
 
