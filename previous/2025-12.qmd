@@ -1,0 +1,16 @@
+---
+title: How Predicting the Future can be Difficult
+subtitle: A History of Modern Computing
+date: 2025-12-15
+authors:
+  - name: Dr Tony Mobbs
+author: Dr Tony Mobbs
+---
+
+::: {.img-float}
+![](/posters/2025-12.jpg){width=30% style="float: right; margin: 5px;"}
+:::
+
+# Lynn's Review
+
+Coming soon...

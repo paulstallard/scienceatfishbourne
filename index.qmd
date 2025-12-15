@@ -32,10 +32,6 @@ We meet at the Fishbourne Centre in Fishbourne. See the [Find Us](location.qmd) 
 
 ::::
 
-:::{.callout-note title="Remaining meeting date for 2025"}
-15th December
-:::
-
 :::{.callout-note title="Meeting dates for 2026"}
 26th January, 23rd February, 23rd March, 27th April, 18th May, 22nd June,
 27th July, 24th August, 28th September, 26th October, 23rd November, 14th December

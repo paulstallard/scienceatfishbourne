@@ -254,17 +254,24 @@ will give an overview of how drones are being used across a range of industrial 
         subtitle="An introduction to Quantum Computing",
         overview="Quantum computing is a revolutionary approach to computation that harnesses the principles of quantum mechanics. Unlike classical computers, quantum computers utilise the phenomenon of quantum principles. This enables quantum computers to solve certain problems much faster than classical machines. Though still in early development, quantum computing holds promise for breakthroughs in many scientific disciplines and  could  potentially transforming industries and scientific research in profound ways.",
     ),
+    Talk(
+        "2025-12-15",
+        Author("Dr Tony Mobbs"),
+        title="How Predicting the Future can be Difficult",
+        subtitle="A History of Modern Computing",
+        review_text="Coming soon...",
+    ),
 ]
 
 next_talk = Talk(
-    "2025-12-15",
-    Author("Dr Tony Mobbs"),
-    title="How Predicting the Future can be Difficult",
+    "2026-01-26",
+    Author("Speaker TBC"),
+    title="Details coming soon",
     review_text="Coming soon...",
 )
 
 blank_next_talk = Talk(
-    "2026-01-26",
+    "2026-02-23",
     Author("Speaker TBC"),
     title="Details coming soon",
     review_text="Coming soon...",
