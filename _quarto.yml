@@ -21,12 +21,6 @@ website:
       - location.qmd
     right:
       - about.qmd
-  announcement:
-    icon: info-circle
-    dismissable: true
-    content: "**Notice:** For anyone wishing to subscribe to Science at Fishbourne for 2026, at a cost of £24, please do so by 10th December 2025. See the latest email for details"
-    type: info
-    position: above-navbar
 
 format:
   html:
