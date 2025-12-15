@@ -259,7 +259,7 @@ will give an overview of how drones are being used across a range of industrial 
         Author("Dr Tony Mobbs"),
         title="How Predicting the Future can be Difficult",
         subtitle="A History of Modern Computing",
-        review_text="Coming soon...",
+        review_text="Review coming soon...",
     ),
 ]
 
