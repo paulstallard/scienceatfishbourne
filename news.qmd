@@ -13,6 +13,18 @@ If you've seen something that you think would be of interest to the group, pleas
 :::
 
 ```{=html}
+<a class="fragment" href="https://www.chemistryworld.com/features/nitrous-oxide-emissions-accelerate-as-agriculture-drives-climate-threat/4022460.article">
+    <img src ="newsimages/n2o.jpg" width="200px">
+    <h3>Nitrous oxide emissions accelerate as agriculture drives climate threat</h3>
+        <b>www.chemistryworld.com</b>
+    <p class="text">With N2O emissions up 40% in four decades, scientists are searching for answers. Anthony King looks at potential solutions to keep fertiliser nitrogen in the soil
+    </p>
+    <scan class="read-more">Click to read the full article</span>
+</a>
+<p></p>
+```
+
+```{=html}
 <a class="fragment" href="https://news.stanford.edu/stories/2025/12/quantum-communication-room-temperature-breakthrough-research">
     <img src ="https://news.stanford.edu/__data/assets/image/0037/179974/tempImageXsuWiZ.jpg" width="200px">
     <h3>Scientists achieve breakthrough on quantum signaling</h3>
@@ -25,23 +37,27 @@ If you've seen something that you think would be of interest to the group, pleas
 ```
 
 ```{=html}
-<a class="fragment" href="https://news.northwestern.edu/stories/2024/september/watch-water-form-out-of-thin-air">
-    <img src ="https://news.northwestern.edu/assets/Stories/2024/10/drop1940__FocusFillMaxWyIwLjAwIiwiMC4wMCIsMTIwMCw2MzBd.jpg" width="200px">
-    <h3>Watch water form out of thin air</h3>
-        <b>news.northwestern.edu</b>
-    <p class="text">For first time, researchers witnessed formation of tiny water bubbles in real time
+<a class="fragment" href="https://www.anl.gov/article/argonne-researchers-develop-new-membrane-technology-to-extract-lithium-from-water">
+    <img src ="https://www.anl.gov/sites/www/files/2025-07/34355D083_Li%20Extraction%20Research_WEB.jpg" width="200px">
+    <h3>Argonne researchers develop new membrane technology to extract lithium from water</h3>
+        <b>Argonne National Laboratory</b>
+    <p class="text">Argonne and the University of Chicago researchers have developed an advanced membrane technology that extracts lithium from water.
     </p>
     <scan class="read-more">Click to read the full article</span>
 </a>
 <p></p>
 ```
 
+::: {.callout-note collapse="true" icon="false"}
+
+## Science News Archive (click to expand)
+
 ```{=html}
-<a class="fragment" href="https://www.anl.gov/article/argonne-researchers-develop-new-membrane-technology-to-extract-lithium-from-water">
-    <img src ="https://www.anl.gov/sites/www/files/2025-07/34355D083_Li%20Extraction%20Research_WEB.jpg" width="200px">
-    <h3>Argonne researchers develop new membrane technology to extract lithium from water</h3>
-        <b>Argonne National Laboratory</b>
-    <p class="text">Argonne and the University of Chicago researchers have developed an advanced membrane technology that extracts lithium from water.
+<a class="fragment" href="https://news.northwestern.edu/stories/2024/september/watch-water-form-out-of-thin-air">
+    <img src ="https://news.northwestern.edu/assets/Stories/2024/10/drop1940__FocusFillMaxWyIwLjAwIiwiMC4wMCIsMTIwMCw2MzBd.jpg" width="200px">
+    <h3>Watch water form out of thin air</h3>
+        <b>news.northwestern.edu</b>
+    <p class="text">For first time, researchers witnessed formation of tiny water bubbles in real time
     </p>
     <scan class="read-more">Click to read the full article</span>
 </a>
@@ -71,10 +87,6 @@ China’s Experimental Advanced Superconducting Tokamak, a nuclear fusion reacto
 </a>
 <p></p>
 ```
-
-::: {.callout-note collapse="true" icon="false"}
-
-## Science News Archive (click to expand)
 
 ```{=html}
 <a class="fragment" href="http://digitaleditions.telegraph.co.uk/data/2192/reader/reader.html?social#!preferred/0/package/2192/pub/2192/page/61/article/NaN">
