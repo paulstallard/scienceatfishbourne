@@ -14,7 +14,7 @@ If you've seen something that you think would be of interest to the group, pleas
 
 ```{=html}
 <a class="fragment" href="https://www.chemistryworld.com/features/nitrous-oxide-emissions-accelerate-as-agriculture-drives-climate-threat/4022460.article">
-    <img src ="newsimages/n2o.jpg" width="200px">
+    <img src ="https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/9/2/2/543922_gettyimages1223916955_273099_crop.jpg" width="200px">
     <h3>Nitrous oxide emissions accelerate as agriculture drives climate threat</h3>
         <b>www.chemistryworld.com</b>
     <p class="text">With N2O emissions up 40% in four decades, scientists are searching for answers. Anthony King looks at potential solutions to keep fertiliser nitrogen in the soil
