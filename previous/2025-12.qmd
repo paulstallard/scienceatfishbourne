@@ -1,6 +1,6 @@
 ---
 title: How Predicting the Future can be Difficult
-subtitle: A History of Modern Computing
+subtitle: A Brief History of Computing
 date: 2025-12-15
 authors:
   - name: Dr Tony Mobbs
@@ -13,4 +13,4 @@ author: Dr Tony Mobbs
 
 # Lynn's Review
 
-Review coming soon...
+{{< include /reviews/_2025-12.qmd >}}

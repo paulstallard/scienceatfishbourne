@@ -1,0 +1,159 @@
+Many of us may have received manipulated video clips instead of
+Christmas and New year cards this year, so the pace of change, and the
+power and versatility of computing is evident. Tony's presentation gave
+some background history to the changes we experience almost daily, and
+there was much discussion on what the future might hold.
+
+Neils Bohr was Tony's starting point with a quote attributed to him:
+
+*"Prediction is very difficult, especially if it's to do with the
+future."*
+
+Further quotes from the presentation showed how wrong some predictions
+can be. Sometime in 1943, Thomas Watson -the chair of IBM- massively
+underestimated the future of computers when he suggested: *"There is a
+world market for maybe 5 computers."*
+
+The word: computer originally described a person who drew up a calendar.
+Today we understand computers to be very different, so how did it all
+begin and where might we be heading?
+
+Maybe it all began with Herman Hollerith, who in the 1880s, developed
+his revolutionary
+electromechanical punch card system for statistics. It was based on the
+French Jaquard textile loom and contained one row of code. His
+"Tabulating Machine Company," eventually became **I**nternational
+**B**usiness **M**achines in 1924.
+
+Early computers used gears and levers; an example is Charles Babbage\'s
+Analytical Engine. Although it was never fully built, it paved the way
+for progress.
+
+War and conflict can drive progress. Creativity and innovation are vital
+when considering how to defend a country, and finance is given to the
+military during these times for the creation of new devices to assist in
+defence. The 2^nd^ World War saw the invention of the vacuum tube and a
+shift from mechanical to electronic computing which was faster and more
+reliable. Colossus was the first programmable electronic computer, built
+and used at Bletchley Park to break a complex German cipher. It was
+designed by Tommy Flowers and it used 2½ thousand vacuum tubes.
+
+The ENIAC computer was built at Pennsylvania University and was the
+first programmable general purpose computer; not one for the home though
+as it weighed 30 tons and used 17,468 vacuum tubes! The mean time before
+failure of the system was 1½ hours.
+
+The Mechanic Magazine at least realised that the size of computers would
+reduce when this prediction was published: *"Computers in the future may
+weigh no more than 1½ tons."*
+
+Between 1956 and 1963, transistors replaced vacuum tubes and computers
+became smaller and more reliable. IBM's 1401 computer weighed only 5
+tons and was roughly the size of two refrigerators. Over half the
+world's computers were 1401s by the mid 1960s. It processed from punched
+cards and used magnetic tape for storage and retrieval. Payroll,
+inventories and billing could all be processed on this computer. Since
+then computers have continued to advance and progress. IBM's 7090 cost 3
+million dollars and could be rented by the month.
+
+From transistors we move to integrated circuits. Seymour Cray, in 1964
+introduced the CDC 6600. This used silicon transistors and 10 small
+processors rather than one system. This was deemed a super computer
+working at speeds faster than its rivals at IBM. It cost 24 million
+dollars. He soon improved on this with the CDC 7600, which ran at 5
+times the speed of the CDC 6600. To this he pipelined the units so that
+instructions for calculations could be fed in, without waiting for the
+last calculation to finish. Function units could work in parallel and
+there was no queueing to input instructions. Dr Mobbs had experience of
+working with one of these machines, which being 6ft X 10ft he likened to
+a deity surrounded by men in white coats with offerings.
+
+There are now many computer languages to learn, but FORTRAN70 was used
+then and is still in use today.
+
+1981 saw the advent of Personal Computers with IBM's Model 5150 which
+cost just over 1½ thousand dollars. The operating system was Microsoft's
+MS-DOS (I remember going to evening classes to learn how to use MS-DOS).
+There was a floppy disc drive and 64K of memory. This development
+spurred the, now dominant software and hardware industries associated
+with computing.
+
+Acorn Computers built the BBC Micro -computer, as part of the BBC's
+literacy programme. Most schools in the country had one. They cost from
+£299 and had a notable impact on education and on the UK's home-grown
+software industry.
+
+In 1984, Amstrad launched a home computer, the CPC 464 It cost from £249
+and 3 million were sold over its lifetime.
+
+In the 1980s the Apple Corporation worked on the Lisa project: a
+computer with a drop down menu bar; windows; a file system; a copy and
+paste function; folders, and a mouse. Steve Jobs, co-founder of Apple
+was forced out of the project. He took up Jef Raskin's Macintosh project
+and sales of the Apple Macintosh computer surpassed those of Apple's
+Lisa.
+
+Microsoft was founded in 1975 by Bill Gates and Paul Allen, after
+working on, what was considered to be, the first commercially successful
+personal computer: the Altair 8800 computer. This was produced by Ed
+Roberts' company **M**icro **I**nstrumentation and **T**elemetry
+**S**ystems. MITS suffered from cash flow problems and the brand
+disappeared.
+
+Microsoft launched their Windows 1.0 in November 1985 and this led to
+Windows being the most popular desktop operating system in the world.
+
+Vannevar Bush in 1945 wrote about the underlying idea of creating and
+following trails of information on microfilm, and in 1989 Tim
+Berners-Lee created the first **W**orld **W**ide **W**eb pages. The
+**WWW** is the system used for the implementation of Hypertext (a term
+first mooted by Ted Nelson in 1963). Hypertext is the concept of
+allowing links between documents, as suggested by Vannevar Bush, and the
+WWW provides the infrastructure of clickable links enabling jumps from
+one document to another.
+
+The shape and evolution of the WWW was standardised in 1994. Mosaic, was
+the first user friendly web browser in 1993. It made the internet
+accessible and led to the Dot Com Revolution and Boom, between 1995 and
+2000.
+
+The first commercially available mobile phone was released by Motorola
+in 1984. It cost \$4,000, gave 30 minutes of talk time and took 10 hours
+to charge.
+
+Apple's first Smartphone arrived in 2007. It combined a phone, an ipod
+and an internet device with a touch screen. The latest iPhone 17
+(launched in September 2025) it has a **L**ight **D**etection and
+**R**anging **S**canner so enabling in depth maps and better auto focus
+on the camera, together with better low light photography. 30,000
+invisible dots are used to make a map of your face (face ID can be used
+to open your iphone).
+
+Transistors have been getting smaller and smaller. They now measure on
+the atomic scale at 3 nanometres wide; DNA is 2.5 nanometres wide.
+Further shrinking would be either too expensive or become impossible.
+
+The speed of computing has also increased; the first commercial systems
+measured performance in thousands of operations per second (FLOPS),
+whereas modern personal devices operate at trillions of operations per
+second (teraFLOPS) or even higher. 
+
+We are now heading towards autonomous cars becoming widespread and the
+5^th^ generation of computing: Synthetic Intelligence: autonomous,
+emergent thinking systems. We now have AI tools such as ChatGPT, Gemini,
+Claude, Copilot and Grok. There is, and will be, great social impact
+with potentially 100,000 jobs lost, even those of university graduates.
+Robotics are used not only in such industries as car manufacturing but
+also in military applications - 70% of the **D**efence **A**dvanced
+**R**esearch **P**rojects **A**gency's programmes have made use of
+Robotics and machine learning.
+
+Currently, China, USA, Canada and Tesla take the lead in the manufacture
+of Humanoid robots.
+
+Where do we head next? We return to Tony's heading for this talk:
+"Predicting the future can be difficult". Let's hope for the
+continuation of humanity and creativity, with a foundation of love not
+fear.
+
+Happy New Year to all at Science at Fishbourne!
