@@ -1,0 +1,52 @@
+::: {.callout-note}
+Unfortunately Lynn was not able to join us this month, so we don't have her normal fantastic review.
+For this month only, we invited AI to be a stand-in Lynn!
+
+The text below was created in its entirety
+by Claude AI, based solely on the transcript of a (poor-quality) recording of the talk. The
+transcription was done automatically using the _Voice Memos_ app on an iPhone.
+
+It's not bad, but we'll be very happy to have Lynn back next month!
+:::
+
+This month's presentation took us on a fascinating journey through the evolution of dentistry, from ancient civilizations to cutting-edge modern techniques. The speaker guided us through millennia of dental innovations, revealing how this crucial branch of medicine has transformed from crude extractions to sophisticated procedures involving artificial intelligence and 3D printing.
+
+### Ancient Beginnings
+
+The story begins remarkably early in human history. Fossilised teeth from Australopithecus africanus, dating back three million years, show evidence of gum disease and periodontitis - proof that dental problems have plagued humanity since our earliest ancestors. By 7000 BC, there's evidence of drilling in people's mouths, and broken teeth were being repaired with beeswax fillings.
+
+The ancient Egyptians made surprising contributions to dental care. They developed a primitive toothpaste from fire ashes and ox hooves, and hieroglyphics clearly depict tooth extractions being performed. However, without anaesthetics, these procedures were brutal affairs - patients were likely knocked unconscious before having teeth removed with forceps and pliers.
+
+### Medieval Developments
+
+One of the presentation's most intriguing revelations concerned the barber-surgeons of the Middle Ages. These practitioners had a dual role: cutting hair and performing bloodletting and surgery. The iconic red and white barber pole we see today actually originated from this practice. Fascinatingly, physicians of the time considered themselves above such "dirty work" and would direct barbers to perform procedures while they supervised. This historical dynamic explains why modern surgical consultants use the title "Mr." rather than "Dr." - a tradition that deliberately harks back to when surgeons were distinct from physicians.
+
+The Pope's ban on clergy involvement with blood further elevated the barber-surgeon's role in medieval society, though their bloodletting practices often did more harm than good, sometimes draining patients to death.
+
+### The 19th Century Revolution
+
+The speaker identified the 19th century as dentistry's "golden age," when multiple scientific advances converged. This period saw the development of proper anaesthetics including nitrous oxide (laughing gas), chloroform, and eventually lidocaine in the 1940s - an anaesthetic still widely used today. The speaker shared a personal anecdote about recently having lidocaine used for a minor ear procedure, highlighting its enduring effectiveness.
+
+This era also brought systematic approaches to dental care. Pierre Fauchard, the "father of dentistry," compiled all existing dental knowledge into three comprehensive volumes that remain influential. He emphasised oral hygiene and preventative care as early as the 1700s.
+
+### The Toothbrush Evolution
+
+The development of oral hygiene tools proved equally fascinating. Before modern toothbrushes, people used "chew sticks" - twigs with bark removed and ends frayed, found in Chinese and Egyptian tombs and used by Romans. The first recognizable toothbrush was created by William Addis in the 1700s while imprisoned for inciting a riot. Using a bone from his meal and tufts of bristle, he created a prototype that launched a family business lasting until 1997, eventually producing 70 million toothbrushes annually.
+
+The bristles themselves evolved from hog hair to nylon - a name derived from the laboratories where it was developed: New York (NY) and London (LON). Modern electric toothbrushes now vibrate at 20,000 hertz and include built-in two-minute timers, as dental professionals recommend this duration for proper cleaning.
+
+### Modern Innovations
+
+Today's dentistry incorporates multiple scientific disciplines. X-rays, discovered accidentally by Röntgen in 1896, now provide detailed panoramic views of entire dental structures. Modern drills spin at 400,000 revolutions per minute with built-in lights and water cooling systems, allowing precise cavity removal.
+
+Perhaps most remarkably, the presentation highlighted 3D printing technology for creating dental prosthetics. The speaker passed around a 3D-printed model of their own mouth, created from digital scans sent to a laboratory. This exemplifies how dentistry now incorporates artificial intelligence, laser treatments for gum disease, ultrasonic cleaning, and even tele-dentistry - which emerged during the pandemic when video consultations and postal biomarker tests allowed remote diagnosis.
+
+### Looking Forward
+
+Current research explores regenerating natural teeth by stimulating patients' own gene systems, potentially eliminating the need for artificial replacements entirely. Smart toothbrushes with sensors can now monitor and improve brushing technique, while ultra-thin veneers provide cosmetic solutions.
+
+### Key Takeaway
+
+The presentation concluded with a powerful message: dentistry is essential for overall health, evolving rapidly like all medical fields. The emphasis has shifted from treatment to prevention, with dental professionals now preferring to preserve teeth rather than extract them whenever possible. From crude bone tools and cauterising rods to AI-powered diagnostics and regenerative medicine, dentistry's 9,000-year journey reflects humanity's relentless pursuit of better healthcare - one tooth at a time.
+
+The speaker's enthusiasm and personal anecdotes brought this technical subject to life, reminding us that behind every modern dental visit lies millennia of innovation, often hard-won through trial and considerable error.

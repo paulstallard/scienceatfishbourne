@@ -1,15 +1,11 @@
 ---
-title: The History and Science behind Dentistry
-date: 2026-01-26
+title: Details coming soon
+date: 2026-02-23
 authors:
-  - name: Robert Hornby
-author: Robert Hornby
+  - name: Speaker TBC
+author: Speaker TBC
 ---
 
 ::: {.img-float}
-![](/posters/2026-01.jpg){width=30% style="float: right; margin: 5px;"}
+![](/posters/2026-02.jpg){width=30% style="float: right; margin: 5px;"}
 :::
-
-# Overview
-
-The presentation will highlight how dentistry has evolved through the years to what it is today and include the science which makes our trips to the dentist less of a worry than years ago.
