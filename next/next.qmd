@@ -1,9 +1,10 @@
 ---
-title: Details coming soon
+title: The Magic of the Electron Microscope
+subtitle: How Cells Work
 date: 2026-02-23
 authors:
-  - name: Speaker TBC
-author: Speaker TBC
+  - name: Dr. Ian Goodall
+author: Dr. Ian Goodall
 ---
 
 ::: {.img-float}
