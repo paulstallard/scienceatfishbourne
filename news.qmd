@@ -13,6 +13,18 @@ If you've seen something that you think would be of interest to the group, pleas
 :::
 
 ```{=html}
+<a class="fragment" href="https://www.unsw.edu.au/newsroom/news/2025/08/new-CRISPR-technique-could-rewrite-future-genetic-disease-treatment">
+    <img src ="https://www.unsw.edu.au/content/dam/images/unsw-wide/general/news/2025/2024-01-newsroom/AdobeStock_965237142.cropimg.width=700.crop=landscape.jpeg" width="200px">
+    <h3>New CRISPR technique could rewrite future of genetic disease treatment</h3>
+        <b>www.unsw.edu.au</b>
+    <p class="text">A new study has revealed that chemical tags once regarded as genetic clutter are in fact powerful gene silencers – and removing them could unlock safer treatments for inherited blood disorders.
+    </p>
+    <scan class="read-more">Click to read the full article</span>
+</a>
+<p></p>
+```
+
+```{=html}
 <a class="fragment" href="https://www.chemistryworld.com/features/nitrous-oxide-emissions-accelerate-as-agriculture-drives-climate-threat/4022460.article">
     <img src ="https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/9/2/2/543922_gettyimages1223916955_273099_crop.jpg" width="200px">
     <h3>Nitrous oxide emissions accelerate as agriculture drives climate threat</h3>
