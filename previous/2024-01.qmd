@@ -3,8 +3,8 @@ title: The Man Who Caught a Million Criminals
 subtitle: Invention of DNA Fingerprinting
 date: 2024-01-22
 authors:
-  - name: Ian Goodhall
-author: Ian Goodhall
+  - name: Dr Ian Goodall
+author: Dr Ian Goodall
 categories: dna
 ---
 

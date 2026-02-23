@@ -48,7 +48,7 @@ class Talk:
 previous_talks = [
     Talk(
         "2024-01-22",
-        Author("Ian Goodhall"),
+        Author("Dr Ian Goodall"),
         title="The Man Who Caught a Million Criminals",
         subtitle="Invention of DNA Fingerprinting",
         categories="dna",
@@ -266,18 +266,24 @@ will give an overview of how drones are being used across a range of industrial 
         title="The History and Science behind Dentistry",
         overview="The presentation will highlight how dentistry has evolved through the years to what it is today and include the science which makes our trips to the dentist less of a worry than years ago.",
     ),
+    Talk(
+        "2026-02-23",
+        Author("Dr Ian Goodall"),
+        title="The Magic of the Electron Microscope",
+        subtitle="How Cells Work",
+        review_text="Coming soon...",
+    ),
 ]
 
 next_talk = Talk(
-    "2026-02-23",
-    Author("Dr. Ian Goodall"),
-    title="The Magic of the Electron Microscope",
-    subtitle="How Cells Work",
+    "2026-03-23",
+    Author("Speaker TBC"),
+    title="Details coming soon",
     review_text="Coming soon...",
 )
 
 blank_next_talk = Talk(
-    "2026-02-23",
+    "2026-04-27",
     Author("Speaker TBC"),
     title="Details coming soon",
     review_text="Coming soon...",

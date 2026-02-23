@@ -4,6 +4,7 @@ listing:
   contents: previous
   sort: "date desc"
   categories: true
+  page-size: 50
   fields: [image, date, title, subtitle, author, description]
 ---
 
