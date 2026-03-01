@@ -271,7 +271,6 @@ will give an overview of how drones are being used across a range of industrial 
         Author("Dr Ian Goodall"),
         title="The Magic of the Electron Microscope",
         subtitle="How Cells Work",
-        review_text="Coming soon...",
     ),
 ]
 
