@@ -272,21 +272,28 @@ will give an overview of how drones are being used across a range of industrial 
         title="The Magic of the Electron Microscope",
         subtitle="How Cells Work",
     ),
+    Talk(
+        "2026-03-23",
+        Author(
+            "Professor Alex Ford",
+            affiliation="Professor of Biology, University of Portsmouth",
+        ),
+        title="Prawns on Prozac, whatever next, Crabs on Cocaine",
+        overview="Alex will discuss why we should be concerned about sewage discharges locally into the Solent and nationally. He will also spotlight through a community funded citizen science project, the variety of chemical contaminants in our coastal water. The presentation will include some of the known impacts of chemical contaminants on marine life and highlight the misinformation/disinformation campaigns run by the water industries.",
+        review_text="Coming soon...",
+    ),
 ]
 
 next_talk = Talk(
-    "2026-03-23",
-    Author(
-        "Professor Alex Ford",
-        affiliation="Professor of Biology, University of Portsmouth",
-    ),
-    title="Prawns on Prozac, whatever next, Crabs on Cocaine",
-    overview="Alex will discuss why we should be concerned about sewage discharges locally into the Solent and nationally. He will also spotlight through a community funded citizen science project, the variety of chemical contaminants in our coastal water. The presentation will include some of the known impacts of chemical contaminants on marine life and highlight the misinformation/disinformation campaigns run by the water industries.",
+    "2026-04-27",
+    Author("Dr Paul Stallard"),
+    title="Artificial Intelligence",
+    subtitle="How we got here, where we are, and where we might be going",
     review_text="Coming soon...",
 )
 
 blank_next_talk = Talk(
-    "2026-04-27",
+    "2026-05-18",
     Author("Speaker TBC"),
     title="Details coming soon",
     review_text="Coming soon...",

@@ -1,16 +1,12 @@
 ---
-title: Prawns on Prozac, whatever next, Crabs on Cocaine
-date: 2026-03-23
+title: Artificial Intelligence
+subtitle: How we got here, where we are, and where we might be going
+date: 2026-04-27
 authors:
-  - name: Professor Alex Ford
-    affiliation: Professor of Biology, University of Portsmouth
-author: Professor Alex Ford
+  - name: Dr Paul Stallard
+author: Dr Paul Stallard
 ---
 
 ::: {.img-float}
-![](/posters/2026-03.jpg){width=30% style="float: right; margin: 5px;"}
+![](/posters/2026-04.jpg){width=30% style="float: right; margin: 5px;"}
 :::
-
-# Overview
-
-Alex will discuss why we should be concerned about sewage discharges locally into the Solent and nationally. He will also spotlight through a community funded citizen science project, the variety of chemical contaminants in our coastal water. The presentation will include some of the known impacts of chemical contaminants on marine life and highlight the misinformation/disinformation campaigns run by the water industries.
