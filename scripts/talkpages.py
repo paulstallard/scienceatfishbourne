@@ -280,7 +280,6 @@ will give an overview of how drones are being used across a range of industrial 
         ),
         title="Prawns on Prozac, whatever next, Crabs on Cocaine",
         overview="Alex will discuss why we should be concerned about sewage discharges locally into the Solent and nationally. He will also spotlight through a community funded citizen science project, the variety of chemical contaminants in our coastal water. The presentation will include some of the known impacts of chemical contaminants on marine life and highlight the misinformation/disinformation campaigns run by the water industries.",
-        review_text="Coming soon...",
     ),
 ]
 

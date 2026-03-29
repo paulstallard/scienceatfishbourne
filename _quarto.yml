@@ -8,6 +8,7 @@ website:
   open-graph: true
   favicon: /images/microscope.svg
   google-analytics: "G-5X0PRJMD0B"
+  llms-txt: true
   navbar:
     title: false
     logo: "/images/textlogo.png"
