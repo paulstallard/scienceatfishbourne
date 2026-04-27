@@ -281,19 +281,25 @@ will give an overview of how drones are being used across a range of industrial 
         title="Prawns on Prozac, whatever next, Crabs on Cocaine",
         overview="Alex will discuss why we should be concerned about sewage discharges locally into the Solent and nationally. He will also spotlight through a community funded citizen science project, the variety of chemical contaminants in our coastal water. The presentation will include some of the known impacts of chemical contaminants on marine life and highlight the misinformation/disinformation campaigns run by the water industries.",
     ),
+    Talk(
+        "2026-04-27",
+        Author("Dr Paul Stallard"),
+        title="Artificial Intelligence",
+        subtitle="An overnight success 70 years in the making",
+        overview="Artificial Intelligence is reshaping science, work and daily life, yet its roots stretch back more than 70 years. This talk traces that long history - from early symbolic systems to modern large language models - and explains how today's models learn and why they behave the way they do. Along the way we'll weigh the genuine opportunities - from new medicines to personalised education - against real concerns about jobs, bias, and environmental cost. Finally, we'll consider where AI might go from here, and where the challenges remain much harder than current headlines suggest.",
+        review_text="Coming soon...",
+    ),
 ]
 
 next_talk = Talk(
-    "2026-04-27",
-    Author("Dr Paul Stallard"),
-    title="Artificial Intelligence",
-    subtitle="An overnight success 70 years in the making",
-    overview="Artificial Intelligence is reshaping science, work and daily life, yet its roots stretch back more than 70 years. This talk traces that long history - from early symbolic systems to modern large language models - and explains how today's models learn and why they behave the way they do. Along the way we'll weigh the genuine opportunities - from new medicines to personalised education - against real concerns about jobs, bias, and environmental cost. Finally, we'll consider where AI might go from here, and where the challenges remain much harder than current headlines suggest.",
+    "2026-05-18",
+    Author("Speaker TBC"),
+    title="Details coming soon",
     review_text="Coming soon...",
 )
 
 blank_next_talk = Talk(
-    "2026-05-18",
+    "2026-06-22",
     Author("Speaker TBC"),
     title="Details coming soon",
     review_text="Coming soon...",

@@ -1,16 +1,11 @@
 ---
-title: Artificial Intelligence
-subtitle: An overnight success 70 years in the making
-date: 2026-04-27
+title: Details coming soon
+date: 2026-05-18
 authors:
-  - name: Dr Paul Stallard
-author: Dr Paul Stallard
+  - name: Speaker TBC
+author: Speaker TBC
 ---
 
 ::: {.img-float}
-![](/posters/2026-04.jpg){width=30% style="float: right; margin: 5px;"}
+![](/posters/2026-05.jpg){width=30% style="float: right; margin: 5px;"}
 :::
-
-# Overview
-
-Artificial Intelligence is reshaping science, work and daily life, yet its roots stretch back more than 70 years. This talk traces that long history - from early symbolic systems to modern large language models - and explains how today's models learn and why they behave the way they do. Along the way we'll weigh the genuine opportunities - from new medicines to personalised education - against real concerns about jobs, bias, and environmental cost. Finally, we'll consider where AI might go from here, and where the challenges remain much harder than current headlines suggest.
