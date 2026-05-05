@@ -1,9 +1,10 @@
 ---
-title: Details coming soon
+title: Protecting Fighter Pilots From High H
+subtitle: A (female) subject's perspective
 date: 2026-05-18
 authors:
-  - name: Speaker TBC
-author: Speaker TBC
+  - name: Sue Adcock
+author: Sue Adcock
 ---
 
 ::: {.img-float}

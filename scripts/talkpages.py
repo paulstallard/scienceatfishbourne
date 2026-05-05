@@ -293,8 +293,9 @@ will give an overview of how drones are being used across a range of industrial 
 
 next_talk = Talk(
     "2026-05-18",
-    Author("Speaker TBC"),
-    title="Details coming soon",
+    Author("Sue Adcock"),
+    title="Protecting Fighter Pilots From High H",
+    subtitle="A (female) subject's perspective",
     review_text="Coming soon...",
 )
 
