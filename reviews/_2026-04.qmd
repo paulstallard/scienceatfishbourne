@@ -1,0 +1,176 @@
+Dr Stallard began with a brief - whistle-stop - history of AI,
+highlighting that this was all his own work; he had not asked AI to
+write this presentation; something which is a possibility today. I will
+do my best to set down the bones of it here.
+
+Many of us will be wondering just what are the capabilities of AI? Can
+AI think for itself? In 1950 **Alan Turing** wrote a paper: "**Mind
+Computing Machinery and Intelligence**," in it, he didn't define
+intelligence. He said we should not ask if a machine can think; instead
+we should ask if a machine can pass an **imitation game;** something now
+referred to as the Turing Test. If a machine can convincingly imitate
+human conversation, then it could be classified as intelligent.
+
+In 1956 the term **Artificial Intelligence** was first used after a team
+of 4 scientists, led by John McCarthy, gathered in Dartmouth for a
+Summer research project. Their conjecture was that: "Every aspect of
+learning or any other feature of intelligence can in principle be so
+precisely described that a machine can be made to simulate it."
+
+Paul then moved on with the thought: "How do you represent knowledge in
+a computer memory?" Before the 1950s, computer systems were experimental
+machines, in the 1960s "**Expert Systems**," came into use. Expert
+systems, hand craft rules to solve a problem. A set of "**If** and
+**then**" rules are applied to a stored body of knowledge to offer
+possible solutions to a problem. This is a relatively simple and fast
+system, however it needed experts. Experts had to be interviewed in
+order to distil their experience into formal rules; if a rule was
+missing, then the system would break.
+
+Some classic Expert Systems from the 1960s to 80s are:
+
+**Dendral**: Used for chemical analysis; predicting molecular
+structures.
+
+**Mycin**: Used to identify bacteria and provide drugs.
+
+**Prospector**: Used in geology to predict mineral deposits.
+
+**RI/XCON**: Used to configure computer systems.
+
+These systems all had a specific function; they worked on probabilities.
+
+Paul built his own system: **"GRAPE,"** (wine might have influenced his
+choice of name) when he was sponsored by Lloyd's Register. They wanted a
+preventative maintenance system which could predict possible issues.
+
+Machine learning is now based on data: Data with expected outputs is
+processed with algorithms to create a model. The model is now run with
+new inputs, giving predicted outputs. The operation is as good as the
+training data given and the method of generalisation used.
+
+**Neural Networks,** have been part of machine learning for some time,
+going in and out of fashion. They now form the foundation of machine
+learning today. Neural Networks are modelled loosely on the human brain,
+with multiple layers of networks acting on data/images to produce an
+output. Neural networks are organised into layers of interconnected
+nodes, with data moving through them in one direction. Each node assigns
+a number- a weight- to each of its incoming connections. A system of
+adding, multiplying and dealing with numbers in a very complex way
+(beyond my skills) leads to a final, radically transformed solution at
+the output. A system to recognise something such as a cat, for example,
+would be fed thousands of labelled images. Training would enable the
+system to find consistent visual patterns in images which correlate with
+the label, "**Cat."**
+
+Since the 2010s, **Machine Learning** was no longer purely just for
+research; Machine learning now impacts our daily lives.
+
+In 1994, **Amazon**, was founded by **Jeff Bezos** in his garage. It was
+an online bookstore but by 2006 it had expanded to sell so many products
+that **Data Centres** were built, containing thousands of computers to
+cope with heavy shopping periods. What to do with all the potential held
+by 1000s of computers when shopping traffic was light? Sell that space!
+This was the beginning of **Cloud Computing**.
+
+Further advancement in the development of AI was initiated by **Fei-Fei
+Li**. While working as an Assistant Professor at Princeton University in
+2000, she led the development of **ImageNet,** a massive visual database
+of over 14 million hand labelled images. This revolutionised the field
+of object recognition in AI. This project involved around 50,000 people.
+Each of the 14 million images was labelled at least 3 times. In 2010,
+Fei-Fei Li organised a competition: **The Large Scale Visual Recognition
+Challenge (LSVRC)** to promote the continued development of visual
+recognition by AI.
+
+Testing for the competition was undertaken by offering new images for
+the competitors' models to identify. The failure rate was around 30%,
+but in 2012 one entrant: **Alexnet,** created by **Alex Krizhevsky**,
+**Ilya Sutskever**, and **Geoffrey Hinton** from the University of
+Toronto, achieved a failure rate of less than 16%. This heralded the
+beginning of **Deep Learning**, using Neural Networks.
+
+**Ilya Sutskever** led the research that created **ChatGPT, DALL-E**,
+and **GPT-4** and in 2024, Geoffrey Hinton won the **Nobel Prize in
+Physics**.
+
+From Deep learning came **generative AI and Large Language Models**.
+Before 2017 these networks have no memory for speech/language, or very
+little memory through recurrent Neural Networks which had feedback
+loops, so basically there was just input and output.
+
+In 2017 a paper written by eight researchers from Google Research,
+introduced: **The Transformer;** a neural network architecture that can
+process entire data sequences in parallel. Context can be preserved
+across a whole sequence, not just across nearby words. This program can
+retain context over a wide range of sentences. Everything flows in one
+direction. It is efficient to train and can be trained in parallel using
+massive amounts of data.
+
+Large Language Models such as **GPT3** released in 2020 by Open AI
+features 175 billion parameters (weights and biases in the neural
+network model used to predict what comes next). GPT3 was trained on
+300-400 billion words. A child might hear 10 million words in a year. If
+you read 250 words per minute, 24 hours a day, it would take 4000 years
+to read the training data for GPT3.
+
+LLMs react to a given prompt; an ordered list of words emerges with a
+probability output and token selection takes the first 10-50 answers
+then selecting the most weighted answer. There were difficulties with
+these early models.
+
+In 2022 **ChatGPT** was launched. This was a greatly improved model,
+because of **Reinforcement Learning from Human Feedback -RLHF.** A set
+of prompts would be fed into **LLM** asking for 3 answers. A human would
+then rank the answers 1-3. One aim is that the model created from the
+human feedback would be helpful, harmless and honest. This model is then
+used to train a new model to replace the human evaluator. The model is
+open to possibilities of error and of human differences between good and
+evil, but in the first two months Chat GPT had 100 million users.
+
+LLMs today do more than deal with text. They can process text, audio,
+images; draft legal documents; translate; generate codes; create
+artwork/stories/poems; extract information from hundreds of texts and
+more. They can also create deep fakes by, for example, recreating a
+person's voice or image.
+
+What of the future? In 2021, **Deep Mind** (a research laboratory
+acquired by Google) 0pen-sourced **AlphaFold**, a protein-structure
+prediction model. The company model is to solve intelligence for
+scientific advancement. There are many hopes and fears associated with
+such advances. Hopes related to medical guidance; personalised
+education; reasoning and many other avenues. There are fears that there
+has been no clear consent; bias is baked in, depending on who controls
+this; regulation is lagging behind the rapid innovations in AI. In
+conclusion: the benefits and the risks are unequal; global cooperation
+isn't there.
+
+Dr Stallard also touched on issues of energy and water used by data
+centres; whilst they use both, they also work on optimising energy use.
+Issues are apparent in areas with limited water and energy resources.
+
+And what about jobs? Some will be safer than others.
+
+LLMs are no doubt not the end.
+
+Paul's presentation gave us much to think about and to discuss during
+question time. I used my computer to check notes I had made and could
+easily have been led to delve further into the progress of AI. I found
+this quote from Fei-Fei Li:
+
+*\"I believe in human-centred AI to benefit people in positive and
+benevolent ways. It is deeply against my principles to work on any
+project that I think is to weaponize AI."*
+
+This came after Google secured a contract with the department of defence
+to interpret images captured by drones.
+
+Thank you Paul for an enlightening presentation on AI.
+
+Below are some websites I visited when writing this review.
+
+<https://www.youtube.com/watch?v=qYNweeDHiyU&t=285s>
+
+<https://ig.ft.com/generative-ai/>
+
+<https://towardsdatascience.com/explained-simply-reinforcement-learning-from-human-feedback/>

@@ -17,4 +17,4 @@ Artificial Intelligence is reshaping science, work and daily life, yet its roots
 
 # Lynn's Review
 
-Coming soon...
+{{< include /reviews/_2026-04.qmd >}}
