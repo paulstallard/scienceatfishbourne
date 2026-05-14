@@ -7,10 +7,34 @@ format:
     link-external-newwindow: true
 ---
 
-:::{.callout-note title="Science News"}
-We use this page to provide articles, links etc to science news that we think will be of interest to members.
-If you've seen something that you think would be of interest to the group, please let us know.
-:::
+We intended to use this page to provide links to current science news articles that would be of
+interest to members. In practice it's hard to maintain such a page and we just can't compete with
+the many commercial organisations who already do a fantastic job of aggregating science news.
+
+So, instead of posting our own links, here's a selection of the news outlets that you might want to
+explore for the latest science news. Let us know if your favourite isn't on the list; we'd
+love to add it.
+
+## Free to access (may include ads)
+
+- [BBC News - Science and Environment](https://www.bbc.co.uk/news/science_and_environment)
+- [Natural History Museum - Science News](https://www.nhm.ac.uk/discover/news/science-news.html)
+- [Nature](https://www.nature.com/news)
+- [Royal Society](https://royalsociety.org/news/)
+- [Science.org](https://www.science.org/news)
+- [Science Daily](https://www.sciencedaily.com/)
+- [The Guardian - Science](https://www.theguardian.com/science)
+
+## Subscription services (many provide limited free access)
+
+- [BBC Science Focus Magazine](https://www.sciencefocus.com/)
+- [New Scientist](https://www.newscientist.com/)
+- [Science News](https://www.sciencenews.org/)
+- [Scientific American](https://www.scientificamerican.com/)
+
+::: {.callout-note collapse="true" icon="false"}
+
+## Science News Archive (click to expand)
 
 ```{=html}
 <a class="fragment" href="https://www.unsw.edu.au/newsroom/news/2025/08/new-CRISPR-technique-could-rewrite-future-genetic-disease-treatment">
@@ -59,10 +83,6 @@ If you've seen something that you think would be of interest to the group, pleas
 </a>
 <p></p>
 ```
-
-::: {.callout-note collapse="true" icon="false"}
-
-## Science News Archive (click to expand)
 
 ```{=html}
 <a class="fragment" href="https://news.northwestern.edu/stories/2024/september/watch-water-form-out-of-thin-air">
