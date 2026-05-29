@@ -288,21 +288,27 @@ will give an overview of how drones are being used across a range of industrial 
         subtitle="An overnight success 70 years in the making",
         overview="Artificial Intelligence is reshaping science, work and daily life, yet its roots stretch back more than 70 years. This talk traces that long history - from early symbolic systems to modern large language models - and explains how today's models learn and why they behave the way they do. Along the way we'll weigh the genuine opportunities - from new medicines to personalised education - against real concerns about jobs, bias, and environmental cost. Finally, we'll consider where AI might go from here, and where the challenges remain much harder than current headlines suggest.",
     ),
+    Talk(
+        "2026-05-18",
+        Author("Sue Adcock"),
+        title="Protecting Fighter Pilots From High G",
+        subtitle="A (female) subject's perspective",
+        overview="""One of the challenges experienced by fighter pilots is the high G forces caused by rapid combat manoeuvres.  Opened in 1955, the Farnborough centrifuge was able to safely test human subjects under the effects of high G. For over 60 years, the centrifuge remained at the forefront of UK research and contributed to many world-leading technology advances.
+
+Sue Adcock, a former research scientist, centrifuge subject and pilot (150 hrs in fast jets), will cover a brief history and description of the Farnborough centrifuge, describe the effects of high G on the human body and outline various ways of providing G protection.""",
+        review_text="Coming soon...",
+    ),
 ]
 
 next_talk = Talk(
-    "2026-05-18",
-    Author("Sue Adcock"),
-    title="Protecting Fighter Pilots From High G",
-    subtitle="A (female) subject's perspective",
-    overview="""One of the challenges experienced by fighter pilots is the high G forces caused by rapid combat manoeuvres.  Opened in 1955, the Farnborough centrifuge was able to safely test human subjects under the effects of high G. For over 60 years, the centrifuge remained at the forefront of UK research and contributed to many world-leading technology advances.
-
-Sue Adcock, a former research scientist, centrifuge subject and pilot (150 hrs in fast jets), will cover a brief history and description of the Farnborough centrifuge, describe the effects of high G on the human body and outline various ways of providing G protection.""",
+    "2026-06-22",
+    Author("Speaker TBC"),
+    title="Details coming soon",
     review_text="Coming soon...",
 )
 
 blank_next_talk = Talk(
-    "2026-06-22",
+    "2026-07-27",
     Author("Speaker TBC"),
     title="Details coming soon",
     review_text="Coming soon...",
