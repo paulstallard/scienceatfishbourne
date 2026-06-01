@@ -296,7 +296,6 @@ will give an overview of how drones are being used across a range of industrial 
         overview="""One of the challenges experienced by fighter pilots is the high G forces caused by rapid combat manoeuvres.  Opened in 1955, the Farnborough centrifuge was able to safely test human subjects under the effects of high G. For over 60 years, the centrifuge remained at the forefront of UK research and contributed to many world-leading technology advances.
 
 Sue Adcock, a former research scientist, centrifuge subject and pilot (150 hrs in fast jets), will cover a brief history and description of the Farnborough centrifuge, describe the effects of high G on the human body and outline various ways of providing G protection.""",
-        review_text="Coming soon...",
     ),
 ]
 

@@ -1,0 +1,136 @@
+Sue Adcock had dreamed of working in military aviation from a young age.
+She may have been influenced by "Biggles" stories, and her talk to
+Science at Fishbourne was a testament to how early passions for a
+subject can direct and fuel future achievements.
+
+Sue was always interested in the sciences at school and graduated with a
+degree in mathematics from Oxford University. She secured a position
+with the **R**oyal **A**ircraft **E**stablishment as a research
+scientist and, since then, she has had a wide career in aviation. She
+now volunteers for the Farnborough Air Sciences Trust which was set up
+in 1993 to preserve aviation heritage.
+
+Sue's presentation gave an interesting insight into early research on G
+forces, and as someone who can just about cope with swinging on a swing,
+my head was spinning from some of the excellent videos of Sue and her
+husband, an RAF Test Pilot, now retired, experiencing G forces.
+
+As we aren't designed to work with high G forces, it is no surprise that
+tight turns in Camel Aircraft during WWI led to problems for pilots, who
+experienced, "Fainting in the Air."
+
+This led, in WWII, to research, taking place, in aircraft in the air,
+using Spitfires and Hurricanes. Post war, pilots of jetfighters such as
+Hunter, Lightning Jets could expect to withstand a force of 9G. Research
+was therefore essential.
+
+Centrifuges did exist in the 1930s, but it was 1944 when construction
+began on a centrifuge at Farnborough, at a cost of £350,000. The
+foundations for the building were 27ft deep, and the building process
+followed none of today's Health and Safety measures.
+
+The Farnborough Centrifuge, run by the RAF, was first used on 18^th^
+April 1955. It consists of 3 parts:
+
+**[Part 1]{.underline}**: The hall, having a diameter of 80ft, and a
+centrifuge arm 62½ ft long and 9½ ft wide with a gondola at each end. In
+the centre of the centrifuge arm are 2 seats for medical doctors to
+oversee the testing.
+
+Beneath the hall is a pit with a direct current electric motor of 1,350
+hp. The centrifuge arm is mounted on a 12 ton, 12ft diameter flywheel
+which sits on a spindle on the motor. There are 2 sets of 4 holding
+breaks to hold the centrifuge steady during operation. The rotating
+weight is 40 tons. The centrifuge is capable of achieving 30G unmanned
+and can go from
+
+0-63mph in 6 seconds.
+
+**[Part 2]{.underline}**: The plant rooms consist of heavy machinery to
+generate power and speed. The centrifuge has its own substation;
+incoming AC power goes to a generator for DC in order to get a fine
+current. Thyratrons act as electrical switches to control the flow of
+energy.
+
+**[Part 3]{.underline}**: The Control Room is where the G operation, is
+set via RPM and G force dials. It also controls the communication
+system. A spring loaded knob sets the centrifuge to go from 1G to 6G for
+15 seconds. It shuts off at the time limit. A device, such as this, was
+used in the 1950s/60s for operating lifts and has been repurposed for
+the centrifuge, with different Cams for each grade of G force. The discs
+are carefully made to run correctly; as the timer ticks down, the G
+force is shut off at 15 seconds.
+
+There is also a Joystick for affecting change to the G force and a big
+red Stop Button!
+
+The Farnborough Centrifuge is probably the oldest remaining centrifuge;
+however, it may not remain for many years longer, despite having an
+English Heritage star. In 2006 the site was sold off to build housing,
+but the centrifuge, having been awarded the English Heritage star,
+through Sue's efforts, was left untouched. It is now surrounded by a
+housing estate. The current owner had been a receiving good rental
+income while the Centrifuge was in use, and tours to see the Farnborough
+model were happening, but they stopped in 2024, and a new centrifuge was
+built at RAF Cranwell in 2019. The Farnborough centrifuge is now up for
+sale and, sadly, in a state of general disrepair.
+
+Sue outlined how G forces affect pilots and described actions taken to
+counter the affect. At 9G weight is increased by 9 times, so affecting
+mobility; blood pools in the legs and feet; there is a loss of vision
+followed by blackout and possible loss of consciousness; soft tissue can
+also be injured. Some pilots have died as a result of: G-Loc.
+
+Flt. Lt. Jon Egging died in 2011 when his Hawk aeroplane crashed in
+Bournemouth during an RAF Red Arrows display.
+
+The centrifuge had many test runs, possibly more than 122,000, to find
+solutions for pilots under G force.
+
+Inflatable trousers brought some relief. These are worn over a flying
+suit and inflate over the legs as G increases, so stopping blood flow to
+the feet. Tornado and Harrier pilots in WWII wore these. They were
+generally effective from 3-5G.
+
+Trousers covering the whole of the lower body were trialled. Having no
+cut outs to the knees and heels, there were mobility problems. Wearing
+these, could increase tolerance by 1G.
+
+Sue's husband, Terry Adcock, managed to achieve 9G with the trousers
+whilst also deploying the Anti-G straining manoeuvre. This has to be
+done correctly, and involves, tensing/straining the body whilst holding
+the breath for 3-4 seconds. The issue was: could this be achieved during
+combat?
+
+A further addition was the introduction of breathing oxygen under
+pressure: Positive **P**ressure **B**reathing for **G**-force Protection
+(PBG). This was developed at Farnborough's centrifuge, trialled in 1975,
+with 600 runs and reaching G force 9. Having made this work, the next
+step was to improve the design of the mask worn by the pilot.
+
+Sue Adcock has clocked up 150 hours in fast jets, and 60 years as a
+flight tester. No mean achievement for a woman. She has been
+instrumental in the testing of tactics to ameliorate G force conditions
+in the centrifuge and also in the air; all since she gained her Private
+Pilot's License in 1982.
+
+The USA also sent their systems to Farnborough for testing and Sue is
+probably the first woman to have flow, "Combat Edge," (more information
+on that can be found here:
+<https://www.parallelparliament.co.uk/question/85423/air-force-training>).
+
+We all learnt much from Sue's talk and I'm sure she will talk to us
+again in the future.
+
+I was in Bournemouth last weekend, where I took photos of the memorial
+to Flt. Lt. Jon Egging. Whilst there I also had fun in the RAF G force
+simulator; suitable for 3 year olds so I knew it would be fine for me.
+
+::: {.columns}
+::: {.column}
+![](resources/202605image1.jpg)
+:::
+::: {.column}
+![](resources/202605image2.jpg)
+:::
+:::
