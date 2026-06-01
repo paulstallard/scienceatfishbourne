@@ -8,7 +8,7 @@ author: Dr Tony Mobbs
 ---
 
 ::: {.img-float}
-![](/posters/2025-12.jpg){width=30% style="float: right; margin: 5px;"}
+![](/posters/2025-12.jpg){width=30% fig-alt="Poster image for talk entitled How Predicting the Future can be Difficult: A Brief History of Computing" style="float: right; margin: 5px;"}
 :::
 
 # Lynn's Review

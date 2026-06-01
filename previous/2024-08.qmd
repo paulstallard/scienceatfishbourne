@@ -9,7 +9,7 @@ categories: environment
 ---
 
 ::: {.img-float}
-![](/posters/2024-08.jpg){width=30% style="float: right; margin: 5px;"}
+![](/posters/2024-08.jpg){width=30% fig-alt="Poster image for talk entitled Clean Rivers and Seas" style="float: right; margin: 5px;"}
 :::
 
 # Lynn's Review

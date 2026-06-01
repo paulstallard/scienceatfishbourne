@@ -7,5 +7,5 @@ author: Speaker TBC
 ---
 
 ::: {.img-float}
-![](/posters/2026-06.jpg){width=30% style="float: right; margin: 5px;"}
+![](/posters/2026-06.jpg){width=30% fig-alt="Poster image for talk entitled Details coming soon" style="float: right; margin: 5px;"}
 :::

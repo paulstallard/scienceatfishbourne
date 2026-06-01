@@ -10,7 +10,7 @@ categories: [medicine, health]
 ---
 
 ::: {.img-float}
-![](/posters/2024-06.jpg){width=30% style="float: right; margin: 5px;"}
+![](/posters/2024-06.jpg){width=30% fig-alt="Poster image for talk entitled An Internal Climate Crisis: Lessons From The Microbes That Live Within" style="float: right; margin: 5px;"}
 :::
 
 # Lynn's Review

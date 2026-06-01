@@ -27,7 +27,7 @@ We meet at the Fishbourne Centre in Fishbourne. See the [Find Us](location.qmd) 
 :::
 
 ::: {.column width="45%"}
-![](/images/frontpage.jpeg)
+![](/images/frontpage.jpeg){fig-alt="An audience watching a science talk"}
 :::
 
 ::::

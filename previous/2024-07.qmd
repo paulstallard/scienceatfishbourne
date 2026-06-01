@@ -9,7 +9,7 @@ categories: environment
 ---
 
 ::: {.img-float}
-![](/posters/2024-07.jpg){width=30% style="float: right; margin: 5px;"}
+![](/posters/2024-07.jpg){width=30% fig-alt="Poster image for talk entitled There is No Wealth but Life" style="float: right; margin: 5px;"}
 :::
 
 # Lynn's Review

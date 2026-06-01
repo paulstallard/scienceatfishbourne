@@ -11,7 +11,7 @@ categories: space
 Unfortunately Andrew was ill on the day and unable to attend. We will look to reschedule his talk at some point in the future.
 
 ::: {.img-float}
-![](/posters/2025-06.jpg){width=30% style="float: right; margin: 5px;"}
+![](/posters/2025-06.jpg){width=30% fig-alt="Poster image for talk entitled CANCELLED: A History of the Universe in <<100 Observations" style="float: right; margin: 5px;"}
 :::
 
 # Overview

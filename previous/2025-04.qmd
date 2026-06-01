@@ -10,7 +10,7 @@ categories: [logistics]
 ---
 
 ::: {.img-float}
-![](/posters/2025-04.jpg){width=30% style="float: right; margin: 5px;"}
+![](/posters/2025-04.jpg){width=30% fig-alt="Poster image for talk entitled Drones in Action: The Scope for Transforming Medical Logistics" style="float: right; margin: 5px;"}
 :::
 
 # Overview

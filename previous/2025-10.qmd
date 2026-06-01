@@ -8,7 +8,7 @@ categories: ['transport', 'environment']
 ---
 
 ::: {.img-float}
-![](/posters/2025-10.jpg){width=30% style="float: right; margin: 5px;"}
+![](/posters/2025-10.jpg){width=30% fig-alt="Poster image for talk entitled A cheaper, quicker, cleaner addition to the UK's Transport Infrastructure" style="float: right; margin: 5px;"}
 :::
 
 # Overview

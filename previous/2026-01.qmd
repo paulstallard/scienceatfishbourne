@@ -7,7 +7,7 @@ author: Robert Hornby
 ---
 
 ::: {.img-float}
-![](/posters/2026-01.jpg){width=30% style="float: right; margin: 5px;"}
+![](/posters/2026-01.jpg){width=30% fig-alt="Poster image for talk entitled The History and Science behind Dentistry" style="float: right; margin: 5px;"}
 :::
 
 # Overview

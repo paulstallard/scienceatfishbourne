@@ -9,7 +9,7 @@ categories: dna
 ---
 
 ::: {.img-float}
-![](/posters/2024-01.jpg){width=30% style="float: right; margin: 5px;"}
+![](/posters/2024-01.jpg){width=30% fig-alt="Poster image for talk entitled The Man Who Caught a Million Criminals: Invention of DNA Fingerprinting" style="float: right; margin: 5px;"}
 :::
 
 # Lynn's Review

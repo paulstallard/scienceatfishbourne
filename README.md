@@ -43,5 +43,8 @@ This will overwrite the placeholder image
 
 - Remove the `review_text="..."` from the Talk object in `talkpages.py`
 - Convert the review to markdown and save it to `reviews/_YYYY-MM.qmd`
-(if required, use `pandoc review.docx -t markdown -o reviews/_YYYY_MM.qmd`).
+
+  eg `pandoc review.docx -t markdown -o reviews/_YYYY_MM.qmd`
+
+  For embedded images, use `pandoc --extract-media=DIR ...`, move the images and fix the links in the md
 - Run `python scripts/talkpages.py` (or just `make`)

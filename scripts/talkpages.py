@@ -360,9 +360,8 @@ def talkqmd(talk: Talk):
     if talk.headline:
         page += f"{talk.headline}\n\n"
 
-    page += (
-        f'::: {{.img-float}}\n![](/posters/{talk.shortdate}.jpg){{width=30% style="float: right; margin: 5px;"}}\n:::\n'
-    )
+    talktitle = f"{talk.title}: {talk.subtitle}" if talk.subtitle else talk.title
+    page += f'::: {{.img-float}}\n![](/posters/{talk.shortdate}.jpg){{width=30% fig-alt="Poster image for talk entitled {talktitle}" style="float: right; margin: 5px;"}}\n:::\n'
 
     if talk.overview:
         page += f"\n# Overview\n\n{talk.overview}\n"

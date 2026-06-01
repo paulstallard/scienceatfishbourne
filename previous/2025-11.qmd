@@ -8,7 +8,7 @@ author: Dr Tony Mobbs
 ---
 
 ::: {.img-float}
-![](/posters/2025-11.jpg){width=30% style="float: right; margin: 5px;"}
+![](/posters/2025-11.jpg){width=30% fig-alt="Poster image for talk entitled It's computing Jim, but not as we know it: An introduction to Quantum Computing" style="float: right; margin: 5px;"}
 :::
 
 # Overview

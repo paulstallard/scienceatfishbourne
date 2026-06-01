@@ -9,7 +9,7 @@ categories: [medicine, health]
 ---
 
 ::: {.img-float}
-![](/posters/2025-03.jpg){width=30% style="float: right; margin: 5px;"}
+![](/posters/2025-03.jpg){width=30% fig-alt="Poster image for talk entitled The Story of Vaccines: Edward Jenner to the Covid 19 vaccine" style="float: right; margin: 5px;"}
 :::
 
 # Overview

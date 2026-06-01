@@ -8,7 +8,7 @@ author: Sue Adcock
 ---
 
 ::: {.img-float}
-![](/posters/2026-05.jpg){width=30% style="float: right; margin: 5px;"}
+![](/posters/2026-05.jpg){width=30% fig-alt="Poster image for talk entitled Protecting Fighter Pilots From High G: A (female) subject's perspective" style="float: right; margin: 5px;"}
 :::
 
 # Overview

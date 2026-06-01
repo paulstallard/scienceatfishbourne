@@ -10,7 +10,7 @@ categories: [medicine, health]
 ---
 
 ::: {.img-float}
-![](/posters/2025-01.jpg){width=30% style="float: right; margin: 5px;"}
+![](/posters/2025-01.jpg){width=30% fig-alt="Poster image for talk entitled Clawed Frogs and Medicine: Pregnancy Testing to Disease Diagnosis" style="float: right; margin: 5px;"}
 :::
 
 # Overview

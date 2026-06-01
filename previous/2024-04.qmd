@@ -9,7 +9,7 @@ categories: [medicine, health]
 ---
 
 ::: {.img-float}
-![](/posters/2024-04.jpg){width=30% style="float: right; margin: 5px;"}
+![](/posters/2024-04.jpg){width=30% fig-alt="Poster image for talk entitled Magnetic Resonance Guided Radiotherapy" style="float: right; margin: 5px;"}
 :::
 
 # Lynn's Review

@@ -9,7 +9,7 @@ categories: ['TV/media', 'computing']
 ---
 
 ::: {.img-float}
-![](/posters/2025-08.jpg){width=30% style="float: right; margin: 5px;"}
+![](/posters/2025-08.jpg){width=30% fig-alt="Poster image for talk entitled Behind the Streams: The Technology That Powers Netflix, iPlayer and the Others" style="float: right; margin: 5px;"}
 :::
 
 # Overview

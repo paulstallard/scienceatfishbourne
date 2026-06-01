@@ -9,7 +9,7 @@ categories: [environment]
 ---
 
 ::: {.img-float}
-![](/posters/2025-02.jpg){width=30% style="float: right; margin: 5px;"}
+![](/posters/2025-02.jpg){width=30% fig-alt="Poster image for talk entitled Lowering Our Carbon Footprint: A Personal Journey" style="float: right; margin: 5px;"}
 :::
 
 # Overview
