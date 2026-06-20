@@ -297,21 +297,27 @@ will give an overview of how drones are being used across a range of industrial 
 
 Sue Adcock, a former research scientist, centrifuge subject and pilot (150 hrs in fast jets), will cover a brief history and description of the Farnborough centrifuge, describe the effects of high G on the human body and outline various ways of providing G protection.""",
     ),
+    Talk(
+        "2026-06-22",
+        Author(
+            "Dr Indranil Banik",
+            affiliation="Institute of Cosmology and Gravitation, University of Portsmouth"
+        ),
+        title="Can a Cosmic Void Get Cosmology Out of its Hole?",
+        overview="The standard cosmological model is facing a serious challenge. When observations of the infant Universe are combined with the physics of the Big Bang, the model predicts that the Universe today should be expanding at 67 km/s/Mpc. Yet direct observations of the nearby Universe consistently suggest a significantly faster rate of around 73 km/s/Mpc, implying a younger universe. This discrepancy, known as the Hubble crisis, has become one of the most important problems in modern cosmology.",
+        review_text="Coming soon...",
+    ),
 ]
 
 next_talk = Talk(
-    "2026-06-22",
-    Author(
-        "Dr Indranil Banik",
-        affiliation="Institute of Cosmology and Gravitation, University of Portsmouth"
-    ),
-    title="Can a Cosmic Void Get Cosmology Out of its Hole?",
-    overview="The standard cosmological model is facing a serious challenge. When observations of the infant Universe are combined with the physics of the Big Bang, the model predicts that the Universe today should be expanding at 67 km/s/Mpc. Yet direct observations of the nearby Universe consistently suggest a significantly faster rate of around 73 km/s/Mpc, implying a younger universe. This discrepancy, known as the Hubble crisis, has become one of the most important problems in modern cosmology.",
+    "2026-07-27",
+    Author("Speaker TBC"),
+    title="Details coming soon",
     review_text="Coming soon...",
 )
 
 blank_next_talk = Talk(
-    "2026-07-27",
+    "2026-08-24",
     Author("Speaker TBC"),
     title="Details coming soon",
     review_text="Coming soon...",

@@ -1,16 +1,11 @@
 ---
-title: Can a Cosmic Void Get Cosmology Out of its Hole?
-date: 2026-06-22
+title: Details coming soon
+date: 2026-07-27
 authors:
-  - name: Dr Indranil Banik
-    affiliation: Institute of Cosmology and Gravitation, University of Portsmouth
-author: Dr Indranil Banik
+  - name: Speaker TBC
+author: Speaker TBC
 ---
 
 ::: {.img-float}
-![](/posters/2026-06.jpg){width=30% fig-alt="Poster image for talk entitled Can a Cosmic Void Get Cosmology Out of its Hole?" style="float: right; margin: 5px;"}
+![](/posters/2026-07.jpg){width=30% fig-alt="Poster image for talk entitled Details coming soon" style="float: right; margin: 5px;"}
 :::
-
-# Overview
-
-The standard cosmological model is facing a serious challenge. When observations of the infant Universe are combined with the physics of the Big Bang, the model predicts that the Universe today should be expanding at 67 km/s/Mpc. Yet direct observations of the nearby Universe consistently suggest a significantly faster rate of around 73 km/s/Mpc, implying a younger universe. This discrepancy, known as the Hubble crisis, has become one of the most important problems in modern cosmology.
