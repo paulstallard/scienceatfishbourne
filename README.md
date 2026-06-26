@@ -48,3 +48,13 @@ This will overwrite the placeholder image
 
   For embedded images, use `pandoc --extract-media=DIR ...`, move the images and fix the links in the md
 - Run `python scripts/talkpages.py` (or just `make`)
+
+
+## Staging a change to happen later (eg while away)
+
+- Make, stage and commit changes on Pi.
+- `crontab -e` to edit the crontab
+- Add a line (this is midday on 22 June)
+
+  `0 12 22 6 * cd /home/paul/websites/scienceatfishbourne && /usr/bin/git push`
+- Remove the line sometime in the following year...
