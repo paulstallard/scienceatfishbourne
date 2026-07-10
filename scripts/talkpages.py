@@ -311,8 +311,13 @@ Sue Adcock, a former research scientist, centrifuge subject and pilot (150 hrs i
 
 next_talk = Talk(
     "2026-07-27",
-    Author("Speaker TBC"),
-    title="Details coming soon",
+    Author(
+        "Tony Whitbread",
+        affiliation="Sussex Wildlife Trust",
+    ),
+    title="Rewilding",
+    subtitle="What is it, and how is it different to more traditional forms of nature conservation?",
+    overview="Tony Whitbread runs rewilding safaris at Knepp Wildland. Tony's presentation will share his experience at Knepp to help illustrate what rewilding is in practice, giving clues on how understanding the principles of rewilding might help in nature conservation more generally",
     review_text="Coming soon...",
 )
 
