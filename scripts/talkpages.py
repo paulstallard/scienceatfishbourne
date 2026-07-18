@@ -305,7 +305,6 @@ Sue Adcock, a former research scientist, centrifuge subject and pilot (150 hrs i
         ),
         title="Can a Cosmic Void Get Cosmology Out of its Hole?",
         overview="The standard cosmological model is facing a serious challenge. When observations of the infant Universe are combined with the physics of the Big Bang, the model predicts that the Universe today should be expanding at 67 km/s/Mpc. Yet direct observations of the nearby Universe consistently suggest a significantly faster rate of around 73 km/s/Mpc, implying a younger universe. This discrepancy, known as the Hubble crisis, has become one of the most important problems in modern cosmology.",
-        review_text="Coming soon...",
     ),
 ]
 

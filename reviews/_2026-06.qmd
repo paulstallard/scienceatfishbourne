@@ -1,0 +1,117 @@
+Many of you may have been wondering what I (who failed RSA Arithmetic
+over 60 years ago) will write as my review this month, for how can I
+possibly assess, or even give commentary to a presentation by Dr Banik.
+His knowledge, enthusiasm and passion for astrophysics took him into a
+dimension light years ahead of my humble ability to comprehend the
+equations used to form the hypothesis of the existence of a cosmic void.
+
+We live in an amazing world; since man's first appearance on planet
+Earth, he has questioned the how? Why? When? Of everything. And today,
+we still question by forming and testing out hypotheses. Here, I will
+set out what I understood from Dr Banik's talk. There will be those of
+you who understood the equations presented, but here is my simplified
+version of the presentation, written after also, reading information
+presented by Dr Banik, and others, which is available on the internet.
+
+First, I refer to a talk given to Science at Fishbourne in March 2024 by
+Dr Daniela Saadeh. At that time, it had been discovered that the rate of
+expansion of the Universe appeared to be accelerating and Dark Energy,
+which accounts for 68% of the Universe was possibly causing this
+increase in acceleration.
+
+Dr Banik began his talk by explaining how the rate of expansion of the
+Universe is measured:
+
+**Standard Candles: Type 1a Supernovae** are more massive than our Sun.
+They explode, when they run out of nuclear fuel, with a consistent
+intrinsic brightness. The brightness from pulsating stars, called
+**Cepheids** is also used.
+
+Analysing the light from these astronomical bodies, as they travel
+through an expanding universe; looking at the spectoral wavelength of
+the photons, which will have been stretched by the time they reach us;
+the rate of expansion of the universe can be calculated.
+
+As they move away from us, their light has lower frequency and shows as
+red. Closer objects will have light of higher frequency and show as
+blue. The red shift is used to calculate rate of expansion.
+
+**Cosmic Standard Rulers**: comparing the true size of a cosmological
+object with its apparent size in the night sky will show its distance,
+and calculations can be made to show how space has stretched over time.
+
+We know that the Early Universe was largely opaque and was 1100 times
+smaller than it is today. As it cooled stable atoms formed, and the
+opaque fog began to clear. Ancient photons of light were now free to
+travel across the Universe. This is what we know as: **Cosmic Microwave
+Background Radiation -- CMB**. (From this point in time the Universe
+became observable). Its temperature is incredibly uniform. It has a
+frequency to it, and measurements of fluctuations can easily be made, so
+showing density differences in the early universe. Cosmologists can
+calculate the ingredients of the universe from this: normal matter, dark
+matter and dark energy. They can also calculate the distance and size of
+the universe and its expansion rate.
+
+**Baryon Acoustic Oscillations:** In the first 380,000 years after the
+Big Bang, there was a continuous tug of war between gravity pulling
+matter inward and the radiation of photons pushing outward. Just like a
+pebble being dropped in a pond, the outward push created acoustic
+ripples; pressure waves, which continued until the universe cooled
+enough for neutral atoms to form and the universe became observable.
+These sound waves were now frozen in place.
+
+The distance these waves were able to travel before freezing is known as
+the *sound horizon*, which spans approximately 490 million light-years
+(150 megaparsecs) in today\'s universe. As the\`universe continued to
+expand, these frozen ripples dictated where matter accumulated; Galaxies
+formed in these denser regions and observations show a statistical
+preference for galaxies to be separated by about 500 million light
+years/ 150 megaparsecs. They act as a standard ruler, whose angular size
+can be used to chart the cosmic expansion history.
+
+Knowing how the rate of expansion of the universe is measured
+**cosmology is now in tension, some say: Crisis!** The rate of expansion
+of the Universe is expressed by a quantity called: **'The Hubble
+constant'** and the Hubble constant is about 73 kilometres per second/
+per megaparsec (one megaparsec is just over three million lightyears).
+However, **ESA's Plank Mission** measurements of the **CMB**, recorded a
+lower expansion rate of 67-68 kilometres per megaparsec. How can this
+be? And ... Which measurement is nearer the truth? It looks as though
+the rate of expansion depends on where we measure it.
+
+Dr Banik has been exploring the possibility that our galaxy is in the
+centre of an enormous void. The hubble constant applies in the distant
+universe. The Standard Model works and we can say that the age of the
+Universe rests at 13.8 billion years. In our near universe the rate of
+expansion is greater than predicted.
+
+The cosmological principle, says that the universe's matter should be
+evenly distributed on the largest scales, but the number count of
+galaxies in our local universe shows significant under density -- about
+20% lower than the average of the universe as a whole. Dr Banik in his
+research into BAO explained that by considering all available BAO
+measurements over the last 20 years, a void model is about one hundred
+million times more likely than a void-free model with parameters
+designed to fit the CMB observations taken by the Planck satellite.
+
+So, the Earth and our solar system could be near the centre of a **void
+about a billion light-years in radius.** Quote Dr Banik: *"The lower
+density of bodies inside the void means less gravitational pull, while
+the surrounding denser regions exert a stronger gravitational pull, so
+pulling objects within the void towards it.*
+
+*A local void slightly distorts the relation between the BAO angular
+scale and the redshift, because the velocities induced by a local void
+and its gravitational effect slightly increase the redshift on top of
+that due to cosmic expansion alone."*
+
+More research by looking into galaxies that are no longer forming stars,
+and by observing how the wavelength of photons is stretched, may help to
+shed more light on the history of the expansion of the universe.
+
+I hope that my review makes sense. Below are links to content from Dr
+Indranil Banik, which you may like to look at.
+
+<https://www.port.ac.uk/news-events-and-blogs/news/is-earth-inside-a-huge-void-sound-of-the-big-bang-hints-at-possible-solution-to-hubble-tension>
+
+<https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3DuXRnFRS2RiY&ved=2ahUKEwjj2Mip_MyVAxXFQkEAHXmRNMEQtwJ6BAgYEAI&usg=AOvVaw3j13MPlVB_4Kk4AWPAx1Rs>

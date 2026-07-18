@@ -17,4 +17,4 @@ The standard cosmological model is facing a serious challenge. When observations
 
 # Lynn's Review
 
-Coming soon...
+{{< include /reviews/_2026-06.qmd >}}
