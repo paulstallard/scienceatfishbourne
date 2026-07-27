@@ -317,14 +317,14 @@ Sue Adcock, a former research scientist, centrifuge subject and pilot (150 hrs i
 ]
 
 next_talk = Talk(
-    "2026-09-28",
+    "2026-08-24",
     Author("Speaker TBC"),
     title="Details coming soon",
     review_text="Coming soon...",
 )
 
 blank_next_talk = Talk(
-    "2026-08-24",
+    "2026-09-28",
     Author("Speaker TBC"),
     title="Details coming soon",
     review_text="Coming soon...",
