@@ -299,24 +299,27 @@ Sue Adcock, a former research scientist, centrifuge subject and pilot (150 hrs i
     ),
     Talk(
         "2026-06-22",
-        Author(
-            "Dr Indranil Banik",
-            affiliation="Institute of Cosmology and Gravitation, University of Portsmouth"
-        ),
+        Author("Dr Indranil Banik", affiliation="Institute of Cosmology and Gravitation, University of Portsmouth"),
         title="Can a Cosmic Void Get Cosmology Out of its Hole?",
         overview="The standard cosmological model is facing a serious challenge. When observations of the infant Universe are combined with the physics of the Big Bang, the model predicts that the Universe today should be expanding at 67 km/s/Mpc. Yet direct observations of the nearby Universe consistently suggest a significantly faster rate of around 73 km/s/Mpc, implying a younger universe. This discrepancy, known as the Hubble crisis, has become one of the most important problems in modern cosmology.",
+    ),
+    Talk(
+        "2026-07-27",
+        Author(
+            "Tony Whitbread",
+            affiliation="Sussex Wildlife Trust",
+        ),
+        title="Rewilding",
+        subtitle="What is it, and how is it different to more traditional forms of nature conservation?",
+        overview="Tony Whitbread runs rewilding safaris at Knepp Wildland. Tony's presentation will share his experience at Knepp to help illustrate what rewilding is in practice, giving clues on how understanding the principles of rewilding might help in nature conservation more generally",
+        review_text="Coming soon...",
     ),
 ]
 
 next_talk = Talk(
-    "2026-07-27",
-    Author(
-        "Tony Whitbread",
-        affiliation="Sussex Wildlife Trust",
-    ),
-    title="Rewilding",
-    subtitle="What is it, and how is it different to more traditional forms of nature conservation?",
-    overview="Tony Whitbread runs rewilding safaris at Knepp Wildland. Tony's presentation will share his experience at Knepp to help illustrate what rewilding is in practice, giving clues on how understanding the principles of rewilding might help in nature conservation more generally",
+    "2026-09-28",
+    Author("Speaker TBC"),
+    title="Details coming soon",
     review_text="Coming soon...",
 )
 
