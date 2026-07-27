@@ -1,0 +1,21 @@
+---
+title: Rewilding
+subtitle: What is it, and how is it different to more traditional forms of nature conservation?
+date: 2026-07-27
+authors:
+  - name: Tony Whitbread
+    affiliation: Sussex Wildlife Trust
+author: Tony Whitbread
+---
+
+::: {.img-float}
+![](/posters/2026-07.jpg){width=30% fig-alt="Poster image for talk entitled Rewilding: What is it, and how is it different to more traditional forms of nature conservation?" style="float: right; margin: 5px;"}
+:::
+
+# Overview
+
+Tony Whitbread runs rewilding safaris at Knepp Wildland. Tony's presentation will share his experience at Knepp to help illustrate what rewilding is in practice, giving clues on how understanding the principles of rewilding might help in nature conservation more generally
+
+# Lynn's Review
+
+Coming soon...
