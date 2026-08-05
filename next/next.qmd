@@ -1,11 +1,11 @@
 ---
-title: Details coming soon
+title: On Measuring Pain
 date: 2026-08-24
 authors:
-  - name: Speaker TBC
-author: Speaker TBC
+  - name: Dr Andrew Sutton
+author: Dr Andrew Sutton
 ---
 
 ::: {.img-float}
-![](/posters/2026-08.jpg){width=30% fig-alt="Poster image for talk entitled Details coming soon" style="float: right; margin: 5px;"}
+![](/posters/2026-08.jpg){width=30% fig-alt="Poster image for talk entitled On Measuring Pain" style="float: right; margin: 5px;"}
 :::

@@ -318,8 +318,8 @@ Sue Adcock, a former research scientist, centrifuge subject and pilot (150 hrs i
 
 next_talk = Talk(
     "2026-08-24",
-    Author("Speaker TBC"),
-    title="Details coming soon",
+    Author("Dr Andrew Sutton"),
+    title="On Measuring Pain",
     review_text="Coming soon...",
 )
 
