@@ -18,4 +18,4 @@ Tony Whitbread runs rewilding safaris at Knepp Wildland. Tony's presentation wil
 
 # Lynn's Review
 
-Coming soon...
+{{< include /reviews/_2026-07.qmd >}}
