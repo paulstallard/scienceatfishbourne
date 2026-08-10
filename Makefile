@@ -1,7 +1,10 @@
-.PHONEY: default clean veryclean
+.PHONEY: default check clean veryclean
 
 default:
 	python scripts/talkpages.py
+
+check:
+	quarto render
 
 clean:
 	rm -rf _site/*

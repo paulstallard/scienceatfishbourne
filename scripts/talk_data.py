@@ -279,6 +279,7 @@ Sue Adcock, a former research scientist, centrifuge subject and pilot (150 hrs i
         "2026-08-24",
         Author("Dr Andrew Sutton"),
         title="On Measuring Pain",
+        overview="This is a talk about two clinical trials of pain: one when a Laser beam was shone on the arms of volunteers and one that measured the moods of patients who had chronic arthritis of their knees.  The trials found that moods like anxiety and anger have a large part to play and it is essential not to ignore them ... and yes, your liquid paracetamol really does work faster than a tablet.",
         review_text="Coming soon...",
     ),
     Talk(
