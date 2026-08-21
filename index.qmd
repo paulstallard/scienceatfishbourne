@@ -32,12 +32,16 @@ We meet at the Fishbourne Centre in Fishbourne. See the [Find Us](location.qmd) 
 
 ::::
 
-:::{.callout-note title="Meeting dates for 2026"}
+:::{.callout-note title="Remaining meeting dates for 2026"}
 24^th^ August,
 28^th^ September,
 26^th^ October,
 23^rd^ November,
 14^th^ December
+:::
+
+:::{.callout-note title="Meeting dates for 2027"}
+{{< include _2027_dates.md >}}
 :::
 
 

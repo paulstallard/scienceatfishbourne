@@ -22,12 +22,6 @@ website:
       - location.qmd
     right:
       - about.qmd
-  announcement:
-    icon: info-circle
-    dismissable: true
-    content: "How do you feel about an increase in meeting fees versus a change of venue (and maybe day and/or time)? Let us know by filling out our [venue survey](https://forms.gle/kRWZfoznCxqsnrJW7)"
-    type: info
-    position: below-navbar
 
 format:
   html:
