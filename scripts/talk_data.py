@@ -2,7 +2,7 @@ from datetime import date
 
 from talk import Author, Talk
 
-LAST_MEETING = date(2026, 7, 27)
+LAST_MEETING = date(2026, 8, 24)
 
 # Disable long line errors thrown by overviews, headlines, etc
 # ruff: noqa: E501
