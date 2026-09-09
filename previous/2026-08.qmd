@@ -16,4 +16,4 @@ This is a talk about two clinical trials of pain: one when a Laser beam was shon
 
 # Lynn's Review
 
-Coming soon...
+{{< include /reviews/_2026-08.qmd >}}
