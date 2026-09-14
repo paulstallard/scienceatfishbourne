@@ -1,11 +1,15 @@
 ---
-title: Details coming soon
+title: Science of the Ancients
 date: 2026-09-28
 authors:
-  - name: Speaker TBC
-author: Speaker TBC
+  - name: Dr Tony Mobbs
+author: Dr Tony Mobbs
 ---
 
 ::: {.img-float}
-![](/posters/2026-09.jpg){width=30% fig-alt="Poster image for talk entitled Details coming soon" style="float: right; margin: 5px;"}
+![](/posters/2026-09.jpg){width=30% fig-alt="Poster image for talk entitled Science of the Ancients" style="float: right; margin: 5px;"}
 :::
+
+# Overview
+
+Science played a significant role in the development of early ancient civilisations and how engineering helped produce their temples and monuments. However recent discoveries have raised inconsistencies that challenge all we have learnt about ancient history
