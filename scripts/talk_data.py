@@ -290,8 +290,13 @@ Sue Adcock, a former research scientist, centrifuge subject and pilot (150 hrs i
     ),
     Talk(
         "2026-10-26",
-        Author("Speaker TBC"),
-        title="Details coming soon",
+        Author(
+            "Professor Gordon Watson",
+            affiliation="Professor of Marine Zoology, University of Portsmouth",
+        ),
+        title="The Solent",
+        subtitle="A 21st Century Coastline Mesocosm",
+        overview="A **mesocosm** is a medium sized experimental tool or enclosed system that models a natural ecosystem under controlled conditions.",
         review_text="Coming soon...",
     ),
     Talk(
