@@ -16,4 +16,4 @@ Science played a significant role in the development of early ancient civilisati
 
 # Lynn's Review
 
-Coming soon...
+{{< include /reviews/_2026-09.qmd >}}

@@ -286,7 +286,6 @@ Sue Adcock, a former research scientist, centrifuge subject and pilot (150 hrs i
         Author("Dr Tony Mobbs"),
         title="Science of the Ancients",
         overview="Science played a significant role in the development of early ancient civilisations and how engineering helped produce their temples and monuments. However recent discoveries have raised inconsistencies that challenge all we have learnt about ancient history",
-        review_text="Coming soon...",
     ),
     Talk(
         "2026-10-26",
