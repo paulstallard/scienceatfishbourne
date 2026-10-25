@@ -1,17 +1,11 @@
 ---
-title: The Solent
-subtitle: A 21st Century Coastline Mesocosm
-date: 2026-10-26
+title: Details coming soon
+date: 2026-11-23
 authors:
-  - name: Professor Gordon Watson
-    affiliation: Professor of Marine Zoology, University of Portsmouth
-author: Professor Gordon Watson
+  - name: Speaker TBC
+author: Speaker TBC
 ---
 
 ::: {.img-float}
-![](/posters/2026-10.jpg){width=30% fig-alt="Poster image for talk entitled The Solent: A 21st Century Coastline Mesocosm" style="float: right; margin: 5px;"}
+![](/posters/2026-11.jpg){width=30% fig-alt="Poster image for talk entitled Details coming soon" style="float: right; margin: 5px;"}
 :::
-
-# Overview
-
-A **mesocosm** is a medium sized experimental tool or enclosed system that models a natural ecosystem under controlled conditions.
