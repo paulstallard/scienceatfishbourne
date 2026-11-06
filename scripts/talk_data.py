@@ -300,8 +300,8 @@ Sue Adcock, a former research scientist, centrifuge subject and pilot (150 hrs i
     ),
     Talk(
         "2026-11-23",
-        Author("Speaker TBC"),
-        title="Details coming soon",
+        Author("Kevin Brown FInstP"),
+        title="The transformational development of X-ray imaging",
         review_text="Coming soon...",
     ),
     Talk(
