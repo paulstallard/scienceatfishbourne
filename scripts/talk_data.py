@@ -302,6 +302,7 @@ Sue Adcock, a former research scientist, centrifuge subject and pilot (150 hrs i
         "2026-11-23",
         Author("Kevin Brown FInstP"),
         title="The transformational development of X-ray imaging",
+        overview="X-ray imaging is an enormous topic but Kevin has had the privilege to be exposed to some small steps in its development. He will talk about how X-ray imaging has developed from the blurry images that resulted in the discovery of X-rays to the high performance diagnostic imaging of today. The talk will also cover some of its applications.",
         review_text="Coming soon...",
     ),
     Talk(
