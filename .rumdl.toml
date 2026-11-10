@@ -1,0 +1,5 @@
+[global]
+enable = ["MD009", "MD064"]
+
+[MD009]
+strict = true

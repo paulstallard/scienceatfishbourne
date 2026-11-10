@@ -61,7 +61,7 @@ enough for neutral atoms to form and the universe became observable.
 These sound waves were now frozen in place.
 
 The distance these waves were able to travel before freezing is known as
-the *sound horizon*, which spans approximately 490 million light-years
+the *sound horizon*, which spans approximately 490 million light-years
 (150 megaparsecs) in today\'s universe. As the\`universe continued to
 expand, these frozen ripples dictated where matter accumulated; Galaxies
 formed in these denser regions and observations show a statistical
@@ -73,7 +73,7 @@ Knowing how the rate of expansion of the universe is measured
 **cosmology is now in tension, some say: Crisis!** The rate of expansion
 of the Universe is expressed by a quantity called: **'The Hubble
 constant'** and the Hubble constant is about 73 kilometres per second/
-per megaparsec (one megaparsec is just over three million lightyears).
+per megaparsec (one megaparsec is just over three million lightyears).
 However, **ESA's Plank Mission** measurements of the **CMB**, recorded a
 lower expansion rate of 67-68 kilometres per megaparsec. How can this
 be? And ... Which measurement is nearer the truth? It looks as though

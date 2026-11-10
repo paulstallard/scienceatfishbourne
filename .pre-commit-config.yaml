@@ -1,10 +1,23 @@
 repos:
 - repo: https://github.com/astral-sh/ruff-pre-commit
   # Ruff version.
-  rev: v0.17.0
+  rev: v0.17.4
   hooks:
     # Run the linter.
     - id: ruff-check
       args: [ --fix ]
     # Run the formatter.
     - id: ruff-format
+- repo: local
+  hooks:
+    - id: fix-typography
+      name: Replace Word typography with ASCII
+      entry: scripts/fix-typography
+      language: script
+      files: \.(md|qmd)$
+- repo: https://github.com/rvben/rumdl-pre-commit
+  rev: v0.3.2
+  hooks:
+    - id: rumdl-fmt
+      types: [text]
+      files: \.(md|qmd)$

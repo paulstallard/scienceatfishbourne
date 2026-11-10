@@ -30,7 +30,7 @@ lucky 100s, of megabits per second. A megabit per second is a million
 bits (a 1 or a 0) per second. HD video requires 2.5 gigabits per second
 (2.5 billion bits per second) and Ultra HD needs 10 gigabits per second.
 Even "standard definition", video equivalent to the old analogue signal,
-needs 250 megabits per second.  To send these streams to people's
+needs 250 megabits per second. To send these streams to people's
 houses, the video has to be squashed (compressed) down to fit in the
 available bandwidth.
 

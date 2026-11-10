@@ -80,7 +80,7 @@ of over 14 million hand labelled images. This revolutionised the field
 of object recognition in AI. This project involved around 50,000 people.
 Each of the 14 million images was labelled at least 3 times. In 2010,
 Fei-Fei Li organised a competition: **The Large Scale Visual Recognition
-Challenge (LSVRC)** to promote the continued development of visual
+Challenge (LSVRC)** to promote the continued development of visual
 recognition by AI.
 
 Testing for the competition was undertaken by offering new images for

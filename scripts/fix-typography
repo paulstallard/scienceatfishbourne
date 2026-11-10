@@ -1,0 +1,73 @@
+#!/usr/bin/env perl
+# fix-typography: clean Word typography out of Markdown/Quarto files.
+#
+# Usage: fix-typography FILE...
+#
+# 1. Replaces curly quotes, dashes, ellipses, odd spaces and invisible
+#    characters with plain ASCII, editing the files in place.
+# 2. Reports any other non-ASCII character not listed in $ALLOWED,
+#    with file:line:column and its Unicode code point.
+#
+# Exits 1 if it changed a file or found an unknown character, so it
+# works as a pre-commit hook. Needs only Perl, which ships with both
+# macOS and Debian.
+
+use strict;
+use warnings;
+use utf8;
+use open qw(:std :encoding(UTF-8));
+
+# Non-ASCII characters you are happy to keep. Edit to suit.
+# my $ALLOWED = '£€°éèêëàâäçîïôöûüñÉÈÀÇ';
+my $ALLOWED = '£€°éèêëàâäçîïôöûüñÉÈÀÇ½¾αℎ';
+
+my %map = (
+    # Single quotes and apostrophes
+    "\x{2018}" => "'", "\x{2019}" => "'", "\x{201A}" => "'",
+    "\x{201B}" => "'", "\x{2032}" => "'", "\x{00B4}" => "'",
+    # Double quotes
+    "\x{201C}" => '"', "\x{201D}" => '"', "\x{201E}" => '"',
+    "\x{201F}" => '"', "\x{2033}" => '"',
+    # Dashes and ellipsis (Quarto turns -- --- ... back into proper
+    # typography when it renders, so nothing is lost)
+    "\x{2013}" => '--', "\x{2014}" => '---', "\x{2026}" => '...',
+    "\x{2011}" => '-',  "\x{2010}" => '-',   "\x{2212}" => '-',
+    # Odd spaces become ordinary spaces
+    "\x{00A0}" => ' ', "\x{202F}" => ' ', "\x{205F}" => ' ', "\x{3000}" => ' ',
+    (map { chr($_) => ' ' } 0x2000 .. 0x200A),
+    # Invisible characters are removed
+    (map { chr($_) => '' } 0x200B .. 0x200F, 0x2060, 0xFEFF, 0x00AD),
+    # Unicode line and paragraph separators
+    "\x{2028}" => "\n", "\x{2029}" => "\n\n",
+);
+
+my $class   = join '', map { quotemeta } keys %map;
+my $fix_re  = qr/([$class])/;
+my $odd_re  = qr/([^\x00-\x7F\Q$ALLOWED\E])/;
+my $status  = 0;
+
+for my $file (@ARGV) {
+    open my $in, '<', $file or do { warn "$file: $!\n"; $status = 1; next };
+    my $text = do { local $/; <$in> };
+    close $in;
+
+    if ($text =~ s/$fix_re/$map{$1}/g) {
+        open my $out, '>', $file or die "$file: $!\n";
+        print {$out} $text;
+        close $out;
+        print "fixed: $file\n";
+        $status = 1;
+    }
+
+    my $n = 0;
+    for my $line (split /\n/, $text, -1) {
+        $n++;
+        while ($line =~ /$odd_re/g) {
+            printf "%s:%d:%d: unexpected U+%04X '%s'\n",
+                $file, $n, pos($line), ord $1, $1;
+            $status = 1;
+        }
+    }
+}
+
+exit $status;

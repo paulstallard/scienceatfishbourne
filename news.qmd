@@ -41,7 +41,7 @@ love to add it.
     <img src ="https://www.unsw.edu.au/content/dam/images/unsw-wide/general/news/2025/2024-01-newsroom/AdobeStock_965237142.cropimg.width=700.crop=landscape.jpeg" width="200px">
     <h3>New CRISPR technique could rewrite future of genetic disease treatment</h3>
         <b>www.unsw.edu.au</b>
-    <p class="text">A new study has revealed that chemical tags once regarded as genetic clutter are in fact powerful gene silencers – and removing them could unlock safer treatments for inherited blood disorders.
+    <p class="text">A new study has revealed that chemical tags once regarded as genetic clutter are in fact powerful gene silencers -- and removing them could unlock safer treatments for inherited blood disorders.
     </p>
     <scan class="read-more">Click to read the full article</span>
 </a>
@@ -101,7 +101,7 @@ love to add it.
     <img src ="https://c02.purpledshub.com/uploads/sites/41/2024/03/Anti-ageing.jpg?w=1200" width="200px">
     <h3>9 simple, science-backed changes that can reverse your biological age | BBC Science Focus Magazine</h3>
         <b>www.sciencefocus.com</b>
-    <p class="text">Science says it’s time to rethink – and take control – of our body's age. Here’s how to slow, halt and potentially turn back your biological clock.
+    <p class="text">Science says it's time to rethink -- and take control -- of our body's age. Here's how to slow, halt and potentially turn back your biological clock.
     </p>
     <scan class="read-more">Click to read the full article</span>
 </a>
@@ -111,9 +111,9 @@ love to add it.
 ```{=html}
 <a class="fragment" href="https://www.yicaiglobal.com/news/a-look-inside-chinas-man-made-sun-nuclear-fusion-project-in-anhui">
     <img src ="http://img.yicaiglobal.com/src/image/2025/09/98842861923013.jpg" width="200px">
-    <h3>A Look Inside China’s ‘Man-Made Sun’ Nuclear Fusion Project in Anhui</h3>
+    <h3>A Look Inside China's 'Man-Made Sun' Nuclear Fusion Project in Anhui</h3>
     <p class="text">
-China’s Experimental Advanced Superconducting Tokamak, a nuclear fusion reactor developed by the Chinese Academy of Sciences, is coming closer to realizing humanity’s dream of a ‘man-made sun’ and has recently achieved a number of breakthroughs in nuclear fusion research.
+China's Experimental Advanced Superconducting Tokamak, a nuclear fusion reactor developed by the Chinese Academy of Sciences, is coming closer to realizing humanity's dream of a 'man-made sun' and has recently achieved a number of breakthroughs in nuclear fusion research.
     </p>
     <scan class="read-more">Click to read the full article</span>
 </a>
@@ -123,10 +123,10 @@ China’s Experimental Advanced Superconducting Tokamak, a nuclear fusion reacto
 ```{=html}
 <a class="fragment" href="http://digitaleditions.telegraph.co.uk/data/2192/reader/reader.html?social#!preferred/0/package/2192/pub/2192/page/61/article/NaN">
     <img src ="" width="200px">
-    <h3>I’m a 71-year-old super ager. Here are seven ways to become one too</h3>
+    <h3>I'm a 71-year-old super ager. Here are seven ways to become one too</h3>
         <b>www.telegraph.co.uk</b>
     <p class="text">
-Dr Eric Topol says if we make lifestyle changes we can join the ‘wellderly’ and gain an extra 10 to 20 years of healthy ageing.
+Dr Eric Topol says if we make lifestyle changes we can join the 'wellderly' and gain an extra 10 to 20 years of healthy ageing.
     </p>
     <scan class="read-more">Click to read the full article</span>
 </a>
@@ -148,9 +148,9 @@ Dr Eric Topol says if we make lifestyle changes we can join the ‘wellderly’ 
 ```{=html}
 <a class="fragment" href="https://news.harvard.edu/gazette/story/2025/03/why-new-qubit-may-give-ultrafast-quantum-computing-a-boost/">
     <img src ="https://news.harvard.edu/wp-content/uploads/2025/03/Dr-Chetan-Nayak-Microsoft-1920.jpg" width="200px">
-    <h3>Why new qubit may give ultrafast quantum computing a boost — Harvard Gazette</h3>
+    <h3>Why new qubit may give ultrafast quantum computing a boost --- Harvard Gazette</h3>
         <b>news.harvard.edu</b>
-    <p class="text">Microsoft’s Chetan Nayak, a Harvard alum, explains why the discovery appears to be a more stable and robust option.
+    <p class="text">Microsoft's Chetan Nayak, a Harvard alum, explains why the discovery appears to be a more stable and robust option.
     </p>
     <scan class="read-more">Click to read the full article</span>
 </a>
@@ -162,7 +162,7 @@ Dr Eric Topol says if we make lifestyle changes we can join the ‘wellderly’ 
     <img src ="https://ctif.org/sites/default/files/styles/cover_image_slider_teaser/public/2025-07/Screen%20Shot%202025-07-06%20at%2013.37.39.png?itok=Qm2c-DSU" width="200px">
     <h3>New salt and air based BESS being commercially developed in Germany</h3>
         <b>ctif.org</b>
-    <p class="text">The salt-based battery systems use molten salt to store heat, which can then be used for heating or electricity generation. Air-based systems, like those developed by Augwind Energy, compress air and store it.
+    <p class="text">The salt-based battery systems use molten salt to store heat, which can then be used for heating or electricity generation. Air-based systems, like those developed by Augwind Energy, compress air and store it.
     </p>
     <scan class="read-more">Click to read the full article</span>
 </a>
@@ -175,7 +175,7 @@ Dr Eric Topol says if we make lifestyle changes we can join the ‘wellderly’ 
     <h3>Bach, the Universe and Everything 2025/26 - Orchestra of the Age of Enlightenment</h3>
         <b>oae.co.uk</b>
     <p class="text">Inspired by the music of JS Bach, composer and intergalactic genius, this is a concert season with a difference.
-In a series of monthly events, Bach, the Universe and Everything places Bach’s cantatas in the context of the amazing cosmic discoveries of the last 350 years.
+In a series of monthly events, Bach, the Universe and Everything places Bach's cantatas in the context of the amazing cosmic discoveries of the last 350 years.
     </p>
     <scan class="read-more">Click to read the full article</span>
 </a>
@@ -185,7 +185,7 @@ In a series of monthly events, Bach, the Universe and Everything places Bach’s
 ```{=html}
 <a class="fragment" href="https://www.sciencefocus.com/space/the-universes-7-biggest-mysteries-and-why-theyre-unsolved">
     <img src ="https://c02.purpledshub.com/uploads/sites/41/2021/02/something-better-than-nothing-crop-edb2d36.jpg?webp=1&w=1200" width="200px">
-    <h3>The Universe’s 7 biggest mysteries (and why they’re unsolved) - BBC Science Focus Magazine</h3>
+    <h3>The Universe's 7 biggest mysteries (and why they're unsolved) - BBC Science Focus Magazine</h3>
         <b>www.sciencefocus.com</b>
     <p class="text">Dark matter, the nature of time, aliens and supermassive black holes: these seven things will be puzzling astronomers for years to come.
     </p>
@@ -199,7 +199,7 @@ In a series of monthly events, Bach, the Universe and Everything places Bach’s
     <img src ="newsimages/quantum_network.jpg" width="200px">
     <h3>UK achieves first long-distance secure data transfer over a quantum network</h3>
         <b>eandt.theiet.org</b>
-    <p class="text">Researchers from the Universities of Bristol and Cambridgen have successfully conducted the UK’s first long-distance, ultra-secure data transfer using a quantum communications network.
+    <p class="text">Researchers from the Universities of Bristol and Cambridgen have successfully conducted the UK's first long-distance, ultra-secure data transfer using a quantum communications network.
     </p>
     <scan class="read-more">Click to read the full article</span>
 </a>
@@ -211,7 +211,7 @@ In a series of monthly events, Bach, the Universe and Everything places Bach’s
     <img src ="https://c02.purpledshub.com/uploads/sites/41/2022/06/GettyImages-1372504585-6b3a3a1.jpg?w=1880&webp=1" width="200px">
     <h3>COVID-19 could put us at a greater risk of neurodegenerative diseases and stroke - BBC Science Focus Magazine</h3>
         <b>www.sciencefocus.com</b>
-    <p class="text">Analysis of nearly one million Danish health records has found patients who tested positive for COVID-19 were subsequently more likely to be diagnosed with Alzheimer’s disease, Parkinson’s disease and stroke.
+    <p class="text">Analysis of nearly one million Danish health records has found patients who tested positive for COVID-19 were subsequently more likely to be diagnosed with Alzheimer's disease, Parkinson's disease and stroke.
     </p>
     <scan class="read-more">Click to read the full article</span>
 </a>
@@ -267,9 +267,9 @@ Here's another explanation of the double-slit experiment that some might find mo
         <b>www.simonandschuster.co.uk</b>
     <p class="text">A few of us have been reading this book. The author takes us through the core concepts of quantum physics by explaining them to his dog! It's well written and very enjoyable. Although it's reasonably accessible, some of the concepts are complex (quantum teleportation...) and might benefit from a second reading. The official blurb:
     </p>
-    <p class="text">Emmy is no ordinary dog. When adopted from the shelter by physics professor Chad Orzel, she becomes immediately fascinated by his work. Could she use quantum tunnelling to get through the neighbour’s fence? How about diffracting round a tree to chase squirrels? Or using virtual particles to catch bunnies made of cheese?
+    <p class="text">Emmy is no ordinary dog. When adopted from the shelter by physics professor Chad Orzel, she becomes immediately fascinated by his work. Could she use quantum tunnelling to get through the neighbour's fence? How about diffracting round a tree to chase squirrels? Or using virtual particles to catch bunnies made of cheese?
     </p>
-    <p class="text">Taking Emmy’s anarchic behaviour as a starting point, Orzel explains the key theories of quantum physics. From quarks and gluons to Heisenberg’s uncertainty principle, this is a uniquely entertaining way to unlock the secrets of the universe.
+    <p class="text">Taking Emmy's anarchic behaviour as a starting point, Orzel explains the key theories of quantum physics. From quarks and gluons to Heisenberg's uncertainty principle, this is a uniquely entertaining way to unlock the secrets of the universe.
     </p>
     <scan class="read-more">Click to read the full article</span>
 </a>
@@ -281,7 +281,7 @@ Here's another explanation of the double-slit experiment that some might find mo
     <img src ="https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg" width="200px">
     <h3>A nanoparticle-based wireless deep brain stimulation system that reverses Parkinson's disease</h3>
         <b>pubmed.ncbi.nlm.nih.gov</b>
-    <p class="text">Deep brain stimulation technology enables the neural modulation with precise spatial control but requires permanent implantation of conduits. Here, we describe a photothermal wireless deep brain stimulation nanosystem capable of eliminating α-synuclein aggregates and restoring degenerated dopamine n …
+    <p class="text">Deep brain stimulation technology enables the neural modulation with precise spatial control but requires permanent implantation of conduits. Here, we describe a photothermal wireless deep brain stimulation nanosystem capable of eliminating α-synuclein aggregates and restoring degenerated dopamine n ...
     </p>
     <scan class="read-more">Click to read the full article</span>
 </a>
@@ -291,9 +291,9 @@ Here's another explanation of the double-slit experiment that some might find mo
 ```{=html}
 <a class="fragment" href="https://www.sciencefocus.com/the-human-body/food-boost-health-polyphenols">
     <img src ="https://c02.purpledshub.com/uploads/sites/41/2025/01/A-selection-of-fresh-vegetables.jpg?w=1200" width="200px">
-    <h3>Eating more polyphenols could be the secret to a longer, healthier life. Here’s how</h3>
+    <h3>Eating more polyphenols could be the secret to a longer, healthier life. Here's how</h3>
         <b>www.sciencefocus.com</b>
-    <p class="text">Polyphenols are ring like structures composed of carbon, hydrogen and oxygen atoms. It’s these unique structures that play a crucial role in the biological reasons behind polyphenol’s health benefits including antioxidant, antimicrobial and anti-inflammatory effects. Foods such as olives, plums, hazelnuts and tea all contain high levels of polyphenols.
+    <p class="text">Polyphenols are ring like structures composed of carbon, hydrogen and oxygen atoms. It's these unique structures that play a crucial role in the biological reasons behind polyphenol's health benefits including antioxidant, antimicrobial and anti-inflammatory effects. Foods such as olives, plums, hazelnuts and tea all contain high levels of polyphenols.
     </p>
     <scan class="read-more">Click to read the full article</span>
 </a>
@@ -305,7 +305,7 @@ Here's another explanation of the double-slit experiment that some might find mo
     <img src ="https://extension.colostate.edu/wp-content/uploads/2025/07/EXT-Health-Herbals-and-Botanicals-fig1.jpg" width="200px">
     <h3>Dietary Supplements: Herbals and Botanicals - 9.370 - Extension</h3>
         <b>extension.colostate.edu</b>
-    <p class="text">Herbals and botanicals have been used medicinally for thousands of years. Once thought of as ‘traditional medicine’ used by native or ancient cultures, herbal medicine has emerged as a popular complementary and alternative medicine (CAM), or supplement to modern medicine. The herbal market is growing steadily at about 20% each year, and it is estimated that in the United States alone the sale of botanical dietary supplements exceeded $5.3 billion in 2011.
+    <p class="text">Herbals and botanicals have been used medicinally for thousands of years. Once thought of as 'traditional medicine' used by native or ancient cultures, herbal medicine has emerged as a popular complementary and alternative medicine (CAM), or supplement to modern medicine. The herbal market is growing steadily at about 20% each year, and it is estimated that in the United States alone the sale of botanical dietary supplements exceeded $5.3 billion in 2011.
     </p>
     <scan class="read-more">Click to read the full article</span>
 </a>

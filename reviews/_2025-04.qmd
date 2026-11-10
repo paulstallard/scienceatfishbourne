@@ -9,7 +9,7 @@ capabilities:
 
 A "Windracer **fixed wing drone**," was the first pilotless craft to
 deliver medical supplies, from Cornwall, to the Isles of Scilly
-in December 2020. 
+in December 2020.
 
 **Helicopter drones**, capable of vertical take- off, are used in air
 sea rescue operations.

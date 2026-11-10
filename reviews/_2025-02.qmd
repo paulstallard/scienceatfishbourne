@@ -77,7 +77,7 @@ Sodium ion batteries may be with us in the future, and they (according
 to my internet search): *"Have the potential to be more environmentally
 friendly than lithium-ion batteries. However, the environmental impact
 depends on a number of factors, including production, recycling, and the
-end-of-life of the battery." *
+end-of-life of the battery." *
 
 Research is also taking place into a solid- state electrolyte and if
 this is successful, It's hoped that this ceramic battery might usefully

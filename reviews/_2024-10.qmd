@@ -32,18 +32,18 @@ from Wikipedia: *"In the UK, food companies are required to include the
 \'E Number(s)\' in the ingredients that are added as part of the
 manufacturing process. Many components of naturally occurring healthy
 foods and vitamins have assigned E numbers (and the number is a synonym
-for the chemical component), e.g. [[vitamin
-C]{.underline}](https://en.wikipedia.org/wiki/Vitamin_C) ([[E300]{.underline}](https://en.wikipedia.org/wiki/Ascorbic_acid))
-and [[lycopene]{.underline}](https://en.wikipedia.org/wiki/Lycopene) ([[E160d]{.underline}](https://en.wikipedia.org/wiki/E160d)),
+for the chemical component), e.g. [[vitamin
+C]{.underline}](https://en.wikipedia.org/wiki/Vitamin_C) ([[E300]{.underline}](https://en.wikipedia.org/wiki/Ascorbic_acid))
+and [[lycopene]{.underline}](https://en.wikipedia.org/wiki/Lycopene) ([[E160d]{.underline}](https://en.wikipedia.org/wiki/E160d)),
 found in carrots. At the same time, \"E number\" is sometimes
 misunderstood to imply approval for safe consumption. This is not
 necessarily the case,
-e.g. [[Avoparcin]{.underline}](https://en.wikipedia.org/wiki/Avoparcin) ([[E715]{.underline}](https://en.wikipedia.org/wiki/E715))
+e.g. [[Avoparcin]{.underline}](https://en.wikipedia.org/wiki/Avoparcin) ([[E715]{.underline}](https://en.wikipedia.org/wiki/E715))
 is an antibiotic once used in animal feed, but is no longer permitted in
-the EU, and has never been permitted for human consumption. [[Sodium
-nitrite]{.underline}](https://en.wikipedia.org/wiki/Sodium_nitrite#Toxicity) (E250)
-is toxic. [[Sulfuric
-acid]{.underline}](https://en.wikipedia.org/wiki/Sulfuric_acid) (E513)
+the EU, and has never been permitted for human consumption. [[Sodium
+nitrite]{.underline}](https://en.wikipedia.org/wiki/Sodium_nitrite#Toxicity) (E250)
+is toxic. [[Sulfuric
+acid]{.underline}](https://en.wikipedia.org/wiki/Sulfuric_acid) (E513)
 is caustic."*
 
 The European Union began to regulate food in 2002 with "The General Food

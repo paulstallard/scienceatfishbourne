@@ -17,7 +17,7 @@ Mike Lauder, is Director of the Chichester Institute of Sport, Nursing
 and Allied Health, Professor of Sports Biomechanics &
 Cross-Institutional Lead for Health and Sam Blacker is Professor of
 Exercise Physiology and Nutrition and co-leads the Occupational
-Performance Research Group. Together, they gave a broad picture of the
+Performance Research Group. Together, they gave a broad picture of the
 multi-disciplinary approach to Sports Science at Chichester University.
 Areas covered include: strength and conditioning; aerobic exercise;
 sociology; coaching; teams; psychology; physiology. Courses look at the
@@ -64,12 +64,12 @@ hydrogen (^2^H) and heavy oxygen (^18^O), and then determining the
 difference in washout kinetics between both isotopes, being a function
 of carbon dioxide production. In practice, subjects get a measured
 amount of doubly labelled water (^2^H~2~^18^O) to increase background
-enrichment of body water for ^18^O of 2000 ppm with at least 180 ppm and
-background enrichment of body water for ^2^H of 150 ppm with 120 ppm.
+enrichment of body water for ^18^O of 2000 ppm with at least 180 ppm and
+background enrichment of body water for ^2^H of 150 ppm with 120 ppm.
 Subsequently, the difference between the apparent turnover rates of the
 hydrogen and oxygen of body water is assessed from blood-, saliva-, or
 urine samples, collected at the start and end of the observation
-interval of 1--3 weeks."*
+interval of 1--3 weeks."*
 (<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5486561/)>
 
 I discovered this link about the use of double labelled water, which I

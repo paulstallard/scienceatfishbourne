@@ -26,7 +26,7 @@ The instruments on board include:
 
 **[A camera,]{.underline}** created by Arizona University; this has
 looked at the Kuiper belt, a doughnut-shaped region of icy bodies
-extending far beyond the orbit of Neptune. The camera can detect
+extending far beyond the orbit of Neptune. The camera can detect
 different molecules, different elements.
 
 **[A Coronagraph]{.underline}**. This can block out the brightness of a

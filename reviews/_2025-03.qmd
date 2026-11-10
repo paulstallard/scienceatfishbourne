@@ -81,7 +81,7 @@ Birmingham medical school, which housed a smallpox laboratory.
 foods). He believed in germ theory; the activity of microorganisms being
 responsible for disease. His investigations into cholera amongst
 chickens led to his discovery of how to make vaccines by attenuating, or
-weakening, the microbe involved. His continued research led to vaccines
+weakening, the microbe involved. His continued research led to vaccines
 for Anthrax and rabies. His first human patient, for the rabies vaccine,
 was Joseph Meister, a nine-year-old boy who would otherwise have died.
 He lived to tell the tale.
@@ -95,14 +95,14 @@ immunity.
 During a cholera outbreak in 1854, a physician, **John Snow** mapped the
 area of Soho and famously identified a specific water pump as the source
 of the disease, leading to the removal of the pump's handle and, as a
-result, a significant reduction in the spread of infection. 
+result, a significant reduction in the spread of infection.
 
 **Ignaz Semmelweis, a C19th Hungarian physician was described as: "The
 saviour of mothers and the father of infection control," when he**
 discovered that the incidence of puerperal fever could be drastically
 cut by the use of hand disinfection in obstetrical clinics. He
 thoroughly investigated possible causes and reached the conclusion
-that medical students carried "cadaverous particles" on their hands from
+that medical students carried "cadaverous particles" on their hands from
 the autopsy room to the patients they examined. He instituted a policy
 of using a solution of chlorinated lime for hand washing, and the death
 rate dropped.
@@ -110,7 +110,7 @@ rate dropped.
 **Joseph Lister**, inspired by Louis Pasteur's germ theory, applied it
 to surgery. He experimented with carbolic acid (phenol) as an
 antiseptic, using it to clean wounds, instruments, and the operating
-room air. His antiseptic methods dramatically reduced post-operative
+room air. His antiseptic methods dramatically reduced post-operative
 infection and mortality rates, and his Antisepsis System forms the basis
 of modern infection-control.
 
@@ -123,7 +123,7 @@ asking people to give a dime to fund research into polio (The March of
 Dimes).
 
 In the 1950s poor sanitation, improper sewage disposal and lack of
-access to clean water, together with overcrowding, caused a rise in
+access to clean water, together with overcrowding, caused a rise in
 polio outbreaks. During this time, the National Centre for Infantile
 Paralysis funded the research of **Jonas Salk.** Salk created an
 **inactivated vaccine** by using formaldehyde to kill the poliovirus

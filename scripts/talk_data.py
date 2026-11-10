@@ -114,7 +114,7 @@ science_talks = [
         subtitle="Pregnancy Testing to Disease Diagnosis",
         overview="""Matt Guille grew up on the Island of Guernsey before his degree and PhD in Biochemistry at King's College London. Post-doctoral research at the Imperial Cancer Research Fund (now the Crick) and the University of London's Developmental Biology Research Centre followed before moving to the Biophysics unit at Portsmouth to start his own lab. During all of this period Matt worked on how genes are controlled and on their functions. In 2006 Matt established the European Xenopus Resource Centre for the research community, it is now the "go to" facility in the world for research using the clawed frogs. Nowadays his research focuses on diagnosis and understanding of rare genetic diseases.
 
-This presentation will start by introducing genes and their function very briefly and then describe why  Xenopus frogs are such powerful "model organisms". followed by what the Resource Centre does. We will then move onto the rare disease programme. Although these are called rare diseases, around 7000 of these have been discovered and 1 in 17 people in the UK has one of these. Recent advances in DNA sequencing and analysis driven by the 100 000 genomes project have allowed the potential disease-causing variations in patient genomes to be identified. Despite this fewer than half of patients have a diagnosis. Five years ago we started to use the tadpole to test the link between potential disease-causing patient gene variants and their disease. We continue to develop this technology but have already identified some 30 new diseases.""",
+This presentation will start by introducing genes and their function very briefly and then describe why Xenopus frogs are such powerful "model organisms". followed by what the Resource Centre does. We will then move onto the rare disease programme. Although these are called rare diseases, around 7000 of these have been discovered and 1 in 17 people in the UK has one of these. Recent advances in DNA sequencing and analysis driven by the 100 000 genomes project have allowed the potential disease-causing variations in patient genomes to be identified. Despite this fewer than half of patients have a diagnosis. Five years ago we started to use the tadpole to test the link between potential disease-causing patient gene variants and their disease. We continue to develop this technology but have already identified some 30 new diseases.""",
         categories="[medicine, health]",
     ),
     Talk(
@@ -134,7 +134,7 @@ This presentation will start by introducing genes and their function very briefl
         subtitle="Edward Jenner to the Covid 19 vaccine",
         overview="""The talk describes the devastating effects of pandemics such as plague, TB and smallpox, prior to the advent of vaccination.
 I describe how the remarkable Lady Mary Wortley Montague, wife of the Ambassador to the Ottoman Empire, introduced a process known as variolation, which greatly reduced deaths from smallpox.
-Vaccination proper starts with Edward Jenner, who used cowpox to protect people against smallpox, after an outrageous experiment on his gardener’s son!
+Vaccination proper starts with Edward Jenner, who used cowpox to protect people against smallpox, after an outrageous experiment on his gardener's son!
 The star of the talk is Louis Pasteur, who develops vaccines against a variety of diseases.
 I explain how the early 20th century saw increasingly widespread outbreaks of polio and how Jonas Salk developed the first vaccine against it.
 I finish by describing how mRNA vaccines were developed to fight Covid.""",
@@ -156,7 +156,7 @@ will give an overview of how drones are being used across a range of industrial 
         "2025-05-19",
         Author("Dr Tony Whitbread", affiliation="President, Sussex Wildlife Trust"),
         title="The wildlife and wild places of Sussex",
-        overview="""The Sussex Wildlife Trust has some 32 nature reserves, home to a large number of interesting, unusual species, and comprised of rich, diverse habitats.  This talk will not only look at these interesting components but will also examine the ecological relations underpinning these places, including their geology, hydrology and climate.  We will start large scale, looking at our place on the globe and indeed in our solar system and then focus down to some familiar, and perhaps not so familiar places in Sussex.""",
+        overview="""The Sussex Wildlife Trust has some 32 nature reserves, home to a large number of interesting, unusual species, and comprised of rich, diverse habitats. This talk will not only look at these interesting components but will also examine the ecological relations underpinning these places, including their geology, hydrology and climate. We will start large scale, looking at our place on the globe and indeed in our solar system and then focus down to some familiar, and perhaps not so familiar places in Sussex.""",
         categories="[environment]",
     ),
     Talk(
@@ -206,7 +206,7 @@ will give an overview of how drones are being used across a range of industrial 
         "2025-10-27",
         Author("Tony Nordberg"),
         title="A cheaper, quicker, cleaner addition to the UK's Transport Infrastructure",
-        overview="This will be a network of one way Eways for lightweight ‘Ecars’ using the margins between the fence-lines either side of major road and rail routes and elevated across open land. For the road sections of door-to-door journeys Ecars would use their internal short-range batteries and when on the Eways will pick up power for recharge and high-speed traction and be automatically controlled.",
+        overview="This will be a network of one way Eways for lightweight 'Ecars' using the margins between the fence-lines either side of major road and rail routes and elevated across open land. For the road sections of door-to-door journeys Ecars would use their internal short-range batteries and when on the Eways will pick up power for recharge and high-speed traction and be automatically controlled.",
         categories=["transport", "environment"],
     ),
     Talk(
@@ -214,7 +214,7 @@ will give an overview of how drones are being used across a range of industrial 
         Author("Dr Tony Mobbs"),
         title="It's computing Jim, but not as we know it",
         subtitle="An introduction to Quantum Computing",
-        overview="Quantum computing is a revolutionary approach to computation that harnesses the principles of quantum mechanics. Unlike classical computers, quantum computers utilise the phenomenon of quantum principles. This enables quantum computers to solve certain problems much faster than classical machines. Though still in early development, quantum computing holds promise for breakthroughs in many scientific disciplines and  could  potentially transforming industries and scientific research in profound ways.",
+        overview="Quantum computing is a revolutionary approach to computation that harnesses the principles of quantum mechanics. Unlike classical computers, quantum computers utilise the phenomenon of quantum principles. This enables quantum computers to solve certain problems much faster than classical machines. Though still in early development, quantum computing holds promise for breakthroughs in many scientific disciplines and could potentially transforming industries and scientific research in profound ways.",
     ),
     Talk(
         "2025-12-15",
@@ -255,7 +255,7 @@ will give an overview of how drones are being used across a range of industrial 
         Author("Sue Adcock"),
         title="Protecting Fighter Pilots From High G",
         subtitle="A (female) subject's perspective",
-        overview="""One of the challenges experienced by fighter pilots is the high G forces caused by rapid combat manoeuvres.  Opened in 1955, the Farnborough centrifuge was able to safely test human subjects under the effects of high G. For over 60 years, the centrifuge remained at the forefront of UK research and contributed to many world-leading technology advances.
+        overview="""One of the challenges experienced by fighter pilots is the high G forces caused by rapid combat manoeuvres. Opened in 1955, the Farnborough centrifuge was able to safely test human subjects under the effects of high G. For over 60 years, the centrifuge remained at the forefront of UK research and contributed to many world-leading technology advances.
 
 Sue Adcock, a former research scientist, centrifuge subject and pilot (150 hrs in fast jets), will cover a brief history and description of the Farnborough centrifuge, describe the effects of high G on the human body and outline various ways of providing G protection.""",
     ),
@@ -279,7 +279,7 @@ Sue Adcock, a former research scientist, centrifuge subject and pilot (150 hrs i
         "2026-08-24",
         Author("Dr Andrew Sutton"),
         title="On Measuring Pain",
-        overview="This is a talk about two clinical trials of pain: one when a Laser beam was shone on the arms of volunteers and one that measured the moods of patients who had chronic arthritis of their knees.  The trials found that moods like anxiety and anger have a large part to play and it is essential not to ignore them ... and yes, your liquid paracetamol really does work faster than a tablet.",
+        overview="This is a talk about two clinical trials of pain: one when a Laser beam was shone on the arms of volunteers and one that measured the moods of patients who had chronic arthritis of their knees. The trials found that moods like anxiety and anger have a large part to play and it is essential not to ignore them ... and yes, your liquid paracetamol really does work faster than a tablet.",
     ),
     Talk(
         "2026-09-28",

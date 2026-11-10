@@ -18,9 +18,9 @@ The word: computer originally described a person who drew up a calendar.
 Today we understand computers to be very different, so how did it all
 begin and where might we be heading?
 
-Maybe it all began with Herman Hollerith, who in the 1880s, developed
+Maybe it all began with Herman Hollerith, who in the 1880s, developed
 his revolutionary
-electromechanical punch card system for statistics. It was based on the
+electromechanical punch card system for statistics. It was based on the
 French Jaquard textile loom and contained one row of code. His
 "Tabulating Machine Company," eventually became **I**nternational
 **B**usiness **M**achines in 1924.
@@ -136,7 +136,7 @@ Further shrinking would be either too expensive or become impossible.
 The speed of computing has also increased; the first commercial systems
 measured performance in thousands of operations per second (FLOPS),
 whereas modern personal devices operate at trillions of operations per
-second (teraFLOPS) or even higher. 
+second (teraFLOPS) or even higher.
 
 We are now heading towards autonomous cars becoming widespread and the
 5^th^ generation of computing: Synthetic Intelligence: autonomous,

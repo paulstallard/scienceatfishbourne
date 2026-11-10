@@ -60,21 +60,21 @@ Tony explained lots more, about protons, neutrons, charges and spins,
 but perhaps further reading on this is a good idea.
 
 In the 17^th^ Century Isaac Newton proposed that light consists of tiny
-particles called corpuscles and Charles Huygens proposed that light was
+particles called corpuscles and Charles Huygens proposed that light was
 a wave. Modern physics recognizes that light is not strictly one or the
 other, but exhibits both wave-like and particle-like behaviours
 depending on how it is observed or measured.
 
 **Max Plank** in 1900 discovered the **Quantum theory**. He proposed
 that the energy from a heated object is not continuous, but comes in
-small, discrete units (quanta). This idea solved the problem of black-
-body radiation, a phenomenon that classical physics could not
-explain. He also introduced the **fundamental** **constant ℎ** to define
-the energy of a quantum. This constant is now a cornerstone of quantum
-mechanics. 
+small, discrete units (quanta). This idea solved the problem of black-
+body radiation, a phenomenon that classical physics could not
+explain. He also introduced the **fundamental** **constant ℎ** to define
+the energy of a quantum. This constant is now a cornerstone of quantum
+mechanics.
 
 **Albert Einstein** won the **Nobel Prize in 1922 f**or his discovery of
-the law of the photoelectric effect. This explains the relationship
+the law of the photoelectric effect. This explains the relationship
 between Electron emission and light frequency. Light consists of small
 packets of energy called photons.
 
@@ -109,10 +109,10 @@ string.
 of the **S,P,D** **and F orbitals**:
 
 *"Think of them as different \"rooms\" for electrons, each holding a
-specific number of electrons: **s** is a single, spherical room (2
-electrons); **p** are three dumbbell-shaped rooms at right angles (6
-electrons); **d** have a four-leaf clover shape and are more complex (10
-electrons); and **f** orbitals have even more complex, varied shapes (14
+specific number of electrons: **s** is a single, spherical room (2
+electrons); **p** are three dumbbell-shaped rooms at right angles (6
+electrons); **d** have a four-leaf clover shape and are more complex (10
+electrons); and **f** orbitals have even more complex, varied shapes (14
 electrons)."*
 
 **Superposition is a fundamental principle of Quantum Computing**. In
