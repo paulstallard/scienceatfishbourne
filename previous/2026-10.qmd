@@ -18,4 +18,4 @@ A **mesocosm** is a medium sized experimental tool or enclosed system that model
 
 # Lynn's Review
 
-Coming soon...
+{{< include /reviews/_2026-10.qmd >}}

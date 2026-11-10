@@ -296,7 +296,6 @@ Sue Adcock, a former research scientist, centrifuge subject and pilot (150 hrs i
         title="The Solent",
         subtitle="A 21st Century Coastline Mesocosm",
         overview="A **mesocosm** is a medium sized experimental tool or enclosed system that models a natural ecosystem under controlled conditions.",
-        review_text="Coming soon...",
     ),
     Talk(
         "2026-11-23",
