@@ -3,8 +3,8 @@ title: Lowering Our Carbon Footprint
 subtitle: A Personal Journey
 date: 2025-02-24
 authors:
-  - name: Kevin Brown MBE CPhys FlnstP
-author: Kevin Brown MBE CPhys FlnstP
+  - name: Kevin Brown MBE CPhys FInstP
+author: Kevin Brown MBE CPhys FInstP
 categories: [environment]
 ---
 

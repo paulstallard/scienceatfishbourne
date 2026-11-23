@@ -2,7 +2,7 @@ from datetime import date
 
 from talk import Author, Talk
 
-LAST_MEETING = date(2026, 10, 26)
+LAST_MEETING = date(2026, 11, 23)
 
 # Disable long line errors thrown by overviews, headlines, etc
 # ruff: noqa: E501
@@ -119,7 +119,7 @@ This presentation will start by introducing genes and their function very briefl
     ),
     Talk(
         "2025-02-24",
-        Author("Kevin Brown MBE CPhys FlnstP"),
+        Author("Kevin Brown MBE CPhys FInstP"),
         title="Lowering Our Carbon Footprint",
         subtitle="A Personal Journey",
         overview="""Since moving to Fishbourne, 6 years ago, we have been lowering our Carbon footprint. My talk will cover some interesting things that I have learned on the way. There often seems to be misinformation about these topics in the press and I will explain the science to enable us all to make good decisions. Heat Pumps, are they hype, do they really work and how well? Solar Panels, how much do they help? Home batteries, are they worth the expense? What about Hydrogen? Plus other interesting information. The talk will be about science in a practical setting and I am expecting that it will provoke some lively discussion.""",
@@ -299,13 +299,49 @@ Sue Adcock, a former research scientist, centrifuge subject and pilot (150 hrs i
     ),
     Talk(
         "2026-11-23",
-        Author("Kevin Brown FInstP"),
+        Author("Kevin Brown MBE FInstP"),
         title="The transformational development of X-ray imaging",
         overview="X-ray imaging is an enormous topic but Kevin has had the privilege to be exposed to some small steps in its development. He will talk about how X-ray imaging has developed from the blurry images that resulted in the discovery of X-rays to the high performance diagnostic imaging of today. The talk will also cover some of its applications.",
         review_text="Coming soon...",
     ),
     Talk(
         "2026-12-14",
+        Author("Speaker TBC"),
+        title="Details coming soon",
+        review_text="Coming soon...",
+    ),
+    Talk(
+        "2027-01-25",
+        Author("Speaker TBC"),
+        title="Details coming soon",
+        review_text="Coming soon...",
+    ),
+    Talk(
+        "2027-02-22",
+        Author("Speaker TBC"),
+        title="Details coming soon",
+        review_text="Coming soon...",
+    ),
+    Talk(
+        "2027-03-22",
+        Author("Speaker TBC"),
+        title="Details coming soon",
+        review_text="Coming soon...",
+    ),
+    Talk(
+        "2027-04-26",
+        Author("Speaker TBC"),
+        title="Details coming soon",
+        review_text="Coming soon...",
+    ),
+    Talk(
+        "2027-05-24",
+        Author("Speaker TBC"),
+        title="Details coming soon",
+        review_text="Coming soon...",
+    ),
+    Talk(
+        "2027-06-28",
         Author("Speaker TBC"),
         title="Details coming soon",
         review_text="Coming soon...",
