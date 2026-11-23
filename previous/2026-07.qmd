@@ -6,6 +6,7 @@ authors:
   - name: Tony Whitbread
     affiliation: Sussex Wildlife Trust
 author: Tony Whitbread
+categories: environment
 ---
 
 ::: {.img-float}

@@ -5,6 +5,7 @@ date: 2026-05-18
 authors:
   - name: Sue Adcock
 author: Sue Adcock
+categories: ['aviation', 'health']
 ---
 
 ::: {.img-float}

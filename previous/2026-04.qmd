@@ -5,6 +5,7 @@ date: 2026-04-27
 authors:
   - name: Dr Paul Stallard
 author: Dr Paul Stallard
+categories: ['ai', 'computing']
 ---
 
 ::: {.img-float}

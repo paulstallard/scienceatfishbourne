@@ -5,6 +5,7 @@ authors:
   - name: Professor Alex Ford
     affiliation: Professor of Biology, University of Portsmouth
 author: Professor Alex Ford
+categories: ['biology', 'environment']
 ---
 
 ::: {.img-float}

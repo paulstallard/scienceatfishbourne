@@ -4,6 +4,7 @@ date: 2026-08-24
 authors:
   - name: Dr Andrew Sutton
 author: Dr Andrew Sutton
+categories: ['health', 'medicine']
 ---
 
 ::: {.img-float}

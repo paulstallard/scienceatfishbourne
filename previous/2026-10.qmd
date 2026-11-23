@@ -6,6 +6,7 @@ authors:
   - name: Professor Gordon Watson
     affiliation: Professor of Marine Zoology, University of Portsmouth
 author: Professor Gordon Watson
+categories: ['biology', 'environment']
 ---
 
 ::: {.img-float}

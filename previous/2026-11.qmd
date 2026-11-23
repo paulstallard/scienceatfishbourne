@@ -4,6 +4,7 @@ date: 2026-11-23
 authors:
   - name: Kevin Brown MBE FInstP
 author: Kevin Brown MBE FInstP
+categories: ['physics', 'medicine']
 ---
 
 ::: {.img-float}

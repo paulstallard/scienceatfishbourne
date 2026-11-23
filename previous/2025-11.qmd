@@ -5,6 +5,7 @@ date: 2025-11-24
 authors:
   - name: Dr Tony Mobbs
 author: Dr Tony Mobbs
+categories: ['computing', 'physics']
 ---
 
 ::: {.img-float}

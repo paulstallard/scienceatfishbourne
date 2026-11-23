@@ -4,6 +4,7 @@ date: 2026-01-26
 authors:
   - name: Robert Hornby
 author: Robert Hornby
+categories: ['health', 'medicine']
 ---
 
 ::: {.img-float}

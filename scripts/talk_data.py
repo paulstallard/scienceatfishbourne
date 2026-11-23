@@ -215,24 +215,28 @@ will give an overview of how drones are being used across a range of industrial 
         title="It's computing Jim, but not as we know it",
         subtitle="An introduction to Quantum Computing",
         overview="Quantum computing is a revolutionary approach to computation that harnesses the principles of quantum mechanics. Unlike classical computers, quantum computers utilise the phenomenon of quantum principles. This enables quantum computers to solve certain problems much faster than classical machines. Though still in early development, quantum computing holds promise for breakthroughs in many scientific disciplines and could potentially transforming industries and scientific research in profound ways.",
+        categories=["computing", "physics"],
     ),
     Talk(
         "2025-12-15",
         Author("Dr Tony Mobbs"),
         title="How Predicting the Future can be Difficult",
         subtitle="A Brief History of Computing",
+        categories="computing",
     ),
     Talk(
         "2026-01-26",
         Author("Robert Hornby"),
         title="The History and Science behind Dentistry",
         overview="The presentation will highlight how dentistry has evolved through the years to what it is today and include the science which makes our trips to the dentist less of a worry than years ago.",
+        categories=["health", "medicine"],
     ),
     Talk(
         "2026-02-23",
         Author("Dr Ian Goodall"),
         title="The Magic of the Electron Microscope",
         subtitle="How Cells Work",
+        categories=["biology", "chemistry"],
     ),
     Talk(
         "2026-03-23",
@@ -242,6 +246,7 @@ will give an overview of how drones are being used across a range of industrial 
         ),
         title="Prawns on Prozac, whatever next, Crabs on Cocaine",
         overview="Alex will discuss why we should be concerned about sewage discharges locally into the Solent and nationally. He will also spotlight through a community funded citizen science project, the variety of chemical contaminants in our coastal water. The presentation will include some of the known impacts of chemical contaminants on marine life and highlight the misinformation/disinformation campaigns run by the water industries.",
+        categories=["biology", "environment"],
     ),
     Talk(
         "2026-04-27",
@@ -249,6 +254,7 @@ will give an overview of how drones are being used across a range of industrial 
         title="Artificial Intelligence",
         subtitle="An overnight success 70 years in the making",
         overview="Artificial Intelligence is reshaping science, work and daily life, yet its roots stretch back more than 70 years. This talk traces that long history - from early symbolic systems to modern large language models - and explains how today's models learn and why they behave the way they do. Along the way we'll weigh the genuine opportunities - from new medicines to personalised education - against real concerns about jobs, bias, and environmental cost. Finally, we'll consider where AI might go from here, and where the challenges remain much harder than current headlines suggest.",
+        categories=["ai", "computing"],
     ),
     Talk(
         "2026-05-18",
@@ -258,12 +264,14 @@ will give an overview of how drones are being used across a range of industrial 
         overview="""One of the challenges experienced by fighter pilots is the high G forces caused by rapid combat manoeuvres. Opened in 1955, the Farnborough centrifuge was able to safely test human subjects under the effects of high G. For over 60 years, the centrifuge remained at the forefront of UK research and contributed to many world-leading technology advances.
 
 Sue Adcock, a former research scientist, centrifuge subject and pilot (150 hrs in fast jets), will cover a brief history and description of the Farnborough centrifuge, describe the effects of high G on the human body and outline various ways of providing G protection.""",
+        categories=["aviation", "health"],
     ),
     Talk(
         "2026-06-22",
         Author("Dr Indranil Banik", affiliation="Institute of Cosmology and Gravitation, University of Portsmouth"),
         title="Can a Cosmic Void Get Cosmology Out of its Hole?",
         overview="The standard cosmological model is facing a serious challenge. When observations of the infant Universe are combined with the physics of the Big Bang, the model predicts that the Universe today should be expanding at 67 km/s/Mpc. Yet direct observations of the nearby Universe consistently suggest a significantly faster rate of around 73 km/s/Mpc, implying a younger universe. This discrepancy, known as the Hubble crisis, has become one of the most important problems in modern cosmology.",
+        categories=["physics", "space"],
     ),
     Talk(
         "2026-07-27",
@@ -274,18 +282,21 @@ Sue Adcock, a former research scientist, centrifuge subject and pilot (150 hrs i
         title="Rewilding",
         subtitle="What is it, and how is it different to more traditional forms of nature conservation?",
         overview="Tony Whitbread runs rewilding safaris at Knepp Wildland. Tony's presentation will share his experience at Knepp to help illustrate what rewilding is in practice, giving clues on how understanding the principles of rewilding might help in nature conservation more generally",
+        categories="environment",
     ),
     Talk(
         "2026-08-24",
         Author("Dr Andrew Sutton"),
         title="On Measuring Pain",
         overview="This is a talk about two clinical trials of pain: one when a Laser beam was shone on the arms of volunteers and one that measured the moods of patients who had chronic arthritis of their knees. The trials found that moods like anxiety and anger have a large part to play and it is essential not to ignore them ... and yes, your liquid paracetamol really does work faster than a tablet.",
+        categories=["health", "medicine"],
     ),
     Talk(
         "2026-09-28",
         Author("Dr Tony Mobbs"),
         title="Science of the Ancients",
         overview="Science played a significant role in the development of early ancient civilisations and how engineering helped produce their temples and monuments. However recent discoveries have raised inconsistencies that challenge all we have learnt about ancient history",
+        categories=["history"],
     ),
     Talk(
         "2026-10-26",
@@ -296,6 +307,7 @@ Sue Adcock, a former research scientist, centrifuge subject and pilot (150 hrs i
         title="The Solent",
         subtitle="A 21st Century Coastline Mesocosm",
         overview="A **mesocosm** is a medium sized experimental tool or enclosed system that models a natural ecosystem under controlled conditions.",
+        categories=["biology", "environment"],
     ),
     Talk(
         "2026-11-23",
@@ -303,6 +315,7 @@ Sue Adcock, a former research scientist, centrifuge subject and pilot (150 hrs i
         title="The transformational development of X-ray imaging",
         overview="X-ray imaging is an enormous topic but Kevin has had the privilege to be exposed to some small steps in its development. He will talk about how X-ray imaging has developed from the blurry images that resulted in the discovery of X-rays to the high performance diagnostic imaging of today. The talk will also cover some of its applications.",
         review_text="Coming soon...",
+        categories=["physics", "medicine"],
     ),
     Talk(
         "2026-12-14",

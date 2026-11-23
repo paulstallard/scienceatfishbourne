@@ -5,6 +5,7 @@ date: 2026-02-23
 authors:
   - name: Dr Ian Goodall
 author: Dr Ian Goodall
+categories: ['biology', 'chemistry']
 ---
 
 ::: {.img-float}

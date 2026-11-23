@@ -5,6 +5,7 @@ authors:
   - name: Dr Indranil Banik
     affiliation: Institute of Cosmology and Gravitation, University of Portsmouth
 author: Dr Indranil Banik
+categories: ['physics', 'space']
 ---
 
 ::: {.img-float}
