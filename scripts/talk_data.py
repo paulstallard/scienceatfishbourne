@@ -319,8 +319,15 @@ Sue Adcock, a former research scientist, centrifuge subject and pilot (150 hrs i
     ),
     Talk(
         "2026-12-14",
-        Author("Speaker TBC"),
-        title="Details coming soon",
+        Author("Robert Hornby"),
+        title="Voyager 1 and Voyager 2 missions in the Solar System",
+        overview="""The Voyager missions are two of the most important space explorations in history.
+
+The Voyager program has done things no one predicted, found scenes no one expected and promises to outlive its inventors.
+
+Like a great painting or an abiding institution, the Voyager spacecraft have acquired an existence of their own, a destiny beyond the grasp of its handlers.
+
+What are they and where are they; all will be revealed.""",
         review_text="Coming soon...",
     ),
     Talk(
